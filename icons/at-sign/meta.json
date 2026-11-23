@@ -1,0 +1,7 @@
+{
+  "name": "at-sign",
+  "categories": ["accounts"],
+  "tags": ["at", "email", "mention", "handle", "username"],
+  "aliases": ["mention", "handle"],
+  "deprecated": false
+}

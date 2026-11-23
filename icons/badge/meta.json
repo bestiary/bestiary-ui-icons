@@ -1,0 +1,7 @@
+{
+  "name": "badge",
+  "categories": ["accounts"],
+  "tags": ["badge", "seal", "status", "label", "reward"],
+  "aliases": ["seal"],
+  "deprecated": false
+}

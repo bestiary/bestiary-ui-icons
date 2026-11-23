@@ -1,0 +1,15 @@
+{
+  "name": "user-round-x",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-x",
+    "ban-member",
+    "delete-profile"
+  ],
+  "aliases": [
+    "delete-profile"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "user-round-plus",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-plus",
+    "new-member",
+    "signup"
+  ],
+  "aliases": [
+    "new-member"
+  ],
+  "deprecated": false
+}

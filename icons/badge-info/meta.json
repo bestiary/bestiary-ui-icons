@@ -1,0 +1,7 @@
+{
+  "name": "badge-info",
+  "categories": ["accessibility"],
+  "tags": ["badge", "info", "information", "details", "notice"],
+  "aliases": ["info-badge"],
+  "deprecated": false
+}

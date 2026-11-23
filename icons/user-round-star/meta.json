@@ -1,0 +1,15 @@
+{
+  "name": "user-round-star",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-star",
+    "favorite-member",
+    "vip"
+  ],
+  "aliases": [
+    "vip-member"
+  ],
+  "deprecated": false
+}

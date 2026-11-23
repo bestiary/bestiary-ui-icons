@@ -1,0 +1,7 @@
+{
+  "name": "tag",
+  "categories": ["accounts"],
+  "tags": ["tag", "label", "badge", "category", "price"],
+  "aliases": ["label-tag", "price-tag"],
+  "deprecated": false
+}

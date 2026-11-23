@@ -1,0 +1,7 @@
+{
+  "name": "wrench",
+  "categories": ["accounts"],
+  "tags": ["wrench", "tools", "maintenance", "repair", "admin"],
+  "aliases": ["spanner", "repair-tool"],
+  "deprecated": false
+}

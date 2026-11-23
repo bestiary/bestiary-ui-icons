@@ -1,0 +1,17 @@
+{
+  "name": "user-plus",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-plus",
+    "add-user",
+    "invite",
+    "register"
+  ],
+  "aliases": [
+    "add-user",
+    "invite-user"
+  ],
+  "deprecated": false
+}

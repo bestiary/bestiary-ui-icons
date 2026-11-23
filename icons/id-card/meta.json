@@ -1,0 +1,7 @@
+{
+  "name": "id-card",
+  "categories": ["accounts"],
+  "tags": ["id-card", "identity", "license", "verification", "pass"],
+  "aliases": ["identity-card", "driver-license"],
+  "deprecated": false
+}

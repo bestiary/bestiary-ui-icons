@@ -1,0 +1,7 @@
+{
+  "name": "sliders-vertical",
+  "categories": ["accounts"],
+  "tags": ["sliders-vertical", "equalizer", "controls", "adjust", "levels"],
+  "aliases": ["vertical-sliders", "equalizer-sliders"],
+  "deprecated": false
+}

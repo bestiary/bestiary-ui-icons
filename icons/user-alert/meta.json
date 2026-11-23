@@ -1,0 +1,16 @@
+{
+  "name": "user-alert",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-alert",
+    "warning",
+    "account-alert",
+    "suspicious"
+  ],
+  "aliases": [
+    "account-alert"
+  ],
+  "deprecated": false
+}

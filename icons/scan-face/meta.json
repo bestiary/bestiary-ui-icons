@@ -1,0 +1,7 @@
+{
+  "name": "scan-face",
+  "categories": ["accounts"],
+  "tags": ["scan-face", "face-id", "facial-recognition", "biometric", "auth"],
+  "aliases": ["face-id", "facial-recognition"],
+  "deprecated": false
+}

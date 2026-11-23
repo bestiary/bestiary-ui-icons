@@ -1,0 +1,6 @@
+{
+  "name": "check-circle",
+  "categories": ["status"],
+  "tags": ["check", "circle", "success", "done", "verified"],
+  "aliases": ["success", "done", "verified"]
+}

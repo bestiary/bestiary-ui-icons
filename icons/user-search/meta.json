@@ -1,0 +1,15 @@
+{
+  "name": "user-search",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-search",
+    "find-user",
+    "lookup-account"
+  ],
+  "aliases": [
+    "find-user"
+  ],
+  "deprecated": false
+}

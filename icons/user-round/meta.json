@@ -1,0 +1,16 @@
+{
+  "name": "user-round",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round",
+    "portrait",
+    "profile",
+    "account"
+  ],
+  "aliases": [
+    "profile-round"
+  ],
+  "deprecated": false
+}

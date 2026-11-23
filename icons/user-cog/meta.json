@@ -1,0 +1,16 @@
+{
+  "name": "user-cog",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-cog",
+    "user-settings",
+    "account-config",
+    "preferences"
+  ],
+  "aliases": [
+    "user-settings"
+  ],
+  "deprecated": false
+}

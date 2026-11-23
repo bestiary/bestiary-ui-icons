@@ -1,0 +1,16 @@
+{
+  "name": "user-key",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-key",
+    "ssh-key",
+    "user-access",
+    "auth"
+  ],
+  "aliases": [
+    "user-access-key"
+  ],
+  "deprecated": false
+}

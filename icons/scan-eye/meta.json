@@ -1,0 +1,7 @@
+{
+  "name": "scan-eye",
+  "categories": ["accounts"],
+  "tags": ["scan-eye", "iris", "retina", "biometric", "auth"],
+  "aliases": ["iris-scan", "retina-scan"],
+  "deprecated": false
+}

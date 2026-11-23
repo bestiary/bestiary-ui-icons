@@ -1,0 +1,7 @@
+{
+  "name": "closed-caption",
+  "categories": ["accessibility"],
+  "tags": ["closed-caption", "cc", "subtitles", "hearing", "video"],
+  "aliases": ["cc"],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "user-x",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-x",
+    "delete-user",
+    "ban-user",
+    "reject"
+  ],
+  "aliases": [
+    "delete-user"
+  ],
+  "deprecated": false
+}

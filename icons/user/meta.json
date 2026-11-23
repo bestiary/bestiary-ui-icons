@@ -1,0 +1,6 @@
+{
+  "name": "user",
+  "categories": ["users"],
+  "tags": ["user", "person", "profile", "account", "avatar"],
+  "aliases": ["person", "profile", "account"]
+}

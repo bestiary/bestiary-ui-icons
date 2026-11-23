@@ -1,0 +1,7 @@
+{
+  "name": "eye-dashed",
+  "categories": ["accessibility"],
+  "tags": ["eye-dashed", "low-vision", "partial", "blur", "preview"],
+  "aliases": ["low-vision", "partial-view"],
+  "deprecated": false
+}

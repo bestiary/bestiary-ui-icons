@@ -1,0 +1,16 @@
+{
+  "name": "user-minus",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-minus",
+    "remove-user",
+    "unfollow",
+    "revoke"
+  ],
+  "aliases": [
+    "remove-user"
+  ],
+  "deprecated": false
+}

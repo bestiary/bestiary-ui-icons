@@ -1,0 +1,16 @@
+{
+  "name": "user-round-key",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-key",
+    "profile-key",
+    "passkey",
+    "auth"
+  ],
+  "aliases": [
+    "profile-key"
+  ],
+  "deprecated": false
+}

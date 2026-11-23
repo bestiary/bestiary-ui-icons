@@ -1,0 +1,7 @@
+{
+  "name": "info",
+  "categories": ["accessibility"],
+  "tags": ["info", "information", "details", "about", "help"],
+  "aliases": ["information", "about"],
+  "deprecated": false
+}

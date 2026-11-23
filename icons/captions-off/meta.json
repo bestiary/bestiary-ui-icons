@@ -1,0 +1,7 @@
+{
+  "name": "captions-off",
+  "categories": ["accessibility"],
+  "tags": ["captions-off", "subtitles-off", "disabled", "mute", "video"],
+  "aliases": ["subtitles-off", "no-captions"],
+  "deprecated": false
+}

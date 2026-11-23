@@ -1,0 +1,7 @@
+{
+  "name": "key-round",
+  "categories": ["accounts"],
+  "tags": ["key-round", "passkey", "credential", "token", "login"],
+  "aliases": ["passkey", "round-key"],
+  "deprecated": false
+}

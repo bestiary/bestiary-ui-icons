@@ -1,0 +1,7 @@
+{
+  "name": "shield-minus",
+  "categories": ["accounts"],
+  "tags": ["shield-minus", "remove-protection", "downgrade", "security"],
+  "aliases": ["remove-shield"],
+  "deprecated": false
+}

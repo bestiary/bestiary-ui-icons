@@ -1,0 +1,7 @@
+{
+  "name": "shield-off",
+  "categories": ["accounts"],
+  "tags": ["shield-off", "unprotected", "disabled", "insecure", "no-shield"],
+  "aliases": ["unprotected", "no-shield"],
+  "deprecated": false
+}

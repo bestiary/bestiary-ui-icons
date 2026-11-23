@@ -1,0 +1,7 @@
+{
+  "name": "contact",
+  "categories": ["accounts"],
+  "tags": ["contact", "card", "identity", "member", "vcard"],
+  "aliases": ["contact-card", "vcard"],
+  "deprecated": false
+}

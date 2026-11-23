@@ -1,0 +1,7 @@
+{
+  "name": "ban",
+  "categories": ["accounts"],
+  "tags": ["ban", "block", "prohibit", "forbidden", "restrict"],
+  "aliases": ["block", "prohibit"],
+  "deprecated": false
+}

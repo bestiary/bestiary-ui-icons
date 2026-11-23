@@ -1,0 +1,7 @@
+{
+  "name": "cog",
+  "categories": ["accounts"],
+  "tags": ["cog", "account-settings", "options", "mechanism", "control"],
+  "aliases": ["account-options"],
+  "deprecated": false
+}

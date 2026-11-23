@@ -1,0 +1,15 @@
+{
+  "name": "user-round-pen",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-pen",
+    "update-profile",
+    "edit"
+  ],
+  "aliases": [
+    "update-profile"
+  ],
+  "deprecated": false
+}

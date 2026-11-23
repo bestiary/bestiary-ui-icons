@@ -1,0 +1,7 @@
+{
+  "name": "flag-off",
+  "categories": ["accounts"],
+  "tags": ["flag-off", "unflag", "disabled", "no-flag"],
+  "aliases": ["unflag", "no-flag"],
+  "deprecated": false
+}

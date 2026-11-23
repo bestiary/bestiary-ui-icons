@@ -1,0 +1,15 @@
+{
+  "name": "user-round-shield",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-shield",
+    "protected-profile",
+    "admin"
+  ],
+  "aliases": [
+    "protected-profile"
+  ],
+  "deprecated": false
+}

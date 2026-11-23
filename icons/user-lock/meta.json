@@ -1,0 +1,16 @@
+{
+  "name": "user-lock",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-lock",
+    "locked-account",
+    "private-user",
+    "security"
+  ],
+  "aliases": [
+    "locked-account"
+  ],
+  "deprecated": false
+}

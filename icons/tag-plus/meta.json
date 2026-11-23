@@ -1,0 +1,7 @@
+{
+  "name": "tag-plus",
+  "categories": ["accounts"],
+  "tags": ["tag-plus", "add-tag", "new-label", "category"],
+  "aliases": ["add-tag", "new-label"],
+  "deprecated": false
+}

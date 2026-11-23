@@ -1,0 +1,7 @@
+{
+  "name": "cookie",
+  "categories": ["accounts"],
+  "tags": ["cookie", "privacy", "consent", "session", "tracking"],
+  "aliases": ["biscuit", "privacy-cookie"],
+  "deprecated": false
+}

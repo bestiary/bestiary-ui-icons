@@ -1,0 +1,7 @@
+{
+  "name": "award",
+  "categories": ["accounts"],
+  "tags": ["award", "medal", "achievement", "prize", "badge"],
+  "aliases": ["medal", "prize"],
+  "deprecated": false
+}

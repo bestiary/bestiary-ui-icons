@@ -1,0 +1,7 @@
+{
+  "name": "life-buoy",
+  "categories": ["accessibility"],
+  "tags": ["life-buoy", "support", "help", "rescue", "assistance"],
+  "aliases": ["lifebuoy", "rescue"],
+  "deprecated": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "search",
+  "categories": ["actions"],
+  "tags": ["search", "find", "magnifier", "lookup", "query"],
+  "aliases": ["magnifier", "find"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ticket",
+  "categories": ["accounts"],
+  "tags": ["ticket", "pass", "voucher", "support-ticket", "event"],
+  "aliases": ["voucher", "support-ticket"],
+  "deprecated": false
+}

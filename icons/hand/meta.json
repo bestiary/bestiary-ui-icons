@@ -1,0 +1,7 @@
+{
+  "name": "hand",
+  "categories": ["accessibility"],
+  "tags": ["hand", "palm", "stop", "gesture", "touch"],
+  "aliases": ["palm", "stop-hand"],
+  "deprecated": false
+}

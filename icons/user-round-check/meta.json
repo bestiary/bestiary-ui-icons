@@ -1,0 +1,15 @@
+{
+  "name": "user-round-check",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-check",
+    "verified-profile",
+    "approved"
+  ],
+  "aliases": [
+    "verified-profile"
+  ],
+  "deprecated": false
+}

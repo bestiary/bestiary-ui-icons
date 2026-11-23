@@ -1,0 +1,7 @@
+{
+  "name": "circle-user",
+  "categories": ["accounts"],
+  "tags": ["circle-user", "avatar", "profile", "account", "member"],
+  "aliases": ["avatar-circle", "user-badge"],
+  "deprecated": false
+}

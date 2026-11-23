@@ -1,0 +1,7 @@
+{
+  "name": "bell-ring",
+  "categories": ["accounts"],
+  "tags": ["bell-ring", "ringing", "notification", "alert", "active"],
+  "aliases": ["ringing-bell", "active-alert"],
+  "deprecated": false
+}

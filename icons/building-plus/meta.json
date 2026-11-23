@@ -1,0 +1,7 @@
+{
+  "name": "building-plus",
+  "categories": ["accounts"],
+  "tags": ["building-plus", "add-company", "new-organization", "office"],
+  "aliases": ["add-company", "new-organization"],
+  "deprecated": false
+}

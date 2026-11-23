@@ -1,0 +1,7 @@
+{
+  "name": "shield-x",
+  "categories": ["accounts"],
+  "tags": ["shield-x", "security-failed", "breach", "error", "deny"],
+  "aliases": ["security-error", "shield-fail"],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "user-round-clock",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-clock",
+    "pending-user",
+    "session",
+    "history"
+  ],
+  "aliases": [
+    "pending-user"
+  ],
+  "deprecated": false
+}

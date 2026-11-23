@@ -1,0 +1,7 @@
+{
+  "name": "contact-round",
+  "categories": ["accounts"],
+  "tags": ["contact-round", "card", "identity", "member", "portrait"],
+  "aliases": ["contact-portrait"],
+  "deprecated": false
+}

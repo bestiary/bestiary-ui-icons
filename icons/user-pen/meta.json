@@ -1,0 +1,16 @@
+{
+  "name": "user-pen",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-pen",
+    "edit-profile",
+    "edit-user",
+    "update"
+  ],
+  "aliases": [
+    "edit-profile"
+  ],
+  "deprecated": false
+}

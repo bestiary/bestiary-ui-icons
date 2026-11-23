@@ -1,0 +1,7 @@
+{
+  "name": "shield-lock",
+  "categories": ["accounts"],
+  "tags": ["shield-lock", "locked", "2fa", "mfa", "protected"],
+  "aliases": ["security-lock", "mfa-shield"],
+  "deprecated": false
+}

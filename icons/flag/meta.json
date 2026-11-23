@@ -1,0 +1,7 @@
+{
+  "name": "flag",
+  "categories": ["accounts"],
+  "tags": ["flag", "report", "milestone", "country", "feature-flag"],
+  "aliases": ["report-flag", "banner-flag"],
+  "deprecated": false
+}

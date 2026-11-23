@@ -1,0 +1,7 @@
+{
+  "name": "bookmark-plus",
+  "categories": ["accounts"],
+  "tags": ["bookmark-plus", "add-bookmark", "save", "favorite"],
+  "aliases": ["add-bookmark"],
+  "deprecated": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "log-in",
+  "categories": ["accounts"],
+  "tags": ["log-in", "sign-in", "enter", "auth", "login"],
+  "aliases": ["sign-in", "login"],
+  "deprecated": false
+}

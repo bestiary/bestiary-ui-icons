@@ -1,0 +1,7 @@
+{
+  "name": "circle-question-mark",
+  "categories": ["accessibility"],
+  "tags": ["question", "help", "circle", "support", "faq"],
+  "aliases": ["help-circle", "question-circle"],
+  "deprecated": false
+}

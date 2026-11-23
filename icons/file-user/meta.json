@@ -1,0 +1,7 @@
+{
+  "name": "file-user",
+  "categories": ["accounts"],
+  "tags": ["file-user", "resume", "cv", "profile-doc", "document"],
+  "aliases": ["resume", "cv-file"],
+  "deprecated": false
+}

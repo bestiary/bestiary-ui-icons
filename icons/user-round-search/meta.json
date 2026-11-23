@@ -1,0 +1,15 @@
+{
+  "name": "user-round-search",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-search",
+    "find-member",
+    "lookup"
+  ],
+  "aliases": [
+    "find-member"
+  ],
+  "deprecated": false
+}

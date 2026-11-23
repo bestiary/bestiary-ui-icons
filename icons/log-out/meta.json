@@ -1,0 +1,7 @@
+{
+  "name": "log-out",
+  "categories": ["accounts"],
+  "tags": ["log-out", "sign-out", "exit", "leave", "logout"],
+  "aliases": ["sign-out", "logout"],
+  "deprecated": false
+}

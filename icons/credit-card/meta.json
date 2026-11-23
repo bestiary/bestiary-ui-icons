@@ -1,0 +1,7 @@
+{
+  "name": "credit-card",
+  "categories": ["accounts"],
+  "tags": ["credit-card", "payment", "billing", "card", "subscription"],
+  "aliases": ["payment-card", "debit-card"],
+  "deprecated": false
+}

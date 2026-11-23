@@ -1,0 +1,7 @@
+{
+  "name": "id-card-lanyard",
+  "categories": ["accounts"],
+  "tags": ["id-card-lanyard", "badge-pass", "staff", "conference", "visitor"],
+  "aliases": ["lanyard", "staff-pass"],
+  "deprecated": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shield-half",
+  "categories": ["accounts"],
+  "tags": ["shield-half", "partial-protection", "moderate-security", "guard"],
+  "aliases": ["partial-shield"],
+  "deprecated": false
+}

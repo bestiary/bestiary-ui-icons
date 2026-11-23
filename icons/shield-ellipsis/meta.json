@@ -1,0 +1,7 @@
+{
+  "name": "shield-ellipsis",
+  "categories": ["accounts"],
+  "tags": ["shield-ellipsis", "pending", "scanning", "security-check"],
+  "aliases": ["shield-pending", "security-scanning"],
+  "deprecated": false
+}

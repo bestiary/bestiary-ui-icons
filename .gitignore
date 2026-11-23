@@ -1,0 +1,9 @@
+node_modules
+dist
+.turbo
+*.tsbuildinfo
+packages/*/src/generated
+packages/icons-static/icons
+packages/icons-static/sprite.svg
+.DS_Store
+Thumbs.db

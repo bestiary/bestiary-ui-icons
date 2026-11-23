@@ -1,0 +1,7 @@
+{
+  "name": "activity",
+  "categories": ["accounts"],
+  "tags": ["activity", "pulse", "status", "health", "analytics"],
+  "aliases": ["pulse", "heartbeat"],
+  "deprecated": false
+}

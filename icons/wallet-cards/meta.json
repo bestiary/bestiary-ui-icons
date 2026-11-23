@@ -1,0 +1,7 @@
+{
+  "name": "wallet-cards",
+  "categories": ["accounts"],
+  "tags": ["wallet-cards", "payment-methods", "cards", "billing"],
+  "aliases": ["payment-methods", "card-wallet"],
+  "deprecated": false
+}

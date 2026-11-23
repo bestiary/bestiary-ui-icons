@@ -1,0 +1,7 @@
+{
+  "name": "settings-2",
+  "categories": ["accounts"],
+  "tags": ["settings-2", "hex-nut", "config", "preferences", "system"],
+  "aliases": ["hex-settings", "account-config"],
+  "deprecated": false
+}

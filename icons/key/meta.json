@@ -1,0 +1,7 @@
+{
+  "name": "key",
+  "categories": ["accounts"],
+  "tags": ["key", "password", "auth", "access", "security"],
+  "aliases": ["password-key", "access-key"],
+  "deprecated": false
+}

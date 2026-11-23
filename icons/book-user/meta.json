@@ -1,0 +1,7 @@
+{
+  "name": "book-user",
+  "categories": ["accounts"],
+  "tags": ["book-user", "contacts", "address-book", "directory", "member"],
+  "aliases": ["address-book", "contacts-book"],
+  "deprecated": false
+}

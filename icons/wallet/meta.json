@@ -1,0 +1,7 @@
+{
+  "name": "wallet",
+  "categories": ["accounts"],
+  "tags": ["wallet", "balance", "funds", "billing", "money"],
+  "aliases": ["digital-wallet", "balance"],
+  "deprecated": false
+}

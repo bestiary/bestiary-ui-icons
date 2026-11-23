@@ -1,0 +1,7 @@
+{
+  "name": "shield-alert",
+  "categories": ["accounts"],
+  "tags": ["shield-alert", "security-warning", "threat", "alert"],
+  "aliases": ["security-warning"],
+  "deprecated": false
+}

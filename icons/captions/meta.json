@@ -1,0 +1,7 @@
+{
+  "name": "captions",
+  "categories": ["accessibility"],
+  "tags": ["captions", "subtitles", "transcript", "video", "media"],
+  "aliases": ["subtitles"],
+  "deprecated": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bookmark",
+  "categories": ["accounts"],
+  "tags": ["bookmark", "save", "favorite", "reading-list", "tag"],
+  "aliases": ["save-bookmark"],
+  "deprecated": false
+}

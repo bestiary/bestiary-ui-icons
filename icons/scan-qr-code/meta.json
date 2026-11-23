@@ -1,0 +1,7 @@
+{
+  "name": "scan-qr-code",
+  "categories": ["accounts"],
+  "tags": ["scan-qr-code", "qr", "barcode", "2fa", "authenticator"],
+  "aliases": ["qr-scan", "qr-code"],
+  "deprecated": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "trash",
+  "categories": ["actions"],
+  "tags": ["trash", "delete", "remove", "bin", "garbage"],
+  "aliases": ["delete", "bin", "remove"]
+}

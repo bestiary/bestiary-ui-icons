@@ -1,0 +1,7 @@
+{
+  "name": "person-standing",
+  "categories": ["accessibility"],
+  "tags": ["person", "standing", "human", "body", "figure"],
+  "aliases": ["standing-person", "human-figure"],
+  "deprecated": false
+}

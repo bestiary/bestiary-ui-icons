@@ -1,0 +1,7 @@
+{
+  "name": "shield-cog",
+  "categories": ["accounts"],
+  "tags": ["shield-cog", "security-settings", "admin", "policy", "config"],
+  "aliases": ["security-settings", "shield-settings"],
+  "deprecated": false
+}

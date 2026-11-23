@@ -1,0 +1,7 @@
+{
+  "name": "shield-user",
+  "categories": ["accounts"],
+  "tags": ["shield-user", "admin", "account-protection", "moderator", "security"],
+  "aliases": ["admin-shield", "moderator"],
+  "deprecated": false
+}

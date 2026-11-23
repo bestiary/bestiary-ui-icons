@@ -1,0 +1,7 @@
+{
+  "name": "speech",
+  "categories": ["accessibility"],
+  "tags": ["speech", "voice", "talk", "text-to-speech", "tts"],
+  "aliases": ["text-to-speech", "tts"],
+  "deprecated": false
+}

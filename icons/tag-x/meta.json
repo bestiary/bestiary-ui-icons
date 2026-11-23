@@ -1,0 +1,7 @@
+{
+  "name": "tag-x",
+  "categories": ["accounts"],
+  "tags": ["tag-x", "remove-tag", "delete-label", "clear"],
+  "aliases": ["remove-tag", "delete-label"],
+  "deprecated": false
+}

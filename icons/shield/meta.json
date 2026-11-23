@@ -1,0 +1,7 @@
+{
+  "name": "shield",
+  "categories": ["accounts"],
+  "tags": ["shield", "security", "protection", "guard", "privacy"],
+  "aliases": ["security-shield", "protect"],
+  "deprecated": false
+}

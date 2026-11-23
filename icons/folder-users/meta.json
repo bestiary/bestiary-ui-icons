@@ -1,0 +1,7 @@
+{
+  "name": "folder-users",
+  "categories": ["accounts"],
+  "tags": ["folder-users", "shared-folder", "team-directory", "group"],
+  "aliases": ["shared-folder", "team-folder"],
+  "deprecated": false
+}

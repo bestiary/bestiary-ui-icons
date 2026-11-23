@@ -1,0 +1,7 @@
+{
+  "name": "users",
+  "categories": ["accounts"],
+  "tags": ["users", "team", "group", "members", "community"],
+  "aliases": ["team-members", "user-group"],
+  "deprecated": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shield-ban",
+  "categories": ["accounts"],
+  "tags": ["shield-ban", "blocked", "firewall", "deny", "security"],
+  "aliases": ["shield-block", "firewall-block"],
+  "deprecated": false
+}

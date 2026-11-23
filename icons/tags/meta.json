@@ -1,0 +1,7 @@
+{
+  "name": "tags",
+  "categories": ["accounts"],
+  "tags": ["tags", "labels", "categories", "multiple", "keywords"],
+  "aliases": ["labels", "tag-group"],
+  "deprecated": false
+}

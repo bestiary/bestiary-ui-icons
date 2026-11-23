@@ -1,0 +1,7 @@
+{
+  "name": "zoom-out",
+  "categories": ["accessibility"],
+  "tags": ["zoom-out", "shrink", "reduce", "scale-down", "minus"],
+  "aliases": ["shrink", "scale-down"],
+  "deprecated": false
+}

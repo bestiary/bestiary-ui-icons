@@ -1,0 +1,7 @@
+{
+  "name": "building",
+  "categories": ["accounts"],
+  "tags": ["building", "company", "organization", "office", "enterprise"],
+  "aliases": ["company", "organization"],
+  "deprecated": false
+}

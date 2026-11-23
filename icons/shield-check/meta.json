@@ -1,0 +1,7 @@
+{
+  "name": "shield-check",
+  "categories": ["accounts"],
+  "tags": ["shield-check", "verified", "secure", "trusted", "protected"],
+  "aliases": ["security-verified", "shield-ok"],
+  "deprecated": false
+}

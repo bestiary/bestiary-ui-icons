@@ -1,0 +1,7 @@
+{
+  "name": "eye",
+  "categories": ["accessibility"],
+  "tags": ["eye", "view", "visible", "show", "vision"],
+  "aliases": ["visible", "show"],
+  "deprecated": false
+}

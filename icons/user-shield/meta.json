@@ -1,0 +1,15 @@
+{
+  "name": "user-shield",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-shield",
+    "role-admin",
+    "protected-user"
+  ],
+  "aliases": [
+    "protected-user"
+  ],
+  "deprecated": false
+}

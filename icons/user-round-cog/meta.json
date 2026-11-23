@@ -1,0 +1,15 @@
+{
+  "name": "user-round-cog",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-cog",
+    "profile-settings",
+    "preferences"
+  ],
+  "aliases": [
+    "profile-settings"
+  ],
+  "deprecated": false
+}

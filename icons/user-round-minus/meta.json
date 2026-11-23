@@ -1,0 +1,15 @@
+{
+  "name": "user-round-minus",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-minus",
+    "remove-member",
+    "unfollow"
+  ],
+  "aliases": [
+    "remove-member"
+  ],
+  "deprecated": false
+}

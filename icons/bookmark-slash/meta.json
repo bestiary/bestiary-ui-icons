@@ -1,0 +1,7 @@
+{
+  "name": "bookmark-slash",
+  "categories": ["accounts"],
+  "tags": ["bookmark-slash", "unbookmark", "disabled", "no-bookmark"],
+  "aliases": ["no-bookmark"],
+  "deprecated": false
+}

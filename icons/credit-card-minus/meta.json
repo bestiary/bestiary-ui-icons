@@ -1,0 +1,7 @@
+{
+  "name": "credit-card-minus",
+  "categories": ["accounts"],
+  "tags": ["credit-card-minus", "remove-card", "billing", "payment"],
+  "aliases": ["remove-card"],
+  "deprecated": false
+}

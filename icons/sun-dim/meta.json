@@ -1,0 +1,7 @@
+{
+  "name": "sun-dim",
+  "categories": ["accessibility"],
+  "tags": ["sun-dim", "brightness-low", "dim", "low-light", "screen"],
+  "aliases": ["brightness-low", "dim-light"],
+  "deprecated": false
+}

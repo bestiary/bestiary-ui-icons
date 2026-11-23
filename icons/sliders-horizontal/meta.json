@@ -1,0 +1,7 @@
+{
+  "name": "sliders-horizontal",
+  "categories": ["accounts"],
+  "tags": ["sliders-horizontal", "controls", "adjust", "filters", "preferences"],
+  "aliases": ["horizontal-sliders", "tune-horizontal"],
+  "deprecated": false
+}

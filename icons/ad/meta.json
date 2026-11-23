@@ -1,0 +1,7 @@
+{
+  "name": "ad",
+  "categories": ["accessibility"],
+  "tags": ["audio-description", "ad", "narration", "media", "screen-reader"],
+  "aliases": ["audio-description"],
+  "deprecated": false
+}

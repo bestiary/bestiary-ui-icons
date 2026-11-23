@@ -1,0 +1,7 @@
+{
+  "name": "glasses",
+  "categories": ["accessibility"],
+  "tags": ["glasses", "eyewear", "vision", "reading", "spectacles"],
+  "aliases": ["eyeglasses", "spectacles"],
+  "deprecated": false
+}

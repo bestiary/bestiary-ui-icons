@@ -1,0 +1,15 @@
+{
+  "name": "user-round-alert",
+  "categories": [
+    "accounts"
+  ],
+  "tags": [
+    "user-round-alert",
+    "profile-alert",
+    "warning"
+  ],
+  "aliases": [
+    "profile-alert"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "settings",
+  "categories": ["system"],
+  "tags": ["settings", "gear", "cog", "preferences", "config"],
+  "aliases": ["gear", "preferences"]
+}
