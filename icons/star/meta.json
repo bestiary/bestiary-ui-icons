@@ -1,0 +1,14 @@
+{
+  "name": "star",
+  "categories": [
+    "social",
+    "shapes",
+    "emoji",
+    "gaming"
+  ],
+  "tags": [
+    "$group:star"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

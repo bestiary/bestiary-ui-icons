@@ -1,0 +1,12 @@
+{
+  "name": "door-closed-locked",
+  "categories": [
+    "$extends:door-closed"
+  ],
+  "tags": [
+    "$extends:door-closed",
+    "$group:lock"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

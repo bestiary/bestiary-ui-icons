@@ -1,7 +1,7 @@
 {
   "name": "moon",
-  "categories": ["accessibility"],
-  "tags": ["moon", "night", "dark", "sleep", "theme"],
+  "categories": ["accessibility", "weather"],
+  "tags": ["dark", "night"],
   "aliases": ["night", "dark"],
   "deprecated": false
 }

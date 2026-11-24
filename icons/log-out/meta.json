@@ -1,7 +1,19 @@
 {
   "name": "log-out",
-  "categories": ["accounts"],
-  "tags": ["log-out", "sign-out", "exit", "leave", "logout"],
-  "aliases": ["sign-out", "logout"],
+  "categories": [
+    "arrows",
+    "account"
+  ],
+  "tags": [
+    "sign out",
+    "arrow",
+    "exit",
+    "auth",
+    "quit"
+  ],
+  "aliases": [
+    "sign-out",
+    "exit-account"
+  ],
   "deprecated": false
 }

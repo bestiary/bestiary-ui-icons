@@ -1,7 +1,7 @@
 {
   "name": "cookie",
-  "categories": ["accounts"],
-  "tags": ["cookie", "privacy", "consent", "session", "tracking"],
-  "aliases": ["biscuit", "privacy-cookie"],
+  "categories": ["account", "food-beverage"],
+  "tags": ["biscuit", "snack", "dessert", "food", "sweet", "bakery", "consent", "privacy", "legal", "tracking", "browser", "website"],
+  "aliases": ["privacy-cookie"],
   "deprecated": false
 }

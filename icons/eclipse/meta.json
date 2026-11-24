@@ -1,7 +1,7 @@
 {
   "name": "eclipse",
-  "categories": ["accessibility"],
-  "tags": ["eclipse", "dark-mode", "crescent", "dim", "theme"],
+  "categories": ["science", "design", "accessibility"],
+  "tags": ["lunar", "solar", "crescent moon", "sun", "earth", "day", "night", "planet", "space", "mode", "dark", "light", "contrast", "brightness"],
   "aliases": ["crescent", "solar-eclipse"],
   "deprecated": false
 }

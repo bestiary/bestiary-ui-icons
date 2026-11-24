@@ -1,0 +1,17 @@
+{
+  "name": "pen-off",
+  "categories": [
+    "text",
+    "design",
+    "tools"
+  ],
+  "tags": [
+    "pen",
+    "off",
+    "read-only",
+    "locked",
+    "non-editable"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

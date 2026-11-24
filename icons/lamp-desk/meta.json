@@ -1,0 +1,13 @@
+{
+  "name": "lamp-desk",
+  "categories": [
+    "$extends:lamp"
+  ],
+  "tags": [
+    "$extends:lamp",
+    "office",
+    "desk"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

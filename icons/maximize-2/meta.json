@@ -1,0 +1,18 @@
+{
+  "name": "maximize-2",
+  "categories": [
+    "layout",
+    "arrows"
+  ],
+  "tags": [
+    "maximize",
+    "fullscreen",
+    "expand",
+    "scale"
+  ],
+  "aliases": [
+    "fullscreen-diagonal",
+    "diagonal-expand"
+  ],
+  "deprecated": false
+}

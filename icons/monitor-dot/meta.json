@@ -1,0 +1,13 @@
+{
+  "name": "monitor-dot",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:dot",
+    "running"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

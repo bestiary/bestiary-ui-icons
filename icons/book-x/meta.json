@@ -1,0 +1,34 @@
+{
+  "name": "book-x",
+  "categories": [
+    "text",
+    "gaming"
+  ],
+  "tags": [
+    "$extends:book",
+    "$group:x",
+    "code",
+    "coding",
+    "version control",
+    "git",
+    "repository",
+    "misinformation",
+    "disinformation",
+    "misinformed",
+    "charlatan",
+    "sophistry",
+    "false",
+    "lies",
+    "untruth",
+    "propaganda",
+    "censored",
+    "forbidden",
+    "prohibited",
+    "banned",
+    "uneducated",
+    "re-education",
+    "unlearn"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

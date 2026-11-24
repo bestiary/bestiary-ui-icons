@@ -1,0 +1,24 @@
+{
+  "name": "square-arrow-right-exit",
+  "categories": [
+    "arrows",
+    "account",
+    "development"
+  ],
+  "tags": [
+    "sign out",
+    "log out",
+    "logout",
+    "auth",
+    "data flow",
+    "node editor",
+    "panel",
+    "cell",
+    "outbound"
+  ],
+  "aliases": [
+    "exit-square",
+    "square-sign-out"
+  ],
+  "deprecated": false
+}

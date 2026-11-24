@@ -1,0 +1,16 @@
+{
+  "name": "list-sort-descending",
+  "categories": [
+    "$extends:list",
+    "layout"
+  ],
+  "tags": [
+    "$group:sort",
+    "list",
+    "organization",
+    "categories",
+    "presentation"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

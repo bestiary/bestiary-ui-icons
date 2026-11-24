@@ -1,0 +1,16 @@
+{
+  "name": "line-style",
+  "categories": [
+    "design"
+  ],
+  "tags": [
+    "line",
+    "style",
+    "dashed",
+    "dotted",
+    "border",
+    "stroke"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

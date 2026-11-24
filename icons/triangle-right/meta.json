@@ -1,0 +1,22 @@
+{
+  "name": "triangle-right",
+  "categories": [
+    "$extends:triangle",
+    "math"
+  ],
+  "tags": [
+    "$group:direction-right",
+    "volume",
+    "controls",
+    "controller",
+    "tv remote",
+    "geometry",
+    "delta",
+    "ramp",
+    "slope",
+    "incline",
+    "increase"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

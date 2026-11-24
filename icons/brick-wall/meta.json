@@ -1,0 +1,22 @@
+{
+  "name": "brick-wall",
+  "categories": [
+    "buildings",
+    "home"
+  ],
+  "tags": [
+    "bricks",
+    "mortar",
+    "cement",
+    "materials",
+    "construction",
+    "builder",
+    "blocks",
+    "stone"
+  ],
+  "aliases": [
+    "masonry",
+    "brickwork"
+  ],
+  "deprecated": false
+}

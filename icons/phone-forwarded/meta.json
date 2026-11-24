@@ -1,0 +1,17 @@
+{
+  "name": "phone-forwarded",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "phone",
+    "call",
+    "forward",
+    "redirect",
+    "transfer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

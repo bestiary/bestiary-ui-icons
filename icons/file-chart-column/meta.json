@@ -1,0 +1,19 @@
+{
+  "name": "file-chart-column",
+  "categories": [
+    "files",
+    "charts"
+  ],
+  "tags": [
+    "file",
+    "chart",
+    "column",
+    "report",
+    "analytics"
+  ],
+  "aliases": [
+    "report-columns",
+    "document-bar-chart"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "chart-bar-increasing",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "categorical",
+    "comparison",
+    "trending up"
+  ],
+  "aliases": [
+    "bar-chart-asc",
+    "increasing-bars"
+  ],
+  "deprecated": false
+}

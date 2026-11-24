@@ -1,0 +1,17 @@
+{
+  "name": "chart-no-axes-column",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "categorical",
+    "comparison",
+    "column"
+  ],
+  "aliases": [
+    "bars-no-axes",
+    "signal-bars"
+  ],
+  "deprecated": false
+}

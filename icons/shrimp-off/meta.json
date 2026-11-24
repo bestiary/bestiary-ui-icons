@@ -1,0 +1,22 @@
+{
+  "name": "shrimp-off",
+  "categories": [
+    "animals",
+    "food-beverage"
+  ],
+  "tags": [
+    "seafood",
+    "shellfish",
+    "crustacean",
+    "prawn",
+    "allergy",
+    "intolerance",
+    "diet",
+    "off"
+  ],
+  "aliases": [
+    "no-shrimp",
+    "shellfish-allergy"
+  ],
+  "deprecated": false
+}

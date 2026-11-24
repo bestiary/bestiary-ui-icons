@@ -1,0 +1,26 @@
+{
+  "name": "file-music",
+  "categories": [
+    "$extends:file",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:file",
+    "audio",
+    "sound",
+    "noise",
+    "track",
+    "digital",
+    "recording",
+    "playback",
+    "piano",
+    "keyboard",
+    "keys",
+    "notes",
+    "chord",
+    "midi",
+    "octave"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "calendar-arrow-left",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:direction-left",
+    "$group:navigation-previous",
+    "arrow",
+    "previous",
+    "past",
+    "earlier",
+    "reschedule",
+    "postpone",
+    "schedule",
+    "timeline",
+    "date picker"
+  ],
+  "aliases": []
+}

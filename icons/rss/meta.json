@@ -1,0 +1,17 @@
+{
+  "name": "rss",
+  "categories": [
+    "development",
+    "social"
+  ],
+  "tags": [
+    "feed",
+    "subscribe",
+    "news",
+    "updates",
+    "rss",
+    "blog"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

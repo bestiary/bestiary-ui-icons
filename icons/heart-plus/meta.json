@@ -1,0 +1,12 @@
+{
+  "name": "heart-plus",
+  "categories": [
+    "social"
+  ],
+  "tags": [
+    "$group:heart",
+    "$group:plus",
+    "support"
+  ],
+  "aliases": []
+}

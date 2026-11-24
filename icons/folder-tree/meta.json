@@ -1,0 +1,13 @@
+{
+  "name": "folder-tree",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "tree",
+    "browser"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "search-x",
+  "categories": [
+    "$extends:search"
+  ],
+  "tags": [
+    "$extends:search",
+    "$group:x",
+    "stop",
+    "404",
+    "not found",
+    "page not found"
+  ],
+  "aliases": []
+}

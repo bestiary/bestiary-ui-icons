@@ -1,0 +1,16 @@
+{
+  "name": "circle-euro",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "symbol",
+    "europe",
+    "€",
+    "euro",
+    "coin"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

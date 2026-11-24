@@ -1,0 +1,17 @@
+{
+  "name": "book-search",
+  "categories": [
+    "text",
+    "development",
+    "education"
+  ],
+  "tags": [
+    "book",
+    "search",
+    "find",
+    "lookup",
+    "research"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

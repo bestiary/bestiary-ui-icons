@@ -1,0 +1,17 @@
+{
+  "name": "briefcase-conveyor-belt",
+  "categories": [
+    "$extends:briefcase",
+    "logistics"
+  ],
+  "tags": [
+    "baggage",
+    "luggage",
+    "travel",
+    "suitcase",
+    "conveyor",
+    "carousel"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

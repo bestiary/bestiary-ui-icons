@@ -1,0 +1,25 @@
+{
+  "name": "bug",
+  "categories": [
+    "development",
+    "animals"
+  ],
+  "tags": [
+    "issue",
+    "error",
+    "defect",
+    "testing",
+    "troubleshoot",
+    "problem",
+    "report",
+    "debug",
+    "code",
+    "insect",
+    "beetle"
+  ],
+  "aliases": [
+    "insect",
+    "debug-bug"
+  ],
+  "deprecated": false
+}

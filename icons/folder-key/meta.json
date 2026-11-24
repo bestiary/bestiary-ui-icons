@@ -1,0 +1,13 @@
+{
+  "name": "folder-key",
+  "categories": [
+    "$extends:folder",
+    "security"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:key"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

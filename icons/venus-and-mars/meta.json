@@ -1,0 +1,15 @@
+{
+  "name": "venus-and-mars",
+  "categories": [
+    "$extends:venus"
+  ],
+  "tags": [
+    "gender",
+    "sex",
+    "intersex",
+    "androgynous",
+    "hermaphrodite"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M 14.8 8.4 A 4.5 4.5 0 1 0 15.6 15.6 A 3.5 3.5 0 0 1 14.8 8.4 Z" />
-  <line x1="12" y1="3" x2="12" y2="5" />
-  <line x1="12" y1="19" x2="12" y2="21" />
-  <line x1="3" y1="12" x2="5" y2="12" />
-  <line x1="5.64" y1="5.64" x2="7.05" y2="7.05" />
-  <line x1="5.64" y1="18.36" x2="7.05" y2="16.95" />
+  <path d="M 14.5 16.5 A 6 6 0 1 1 7.5 9.5 A 4.2 4.2 0 0 0 14.5 16.5 Z" />
+  <path d="M 16 12 A 4 4 0 0 0 12 8" />
+  <line x1="12" y1="2.5" x2="12" y2="4.5" />
+  <line x1="19" y1="5" x2="17.5" y2="6.5" />
+  <line x1="20" y1="12" x2="21.5" y2="12" />
 </svg>

@@ -1,7 +1,7 @@
 {
   "name": "credit-card-minus",
-  "categories": ["accounts"],
-  "tags": ["credit-card-minus", "remove-card", "billing", "payment"],
+  "categories": ["account", "finance", "shopping"],
+  "tags": ["debit", "unlink", "revoke", "decline", "canceled", "banking", "finance", "wallet", "transaction", "billing", "account", "checkout"],
   "aliases": ["remove-card"],
   "deprecated": false
 }

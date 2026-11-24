@@ -1,0 +1,19 @@
+{
+  "name": "cable",
+  "categories": [
+    "connectivity",
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "cord",
+    "wire",
+    "connector",
+    "connection",
+    "link",
+    "usb",
+    "plug"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

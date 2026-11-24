@@ -1,0 +1,20 @@
+{
+  "name": "sigma",
+  "categories": [
+    "letters-digits",
+    "text",
+    "math",
+    "science"
+  ],
+  "tags": [
+    "$group:letter",
+    "sum",
+    "calculate",
+    "formula",
+    "math",
+    "enumeration",
+    "enumerate"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

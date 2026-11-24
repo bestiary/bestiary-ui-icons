@@ -1,0 +1,14 @@
+{
+  "name": "forward",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "send",
+    "share",
+    "email",
+    "redirect"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

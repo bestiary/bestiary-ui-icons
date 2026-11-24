@@ -1,0 +1,20 @@
+{
+  "name": "columns-3",
+  "categories": [
+    "layout",
+    "design",
+    "text"
+  ],
+  "tags": [
+    "columns",
+    "split",
+    "panel",
+    "thirds",
+    "triple",
+    "layout"
+  ],
+  "aliases": [
+    "panels-left-right"
+  ],
+  "deprecated": false
+}

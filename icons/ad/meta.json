@@ -1,7 +1,7 @@
 {
   "name": "ad",
-  "categories": ["accessibility"],
-  "tags": ["audio-description", "ad", "narration", "media", "screen-reader"],
+  "categories": ["multimedia", "accessibility"],
+  "tags": ["advert", "affiliate", "brand", "campaign", "commercial", "marketing", "monetize", "paid", "partner", "promo", "sponsor", "audio description", "video description"],
   "aliases": ["audio-description"],
   "deprecated": false
 }

@@ -1,0 +1,7 @@
+{
+  "name": "bell-check",
+  "categories": ["account", "notifications"],
+  "tags": ["alarm", "notification", "sound", "reminder", "check", "verified"],
+  "aliases": ["notification-read", "bell-verified"],
+  "deprecated": false
+}

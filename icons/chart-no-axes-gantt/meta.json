@@ -1,0 +1,23 @@
+{
+  "name": "chart-no-axes-gantt",
+  "categories": [
+    "charts",
+    "time",
+    "development"
+  ],
+  "tags": [
+    "chart",
+    "timeline",
+    "planning",
+    "projects",
+    "roadmap",
+    "intentions",
+    "code",
+    "coding"
+  ],
+  "aliases": [
+    "gantt-clean",
+    "timeline-bars"
+  ],
+  "deprecated": false
+}

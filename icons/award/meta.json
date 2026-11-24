@@ -1,7 +1,22 @@
 {
   "name": "award",
-  "categories": ["accounts"],
-  "tags": ["award", "medal", "achievement", "prize", "badge"],
-  "aliases": ["medal", "prize"],
+  "categories": [
+    "account",
+    "sports",
+    "gaming"
+  ],
+  "tags": [
+    "achievement",
+    "badge",
+    "rosette",
+    "prize",
+    "winner",
+    "skill",
+    "skills",
+    "expertise"
+  ],
+  "aliases": [
+    "prize"
+  ],
   "deprecated": false
 }

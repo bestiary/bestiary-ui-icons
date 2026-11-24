@@ -1,0 +1,19 @@
+{
+  "name": "square-minus",
+  "categories": [
+    "math",
+    "development",
+    "text"
+  ],
+  "tags": [
+    "minus",
+    "decrease",
+    "calculator",
+    "button",
+    "square"
+  ],
+  "aliases": [
+    "minus-square"
+  ],
+  "deprecated": false
+}

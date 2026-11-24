@@ -1,0 +1,13 @@
+{
+  "name": "laptop",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "computer",
+    "screen",
+    "remote"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

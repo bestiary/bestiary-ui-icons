@@ -1,0 +1,19 @@
+{
+  "name": "message-square-check",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "moderate",
+    "check",
+    "verified"
+  ],
+  "aliases": [
+    "comment-verified",
+    "approved-feedback"
+  ],
+  "deprecated": false
+}

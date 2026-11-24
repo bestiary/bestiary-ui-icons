@@ -1,0 +1,11 @@
+{
+  "name": "dollar-sign",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

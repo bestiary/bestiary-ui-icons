@@ -1,0 +1,22 @@
+{
+  "name": "gauge",
+  "categories": [
+    "transportation",
+    "science",
+    "charts"
+  ],
+  "tags": [
+    "dashboard",
+    "dial",
+    "meter",
+    "speed",
+    "pressure",
+    "measure",
+    "level"
+  ],
+  "aliases": [
+    "speedometer",
+    "dashboard-dial"
+  ],
+  "deprecated": false
+}

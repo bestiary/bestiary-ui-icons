@@ -1,0 +1,13 @@
+{
+  "name": "save-all",
+  "categories": [
+    "$extends:save"
+  ],
+  "tags": [
+    "$extends:save",
+    "floppy disks",
+    "copy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

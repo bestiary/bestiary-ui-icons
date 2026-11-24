@@ -1,0 +1,17 @@
+{
+  "name": "carton-off",
+  "categories": [
+    "$extends:carton"
+  ],
+  "tags": [
+    "$extends:carton",
+    "$group:off",
+    "lactose free",
+    "non dairy",
+    "allergy",
+    "intolerance",
+    "vegan"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

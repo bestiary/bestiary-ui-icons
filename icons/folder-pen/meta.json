@@ -1,0 +1,14 @@
+{
+  "name": "folder-pen",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:pen"
+  ],
+  "aliases": [
+    "folder-edit"
+  ],
+  "deprecated": false
+}

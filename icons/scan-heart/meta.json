@@ -1,0 +1,17 @@
+{
+  "name": "scan-heart",
+  "categories": [
+    "medical"
+  ],
+  "tags": [
+    "$extends:scan",
+    "$group:heart",
+    "heart rate",
+    "pulse",
+    "monitoring",
+    "healthiness",
+    "screening"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

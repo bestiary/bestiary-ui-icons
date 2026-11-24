@@ -1,0 +1,29 @@
+{
+  "name": "shredder",
+  "categories": [
+    "files",
+    "security"
+  ],
+  "tags": [
+    "$group:minus",
+    "file",
+    "paper",
+    "tear",
+    "cut",
+    "destroy",
+    "document",
+    "destruction",
+    "secure",
+    "security",
+    "confidential",
+    "data",
+    "trash",
+    "dispose",
+    "disposal",
+    "information",
+    "waste",
+    "permanent"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

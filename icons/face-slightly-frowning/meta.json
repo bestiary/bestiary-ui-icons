@@ -1,0 +1,17 @@
+{
+  "name": "face-slightly-frowning",
+  "categories": [
+    "emoji"
+  ],
+  "tags": [
+    "$group:emoticon",
+    "bad",
+    "sadness",
+    "concern",
+    "disappointment"
+  ],
+  "aliases": [
+    "frown"
+  ],
+  "deprecated": false
+}

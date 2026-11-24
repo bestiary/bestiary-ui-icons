@@ -1,0 +1,13 @@
+{
+  "name": "heart-minus",
+  "categories": [
+    "social"
+  ],
+  "tags": [
+    "$group:minus",
+    "unlike",
+    "unfavorite",
+    "damage"
+  ],
+  "aliases": []
+}

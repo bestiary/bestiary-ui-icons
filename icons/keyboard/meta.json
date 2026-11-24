@@ -1,0 +1,17 @@
+{
+  "name": "keyboard",
+  "categories": [
+    "text",
+    "devices",
+    "development"
+  ],
+  "tags": [
+    "layout",
+    "typing",
+    "keys",
+    "input",
+    "keyboard"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

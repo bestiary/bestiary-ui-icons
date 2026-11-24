@@ -1,0 +1,19 @@
+{
+  "name": "drone",
+  "categories": [
+    "transportation",
+    "devices"
+  ],
+  "tags": [
+    "quadcopter",
+    "uav",
+    "aerial",
+    "flight",
+    "flying",
+    "technology",
+    "airborne",
+    "robotics"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

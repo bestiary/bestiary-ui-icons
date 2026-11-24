@@ -1,0 +1,19 @@
+{
+  "name": "hard-drive",
+  "categories": [
+    "development",
+    "devices",
+    "files"
+  ],
+  "tags": [
+    "computer",
+    "server",
+    "memory",
+    "ssd",
+    "disk",
+    "storage",
+    "backup"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

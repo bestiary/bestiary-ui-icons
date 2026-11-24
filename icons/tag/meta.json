@@ -1,7 +1,22 @@
 {
   "name": "tag",
-  "categories": ["accounts"],
-  "tags": ["tag", "label", "badge", "category", "price"],
-  "aliases": ["label-tag", "price-tag"],
+  "categories": [
+    "account",
+    "shopping"
+  ],
+  "tags": [
+    "label",
+    "badge",
+    "ticket",
+    "mark",
+    "sell",
+    "selling",
+    "promotion",
+    "promo"
+  ],
+  "aliases": [
+    "price-tag",
+    "label-tag"
+  ],
   "deprecated": false
 }

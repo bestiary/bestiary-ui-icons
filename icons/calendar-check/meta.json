@@ -1,0 +1,14 @@
+{
+  "name": "calendar-check",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:check",
+    "subscribe",
+    "schedule",
+    "today"
+  ],
+  "aliases": []
+}

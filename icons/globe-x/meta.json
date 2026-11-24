@@ -1,0 +1,17 @@
+{
+  "name": "globe-x",
+  "categories": [
+    "navigation",
+    "connectivity"
+  ],
+  "tags": [
+    "globe",
+    "x",
+    "offline",
+    "disconnected",
+    "error",
+    "no connection"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

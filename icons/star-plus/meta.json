@@ -1,0 +1,13 @@
+{
+  "name": "star-plus",
+  "categories": [
+    "$extends:star"
+  ],
+  "tags": [
+    "$extends:star",
+    "$group:plus",
+    "join"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

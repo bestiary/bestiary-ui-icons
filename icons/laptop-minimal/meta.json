@@ -1,0 +1,13 @@
+{
+  "name": "laptop-minimal",
+  "categories": [
+    "$extends:laptop"
+  ],
+  "tags": [
+    "$extends:laptop"
+  ],
+  "aliases": [
+    "laptop-2"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clock-plus",
+  "categories": [
+    "$extends:clock"
+  ],
+  "tags": [
+    "$extends:clock",
+    "$group:plus"
+  ],
+  "aliases": []
+}

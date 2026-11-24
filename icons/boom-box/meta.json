@@ -1,0 +1,17 @@
+{
+  "name": "boom-box",
+  "categories": [
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "radio",
+    "speakers",
+    "audio",
+    "music",
+    "sound",
+    "boombox"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

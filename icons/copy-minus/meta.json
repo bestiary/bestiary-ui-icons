@@ -1,0 +1,12 @@
+{
+  "name": "copy-minus",
+  "categories": [
+    "$extends:copy"
+  ],
+  "tags": [
+    "$extends:copy",
+    "$group:minus",
+    "collapse"
+  ],
+  "aliases": []
+}

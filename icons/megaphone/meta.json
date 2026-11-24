@@ -1,0 +1,22 @@
+{
+  "name": "megaphone",
+  "categories": [
+    "multimedia",
+    "notifications",
+    "communication"
+  ],
+  "tags": [
+    "advertisement",
+    "announcement",
+    "attention",
+    "alert",
+    "loudspeaker",
+    "megaphone",
+    "notification"
+  ],
+  "aliases": [
+    "loudspeaker",
+    "announcement"
+  ],
+  "deprecated": false
+}

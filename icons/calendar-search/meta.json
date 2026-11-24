@@ -1,0 +1,12 @@
+{
+  "name": "calendar-search",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:search",
+    "events"
+  ],
+  "aliases": []
+}

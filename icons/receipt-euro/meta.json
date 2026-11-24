@@ -1,0 +1,12 @@
+{
+  "name": "receipt-euro",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "€"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

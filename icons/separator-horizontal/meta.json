@@ -1,0 +1,19 @@
+{
+  "name": "separator-horizontal",
+  "categories": [
+    "text",
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "move",
+    "split",
+    "separator",
+    "horizontal"
+  ],
+  "aliases": [
+    "split-row",
+    "resize-row"
+  ],
+  "deprecated": false
+}

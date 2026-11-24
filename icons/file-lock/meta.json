@@ -1,0 +1,15 @@
+{
+  "name": "file-lock",
+  "categories": [
+    "$extends:file",
+    "security"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:lock"
+  ],
+  "aliases": [
+    "file-lock-2"
+  ],
+  "deprecated": false
+}

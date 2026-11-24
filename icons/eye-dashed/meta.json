@@ -1,7 +1,7 @@
 {
   "name": "eye-dashed",
-  "categories": ["accessibility"],
-  "tags": ["eye-dashed", "low-vision", "partial", "blur", "preview"],
+  "categories": ["accessibility", "photography", "design", "security"],
+  "tags": ["hide", "conceal", "mask", "hidden", "invisible"],
   "aliases": ["low-vision", "partial-view"],
   "deprecated": false
 }

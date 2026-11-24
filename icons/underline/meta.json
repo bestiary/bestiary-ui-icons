@@ -1,0 +1,11 @@
+{
+  "name": "underline",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "format"
+  ],
+  "aliases": []
+}

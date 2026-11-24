@@ -1,0 +1,20 @@
+{
+  "name": "numbers",
+  "categories": [
+    "letters-digits",
+    "text",
+    "math"
+  ],
+  "tags": [
+    "$group:digit",
+    "123",
+    "digits",
+    "counting",
+    "quantity",
+    "math",
+    "sequence",
+    "integer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

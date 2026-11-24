@@ -1,0 +1,17 @@
+{
+  "name": "circle-pound-sterling",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "coin",
+    "penny",
+    "marketing",
+    "british",
+    "gbp",
+    "£"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "square-dashed-text",
+  "categories": [
+    "text",
+    "cursors"
+  ],
+  "tags": [
+    "dashed",
+    "find",
+    "search",
+    "selection",
+    "text"
+  ],
+  "aliases": [
+    "text-selection",
+    "text-select"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "briefcase-medical",
+  "categories": [
+    "medical"
+  ],
+  "tags": [
+    "doctor",
+    "medicine",
+    "first aid"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "toothbrush-sparkles",
+  "categories": [
+    "$extends:toothbrush"
+  ],
+  "tags": [
+    "$extends:toothbrush",
+    "$group:sparkles",
+    "fresh",
+    "clean"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

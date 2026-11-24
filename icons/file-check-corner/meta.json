@@ -1,0 +1,13 @@
+{
+  "name": "file-check-corner",
+  "categories": [
+    "$extends:file-check"
+  ],
+  "tags": [
+    "$extends:file-check"
+  ],
+  "aliases": [
+    "file-check-2"
+  ],
+  "deprecated": false
+}

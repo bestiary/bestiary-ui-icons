@@ -1,0 +1,23 @@
+{
+  "name": "circle-letter-c",
+  "categories": [
+    "letters-digits",
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "licence",
+    "license",
+    "celsius",
+    "temperature",
+    "carbon",
+    "chemistry",
+    "grade",
+    "rating"
+  ],
+  "aliases": [
+    "copyright"
+  ],
+  "deprecated": false
+}

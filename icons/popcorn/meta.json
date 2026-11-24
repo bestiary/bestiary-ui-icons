@@ -1,0 +1,19 @@
+{
+  "name": "popcorn",
+  "categories": [
+    "food-beverage",
+    "multimedia"
+  ],
+  "tags": [
+    "cinema",
+    "movies",
+    "films",
+    "salted",
+    "sweet",
+    "sugar",
+    "candy",
+    "snack"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

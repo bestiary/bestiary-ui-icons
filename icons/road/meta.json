@@ -1,0 +1,19 @@
+{
+  "name": "road",
+  "categories": [
+    "transportation",
+    "navigation"
+  ],
+  "tags": [
+    "road",
+    "street",
+    "highway",
+    "route",
+    "path",
+    "transport",
+    "traffic",
+    "drive",
+    "map"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "camera",
+  "categories": [
+    "photography",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "photography",
+    "lens",
+    "focus",
+    "capture",
+    "shot",
+    "visual",
+    "image",
+    "device",
+    "equipment",
+    "photo",
+    "webcam",
+    "video"
+  ],
+  "aliases": [
+    "photo-camera",
+    "snapshot"
+  ],
+  "deprecated": false
+}

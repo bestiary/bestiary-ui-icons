@@ -1,0 +1,13 @@
+{
+  "name": "flask-conical-off",
+  "categories": [
+    "$extends:flask-conical"
+  ],
+  "tags": [
+    "$extends:flask-conical",
+    "$group:off",
+    "non toxic"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

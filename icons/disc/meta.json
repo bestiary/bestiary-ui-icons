@@ -1,0 +1,17 @@
+{
+  "name": "disc",
+  "categories": [
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "album",
+    "music",
+    "cd",
+    "dvd",
+    "vinyl",
+    "disc"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

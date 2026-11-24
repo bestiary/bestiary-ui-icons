@@ -1,0 +1,17 @@
+{
+  "name": "shopping-cart-plus",
+  "categories": [
+    "$extends:shopping-cart"
+  ],
+  "tags": [
+    "$extends:shopping-cart",
+    "$group:plus",
+    "ecommerce",
+    "checkout",
+    "order",
+    "retail",
+    "quantity",
+    "buy"
+  ],
+  "aliases": []
+}

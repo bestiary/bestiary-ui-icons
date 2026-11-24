@@ -1,0 +1,15 @@
+{
+  "name": "mailbox",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "emails",
+    "messages",
+    "letters",
+    "mailing list",
+    "newsletter"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

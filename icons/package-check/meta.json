@@ -1,0 +1,17 @@
+{
+  "name": "package-check",
+  "categories": [
+    "files",
+    "development",
+    "logistics"
+  ],
+  "tags": [
+    "package",
+    "check",
+    "delivered",
+    "verified",
+    "ok"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

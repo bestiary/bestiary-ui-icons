@@ -1,0 +1,18 @@
+{
+  "name": "circle-letter-l",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "learner",
+    "driver",
+    "litre",
+    "left",
+    "length",
+    "measurement"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

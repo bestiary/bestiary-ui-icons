@@ -1,0 +1,16 @@
+{
+  "name": "terminal",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "code",
+    "command line",
+    "prompt",
+    "shell",
+    "cli",
+    "terminal"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

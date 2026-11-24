@@ -1,0 +1,12 @@
+{
+  "name": "superscript",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "$group:digit",
+    "exponent"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "laptop-minimal-check",
+  "categories": [
+    "$extends:laptop-minimal",
+    "notifications"
+  ],
+  "tags": [
+    "$extends:laptop-minimal",
+    "$group:check"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

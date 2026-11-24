@@ -1,0 +1,32 @@
+{
+  "name": "card-sim",
+  "categories": [
+    "connectivity",
+    "communication",
+    "devices"
+  ],
+  "tags": [
+    "cellphone",
+    "smartphone",
+    "mobile",
+    "network",
+    "cellular",
+    "service",
+    "provider",
+    "signal",
+    "coverage",
+    "disk",
+    "data",
+    "format",
+    "storage",
+    "flash",
+    "digital",
+    "contacts",
+    "chip"
+  ],
+  "aliases": [
+    "sim-card",
+    "mobile-sim"
+  ],
+  "deprecated": false
+}

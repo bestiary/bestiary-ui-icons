@@ -1,0 +1,17 @@
+{
+  "name": "toy-brick",
+  "categories": [
+    "gaming",
+    "development"
+  ],
+  "tags": [
+    "lego",
+    "block",
+    "addon",
+    "plugin",
+    "integration",
+    "brick"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

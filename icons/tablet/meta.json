@@ -1,0 +1,17 @@
+{
+  "name": "tablet",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "device",
+    "mobile",
+    "screen",
+    "display",
+    "touchscreen",
+    "portable",
+    "responsive"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

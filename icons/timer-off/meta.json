@@ -1,0 +1,11 @@
+{
+  "name": "timer-off",
+  "categories": [
+    "$extends:timer"
+  ],
+  "tags": [
+    "$extends:timer",
+    "$group:off"
+  ],
+  "aliases": []
+}

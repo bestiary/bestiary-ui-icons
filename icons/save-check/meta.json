@@ -1,0 +1,17 @@
+{
+  "name": "save-check",
+  "categories": [
+    "$extends:save"
+  ],
+  "tags": [
+    "$extends:save",
+    "$group:check",
+    "save",
+    "save-check",
+    "floppy-disk",
+    "saved",
+    "save-success"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

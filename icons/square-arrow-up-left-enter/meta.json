@@ -1,0 +1,17 @@
+{
+  "name": "square-arrow-up-left-enter",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up-left",
+    "enter",
+    "merging",
+    "square"
+  ],
+  "aliases": [
+    "dock-top-left",
+    "enter-nw-square"
+  ],
+  "deprecated": false
+}

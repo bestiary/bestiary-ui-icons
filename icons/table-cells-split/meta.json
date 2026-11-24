@@ -1,0 +1,12 @@
+{
+  "name": "table-cells-split",
+  "categories": [
+    "$extends:table"
+  ],
+  "tags": [
+    "$extends:table",
+    "row"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bot-x",
+  "categories": [
+    "development",
+    "social",
+    "ai"
+  ],
+  "tags": [
+    "disconnected",
+    "offline",
+    "integration",
+    "bot",
+    "ai",
+    "agent"
+  ],
+  "aliases": [
+    "bot-disconnected",
+    "remove-agent"
+  ],
+  "deprecated": false
+}

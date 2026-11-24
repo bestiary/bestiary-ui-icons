@@ -1,0 +1,13 @@
+{
+  "name": "mail-pen",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:pen",
+    "reply"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

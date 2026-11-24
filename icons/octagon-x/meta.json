@@ -1,0 +1,16 @@
+{
+  "name": "octagon-x",
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$group:x",
+    "stop",
+    "alert",
+    "warning",
+    "math"
+  ],
+  "aliases": [
+    "x-octagon"
+  ]
+}

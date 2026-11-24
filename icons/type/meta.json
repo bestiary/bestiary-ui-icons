@@ -1,0 +1,12 @@
+{
+  "name": "type",
+  "categories": [
+    "letters-digits",
+    "text"
+  ],
+  "tags": [
+    "$group:letter"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

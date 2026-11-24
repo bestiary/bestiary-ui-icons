@@ -1,0 +1,11 @@
+{
+  "name": "grip-vertical",
+  "categories": [
+    "$extends:grip"
+  ],
+  "tags": [
+    "$extends:grip"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

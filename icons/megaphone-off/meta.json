@@ -1,0 +1,21 @@
+{
+  "name": "megaphone-off",
+  "categories": [
+    "multimedia",
+    "notifications",
+    "communication"
+  ],
+  "tags": [
+    "advertisement",
+    "announcement",
+    "megaphone",
+    "off",
+    "silent",
+    "muted"
+  ],
+  "aliases": [
+    "mute-megaphone",
+    "silent-announcement"
+  ],
+  "deprecated": false
+}

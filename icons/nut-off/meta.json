@@ -1,0 +1,14 @@
+{
+  "name": "nut-off",
+  "categories": [
+    "$extends:nut"
+  ],
+  "tags": [
+    "$extends:nut",
+    "$group:off",
+    "allergy",
+    "intolerance"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

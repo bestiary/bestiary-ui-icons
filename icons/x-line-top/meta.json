@@ -1,0 +1,25 @@
+{
+  "name": "x-line-top",
+  "categories": [
+    "$extends:x"
+  ],
+  "tags": [
+    "$extends:x",
+    "$group:x",
+    "line",
+    "top",
+    "arrow",
+    "navigation",
+    "up",
+    "pointer",
+    "direction",
+    "vector",
+    "symbol",
+    "mean",
+    "median",
+    "average",
+    "x̄"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

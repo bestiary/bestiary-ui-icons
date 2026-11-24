@@ -1,0 +1,20 @@
+{
+  "name": "heater",
+  "categories": [
+    "home",
+    "devices",
+    "travel"
+  ],
+  "tags": [
+    "heating",
+    "warmth",
+    "comfort",
+    "fire",
+    "stove",
+    "electric",
+    "electronics",
+    "amenities"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

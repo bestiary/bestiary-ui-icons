@@ -1,0 +1,26 @@
+{
+  "name": "chevron-right",
+  "categories": [
+    "arrows",
+    "math",
+    "development"
+  ],
+  "tags": [
+    "right",
+    "next",
+    "more than",
+    "greater",
+    "menu",
+    "code",
+    "coding",
+    "command line",
+    "terminal",
+    "prompt",
+    "shell"
+  ],
+  "aliases": [
+    "caret-right",
+    "next-chevron"
+  ],
+  "deprecated": false
+}

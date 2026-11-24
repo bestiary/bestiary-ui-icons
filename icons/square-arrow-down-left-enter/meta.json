@@ -1,0 +1,20 @@
+{
+  "name": "square-arrow-down-left-enter",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down-left",
+    "enter",
+    "collapse",
+    "exit",
+    "close",
+    "return",
+    "dock"
+  ],
+  "aliases": [
+    "dock-bottom-left",
+    "enter-sw-square"
+  ],
+  "deprecated": false
+}

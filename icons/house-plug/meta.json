@@ -1,0 +1,21 @@
+{
+  "name": "house-plug",
+  "categories": [
+    "buildings",
+    "home",
+    "sustainability"
+  ],
+  "tags": [
+    "autarky",
+    "energy",
+    "house",
+    "plug",
+    "ev",
+    "charging"
+  ],
+  "aliases": [
+    "home-energy",
+    "smart-plug-home"
+  ],
+  "deprecated": false
+}

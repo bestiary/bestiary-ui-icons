@@ -1,0 +1,14 @@
+{
+  "name": "hourglass-cog",
+  "categories": [
+    "time"
+  ],
+  "tags": [
+    "$extends:hourglass",
+    "$group:cog",
+    "countdown",
+    "timeout",
+    "expiration"
+  ],
+  "aliases": []
+}

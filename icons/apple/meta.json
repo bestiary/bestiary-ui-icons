@@ -1,0 +1,32 @@
+{
+  "name": "apple",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "fruit",
+    "food",
+    "healthy",
+    "snack",
+    "nutrition",
+    "fresh",
+    "produce",
+    "grocery",
+    "organic",
+    "harvest",
+    "vitamin",
+    "red",
+    "green",
+    "juicy",
+    "sweet",
+    "tart",
+    "bite",
+    "orchard",
+    "plant",
+    "core",
+    "raw",
+    "diet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "circle-gauge",
+  "categories": [
+    "transportation",
+    "sports",
+    "science"
+  ],
+  "tags": [
+    "dashboard",
+    "dial",
+    "meter",
+    "speed",
+    "pressure",
+    "measure",
+    "level"
+  ],
+  "aliases": [
+    "gauge-circle"
+  ]
+}

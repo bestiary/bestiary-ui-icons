@@ -1,7 +1,37 @@
 {
   "name": "shield-ban",
-  "categories": ["accounts"],
-  "tags": ["shield-ban", "blocked", "firewall", "deny", "security"],
-  "aliases": ["shield-block", "firewall-block"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "unshielded",
+    "insecure",
+    "unsecured",
+    "unsafe",
+    "unprotected",
+    "unguarded",
+    "unarmored",
+    "defenseless",
+    "undefended",
+    "stopped",
+    "intercepted",
+    "detected",
+    "scanned",
+    "exploit",
+    "vulnerability",
+    "compromised",
+    "data leak",
+    "unverified",
+    "error",
+    "attacked",
+    "disabled"
+  ],
+  "aliases": [
+    "shield-blocked",
+    "unprotected-shield"
+  ],
   "deprecated": false
 }

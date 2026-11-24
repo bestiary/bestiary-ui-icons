@@ -1,0 +1,14 @@
+{
+  "name": "octagon-exclamation-point",
+  "categories": [
+    "$extends:octagon",
+    "notifications"
+  ],
+  "tags": [
+    "$group:exclamation-mark"
+  ],
+  "aliases": [
+    "alert-octagon",
+    "octagon-alert"
+  ]
+}

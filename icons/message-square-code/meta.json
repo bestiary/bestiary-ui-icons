@@ -1,0 +1,20 @@
+{
+  "name": "message-square-code",
+  "categories": [
+    "social",
+    "communication",
+    "development"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "code review",
+    "developer",
+    "feedback"
+  ],
+  "aliases": [
+    "code-comment",
+    "review-thread"
+  ],
+  "deprecated": false
+}

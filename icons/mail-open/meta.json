@@ -1,0 +1,12 @@
+{
+  "name": "mail-open",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "$extends:mail",
+    "read"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,28 @@
+{
+  "name": "diagram-flow-horizontal",
+  "categories": [
+    "design",
+    "charts"
+  ],
+  "tags": [
+    "mind map",
+    "visualization",
+    "brainstorm",
+    "ideas",
+    "concepts",
+    "planning",
+    "hierarchy",
+    "branches",
+    "organization",
+    "tree",
+    "workflow",
+    "flowchart",
+    "process",
+    "sequence"
+  ],
+  "aliases": [
+    "flow-horizontal",
+    "tree-horizontal"
+  ],
+  "deprecated": false
+}

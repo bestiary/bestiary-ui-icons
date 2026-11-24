@@ -1,0 +1,24 @@
+{
+  "name": "mic-signal",
+  "categories": [
+    "devices",
+    "communication",
+    "multimedia",
+    "connectivity"
+  ],
+  "tags": [
+    "mic",
+    "audio",
+    "broadcast",
+    "signal",
+    "wireless",
+    "podcast",
+    "stream",
+    "live",
+    "voice chat"
+  ],
+  "aliases": [
+    "podcast"
+  ],
+  "deprecated": false
+}

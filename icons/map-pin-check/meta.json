@@ -1,0 +1,12 @@
+{
+  "name": "map-pin-check",
+  "categories": [
+    "$extends:map-pin"
+  ],
+  "tags": [
+    "$extends:map-pin",
+    "$group:check",
+    "added"
+  ],
+  "aliases": []
+}

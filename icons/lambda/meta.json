@@ -1,0 +1,21 @@
+{
+  "name": "lambda",
+  "categories": [
+    "letters-digits",
+    "development",
+    "math",
+    "science",
+    "text"
+  ],
+  "tags": [
+    "letter",
+    "greek",
+    "math",
+    "function",
+    "programming",
+    "serverless",
+    "lambda"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

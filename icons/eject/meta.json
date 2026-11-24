@@ -1,0 +1,25 @@
+{
+  "name": "eject",
+  "categories": [
+    "devices",
+    "files",
+    "multimedia"
+  ],
+  "tags": [
+    "disc",
+    "drive",
+    "dvd",
+    "blu-ray",
+    "cd",
+    "media",
+    "optical",
+    "optical drive",
+    "removable media",
+    "storage",
+    "tray",
+    "unmount",
+    "usb"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

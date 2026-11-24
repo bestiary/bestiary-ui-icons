@@ -1,0 +1,15 @@
+{
+  "name": "parking-meter",
+  "categories": [
+    "transportation",
+    "navigation"
+  ],
+  "tags": [
+    "driving",
+    "car park",
+    "pay",
+    "sidewalk",
+    "pavement"
+  ],
+  "aliases": []
+}

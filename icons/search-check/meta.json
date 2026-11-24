@@ -1,0 +1,12 @@
+{
+  "name": "search-check",
+  "categories": [
+    "$extends:search"
+  ],
+  "tags": [
+    "$extends:search",
+    "$group:check",
+    "found"
+  ],
+  "aliases": []
+}

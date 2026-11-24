@@ -1,0 +1,15 @@
+{
+  "name": "beer",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "alcohol",
+    "bar",
+    "beverage",
+    "brewery",
+    "drink"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

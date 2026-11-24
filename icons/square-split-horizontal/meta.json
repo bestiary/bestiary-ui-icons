@@ -1,0 +1,14 @@
+{
+  "name": "square-split-horizontal",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "split",
+    "divide"
+  ],
+  "aliases": [
+    "split-square-horizontal"
+  ],
+  "deprecated": false
+}

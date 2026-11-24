@@ -1,0 +1,28 @@
+{
+  "name": "notebook-tabs",
+  "categories": [
+    "account",
+    "communication",
+    "social"
+  ],
+  "tags": [
+    "people",
+    "family",
+    "friends",
+    "acquaintances",
+    "contacts",
+    "details",
+    "addresses",
+    "phone numbers",
+    "directory",
+    "listing",
+    "networking",
+    "alphabetical",
+    "a-z"
+  ],
+  "aliases": [
+    "directory-tabs",
+    "tabbed-notebook"
+  ],
+  "deprecated": false
+}

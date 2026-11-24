@@ -1,0 +1,18 @@
+{
+  "name": "siren",
+  "categories": [
+    "medical",
+    "notifications"
+  ],
+  "tags": [
+    "police",
+    "ambulance",
+    "emergency",
+    "security",
+    "alert",
+    "alarm",
+    "light"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

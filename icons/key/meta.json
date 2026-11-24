@@ -1,7 +1,7 @@
 {
   "name": "key",
-  "categories": ["accounts"],
-  "tags": ["key", "password", "auth", "access", "security"],
+  "categories": ["security", "account"],
+  "tags": ["login", "fob", "key", "password", "auth"],
   "aliases": ["password-key", "access-key"],
   "deprecated": false
 }

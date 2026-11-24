@@ -1,0 +1,19 @@
+{
+  "name": "circle-letter-m",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "million",
+    "mega",
+    "metre",
+    "measurement",
+    "male",
+    "medium",
+    "size"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

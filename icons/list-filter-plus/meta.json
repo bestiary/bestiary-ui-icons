@@ -1,0 +1,13 @@
+{
+  "name": "list-filter-plus",
+  "categories": [
+    "$extends:list-filter"
+  ],
+  "tags": [
+    "$extends:list-filter",
+    "$group:plus",
+    "filter"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

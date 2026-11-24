@@ -1,0 +1,17 @@
+{
+  "name": "chevrons-down-up",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "up",
+    "collapse",
+    "chevrons"
+  ],
+  "aliases": [
+    "collapse-chevrons",
+    "pinch-chevrons"
+  ],
+  "deprecated": false
+}

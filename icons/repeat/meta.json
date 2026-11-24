@@ -1,0 +1,17 @@
+{
+  "name": "repeat",
+  "categories": [
+    "arrows",
+    "multimedia"
+  ],
+  "tags": [
+    "loop",
+    "arrows",
+    "repeat"
+  ],
+  "aliases": [
+    "loop-all",
+    "repeat-all"
+  ],
+  "deprecated": false
+}

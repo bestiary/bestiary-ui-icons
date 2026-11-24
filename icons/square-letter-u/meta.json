@@ -1,0 +1,17 @@
+{
+  "name": "square-letter-u",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "rack unit",
+    "server",
+    "equipment",
+    "uranium",
+    "chemistry"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

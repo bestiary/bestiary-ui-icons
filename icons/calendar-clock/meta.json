@@ -1,0 +1,11 @@
+{
+  "name": "calendar-clock",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:clock"
+  ],
+  "aliases": []
+}

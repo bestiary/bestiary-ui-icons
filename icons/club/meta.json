@@ -1,0 +1,15 @@
+{
+  "name": "club",
+  "categories": [
+    "shapes",
+    "gaming"
+  ],
+  "tags": [
+    "shape",
+    "suit",
+    "playing",
+    "cards"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

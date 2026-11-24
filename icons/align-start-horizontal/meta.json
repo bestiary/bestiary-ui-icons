@@ -1,0 +1,14 @@
+{
+  "name": "align-start-horizontal",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-top",
+    "items",
+    "flex",
+    "justify"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

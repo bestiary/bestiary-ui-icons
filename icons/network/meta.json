@@ -1,0 +1,17 @@
+{
+  "name": "network",
+  "categories": [
+    "development",
+    "connectivity"
+  ],
+  "tags": [
+    "graph",
+    "tree",
+    "network",
+    "nodes",
+    "topology",
+    "hierarchy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

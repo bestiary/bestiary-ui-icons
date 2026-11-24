@@ -1,0 +1,15 @@
+{
+  "name": "text-wrap",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "words",
+    "lines",
+    "break",
+    "paragraph"
+  ],
+  "aliases": [
+    "wrap-text"
+  ]
+}

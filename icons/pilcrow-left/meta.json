@@ -1,0 +1,11 @@
+{
+  "name": "pilcrow-left",
+  "categories": [
+    "$extends:pilcrow"
+  ],
+  "tags": [
+    "$extends:pilcrow",
+    "$group:direction-left"
+  ],
+  "aliases": []
+}

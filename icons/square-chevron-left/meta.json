@@ -1,0 +1,21 @@
+{
+  "name": "square-chevron-left",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "left",
+    "previous",
+    "less than",
+    "fewer",
+    "menu",
+    "panel",
+    "button",
+    "keyboard"
+  ],
+  "aliases": [
+    "chevron-left-square",
+    "square-back"
+  ],
+  "deprecated": false
+}

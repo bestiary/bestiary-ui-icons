@@ -1,0 +1,11 @@
+{
+  "name": "sticky-note-minus",
+  "categories": [
+    "$extends:sticky-note"
+  ],
+  "tags": [
+    "$extends:sticky-note",
+    "$group:minus"
+  ],
+  "aliases": []
+}

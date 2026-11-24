@@ -1,0 +1,23 @@
+{
+  "name": "warehouse-waves",
+  "categories": [
+    "development",
+    "buildings"
+  ],
+  "tags": [
+    "lakehouse",
+    "lake warehouse",
+    "data lake",
+    "data warehouse",
+    "data platform",
+    "analytics",
+    "big data",
+    "water",
+    "lake"
+  ],
+  "aliases": [
+    "data-lakehouse",
+    "lakehouse"
+  ],
+  "deprecated": false
+}

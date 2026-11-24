@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "cryptocurrency",
+    "digital",
+    "blockchain",
+    "coin",
+    "market",
+    "decentralized",
+    "investment",
+    "crypto"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

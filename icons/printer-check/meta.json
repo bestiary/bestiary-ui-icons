@@ -1,0 +1,13 @@
+{
+  "name": "printer-check",
+  "categories": [
+    "$extends:printer"
+  ],
+  "tags": [
+    "$extends:printer",
+    "$group:check",
+    "printed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

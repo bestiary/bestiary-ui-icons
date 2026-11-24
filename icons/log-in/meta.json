@@ -1,7 +1,18 @@
 {
   "name": "log-in",
-  "categories": ["accounts"],
-  "tags": ["log-in", "sign-in", "enter", "auth", "login"],
-  "aliases": ["sign-in", "login"],
+  "categories": [
+    "arrows",
+    "account"
+  ],
+  "tags": [
+    "sign in",
+    "arrow",
+    "enter",
+    "auth"
+  ],
+  "aliases": [
+    "sign-in",
+    "enter-account"
+  ],
   "deprecated": false
 }

@@ -1,0 +1,19 @@
+{
+  "name": "rotate-3d",
+  "categories": [
+    "design"
+  ],
+  "tags": [
+    "gizmo",
+    "transform",
+    "orientation",
+    "orbit",
+    "axis",
+    "rotate",
+    "3d"
+  ],
+  "aliases": [
+    "rotate-3-d"
+  ],
+  "deprecated": false
+}

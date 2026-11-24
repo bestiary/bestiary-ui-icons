@@ -1,0 +1,19 @@
+{
+  "name": "ellipsis",
+  "categories": [
+    "layout",
+    "development"
+  ],
+  "tags": [
+    "etc",
+    "more",
+    "options",
+    "menu",
+    "dots",
+    "overflow"
+  ],
+  "aliases": [
+    "more-horizontal"
+  ],
+  "deprecated": false
+}

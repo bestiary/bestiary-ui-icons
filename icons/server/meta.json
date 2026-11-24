@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "categories": [
+    "development",
+    "devices"
+  ],
+  "tags": [
+    "cloud",
+    "storage",
+    "server",
+    "rack",
+    "hosting"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

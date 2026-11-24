@@ -1,0 +1,11 @@
+{
+  "name": "bed-single",
+  "categories": [
+    "$extends:bed"
+  ],
+  "tags": [
+    "$extends:bed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

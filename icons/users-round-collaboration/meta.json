@@ -1,0 +1,26 @@
+{
+  "name": "users-round-collaboration",
+  "categories": [
+    "account",
+    "people",
+    "social"
+  ],
+  "tags": [
+    "collaboration",
+    "team",
+    "communication",
+    "cooperative",
+    "workspace",
+    "peer-to-peer",
+    "p2p",
+    "shared",
+    "delegation",
+    "handoff",
+    "coauthor"
+  ],
+  "aliases": [
+    "round-collaboration",
+    "team-sync"
+  ],
+  "deprecated": false
+}

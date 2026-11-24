@@ -1,0 +1,19 @@
+{
+  "name": "circle-arrow-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "next",
+    "backwards",
+    "reverse",
+    "sign",
+    "button"
+  ],
+  "aliases": [
+    "arrow-down-circle",
+    "circle-down"
+  ],
+  "deprecated": false
+}

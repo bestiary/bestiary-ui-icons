@@ -1,0 +1,17 @@
+{
+  "name": "letter-spacing",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "tracking",
+    "kerning",
+    "design",
+    "lettering",
+    "letters",
+    "characters",
+    "formatting"
+  ],
+  "aliases": []
+}

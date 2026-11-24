@@ -1,0 +1,14 @@
+{
+  "name": "funnel",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "filter",
+    "hopper"
+  ],
+  "aliases": [
+    "filter"
+  ],
+  "deprecated": false
+}

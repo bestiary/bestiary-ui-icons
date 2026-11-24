@@ -1,0 +1,22 @@
+{
+  "name": "circle-letter-f",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "fahrenheit",
+    "temperature",
+    "female",
+    "fail",
+    "grade",
+    "rating",
+    "force",
+    "aperture",
+    "f-stop",
+    "camera"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

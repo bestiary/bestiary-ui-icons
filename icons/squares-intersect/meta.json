@@ -1,0 +1,15 @@
+{
+  "name": "squares-intersect",
+  "categories": [
+    "design"
+  ],
+  "tags": [
+    "square",
+    "pathfinder",
+    "intersect",
+    "shape",
+    "boolean"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

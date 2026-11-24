@@ -1,0 +1,13 @@
+{
+  "name": "piggy-bank",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "money",
+    "savings",
+    "budget"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rectangle-horizontal",
+  "categories": [
+    "shapes",
+    "design"
+  ],
+  "tags": [
+    "rectangle",
+    "aspect ratio",
+    "16:9",
+    "horizontal",
+    "shape"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

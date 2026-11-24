@@ -1,0 +1,14 @@
+{
+  "name": "headphones",
+  "categories": [
+    "multimedia",
+    "devices"
+  ],
+  "tags": [
+    "music",
+    "audio",
+    "sound"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

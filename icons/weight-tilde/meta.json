@@ -1,0 +1,19 @@
+{
+  "name": "weight-tilde",
+  "categories": [
+    "$extends:weight"
+  ],
+  "tags": [
+    "measure",
+    "scale",
+    "estimate",
+    "load",
+    "balance",
+    "size",
+    "measurement",
+    "quantity",
+    "mass"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

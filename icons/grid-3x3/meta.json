@@ -1,0 +1,21 @@
+{
+  "name": "grid-3x3",
+  "categories": [
+    "text",
+    "layout",
+    "design"
+  ],
+  "tags": [
+    "table",
+    "rows",
+    "columns",
+    "grid",
+    "3x3",
+    "matrix"
+  ],
+  "aliases": [
+    "grid",
+    "grid-3-x-3"
+  ],
+  "deprecated": false
+}

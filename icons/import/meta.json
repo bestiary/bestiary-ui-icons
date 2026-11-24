@@ -1,0 +1,18 @@
+{
+  "name": "import",
+  "categories": [
+    "arrows",
+    "files"
+  ],
+  "tags": [
+    "save",
+    "import",
+    "tray",
+    "download"
+  ],
+  "aliases": [
+    "import-box",
+    "receive-file"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,25 @@
+{
+  "name": "graph-ring",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "cycle",
+    "loop",
+    "replication",
+    "consensus",
+    "cluster",
+    "peer-to-peer",
+    "p2p",
+    "mesh",
+    "distributed",
+    "decentralized",
+    "ring topology",
+    "circular network"
+  ],
+  "aliases": [
+    "ring-topology",
+    "p2p-ring"
+  ],
+  "deprecated": false
+}

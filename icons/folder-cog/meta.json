@@ -1,0 +1,15 @@
+{
+  "name": "folder-cog",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:cog",
+    "control"
+  ],
+  "aliases": [
+    "folder-cog-2"
+  ],
+  "deprecated": false
+}

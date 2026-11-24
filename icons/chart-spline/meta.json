@@ -1,0 +1,21 @@
+{
+  "name": "chart-spline",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "curve",
+    "continuous",
+    "smooth",
+    "polynomial",
+    "quadratic",
+    "function",
+    "interpolation"
+  ],
+  "aliases": [
+    "spline-chart",
+    "smooth-curve"
+  ],
+  "deprecated": false
+}

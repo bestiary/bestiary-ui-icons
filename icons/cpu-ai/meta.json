@@ -1,0 +1,38 @@
+{
+  "name": "cpu-ai",
+  "categories": [
+    "devices",
+    "development",
+    "ai"
+  ],
+  "tags": [
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "neural network",
+    "automation",
+    "intelligence",
+    "generative",
+    "assistant",
+    "chatbot",
+    "llm",
+    "deep learning",
+    "inference",
+    "training",
+    "mlops",
+    "model",
+    "predictive",
+    "on-device",
+    "edge",
+    "api",
+    "service",
+    "cognitive",
+    "processor",
+    "chip"
+  ],
+  "aliases": [
+    "ai-chip",
+    "neural-processor"
+  ],
+  "deprecated": false
+}

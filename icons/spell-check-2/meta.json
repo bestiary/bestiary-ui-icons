@@ -1,0 +1,16 @@
+{
+  "name": "spell-check-2",
+  "categories": [
+    "text",
+    "development"
+  ],
+  "tags": [
+    "spell-check",
+    "spelling",
+    "squiggle",
+    "typo",
+    "linter"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

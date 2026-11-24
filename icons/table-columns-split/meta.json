@@ -1,0 +1,16 @@
+{
+  "name": "table-columns-split",
+  "categories": [
+    "$extends:table"
+  ],
+  "tags": [
+    "$extends:table",
+    "cut",
+    "break",
+    "divide",
+    "separate",
+    "segment"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cloud-upload",
+  "categories": [
+    "arrows",
+    "files"
+  ],
+  "tags": [
+    "file",
+    "deploy",
+    "deployment",
+    "cloud",
+    "upload"
+  ],
+  "aliases": [
+    "upload-cloud",
+    "cloud-deploy"
+  ],
+  "deprecated": false
+}

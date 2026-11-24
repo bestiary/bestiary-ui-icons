@@ -1,0 +1,13 @@
+{
+  "name": "save-pen",
+  "categories": [
+    "$extends:save"
+  ],
+  "tags": [
+    "$extends:save",
+    "$group:pen",
+    "directory"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

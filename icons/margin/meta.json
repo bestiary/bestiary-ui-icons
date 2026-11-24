@@ -1,0 +1,17 @@
+{
+  "name": "margin",
+  "categories": [
+    "layout",
+    "design"
+  ],
+  "tags": [
+    "margin",
+    "padding",
+    "spacing",
+    "gap",
+    "box model",
+    "layout"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "text-align-start",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:position-left",
+    "text",
+    "alignment",
+    "list"
+  ],
+  "aliases": [
+    "text",
+    "align-left"
+  ]
+}

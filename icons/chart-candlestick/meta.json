@@ -1,0 +1,28 @@
+{
+  "name": "chart-candlestick",
+  "categories": [
+    "charts",
+    "finance"
+  ],
+  "tags": [
+    "chart",
+    "trading",
+    "trader",
+    "financial",
+    "markets",
+    "portfolio",
+    "assets",
+    "prices",
+    "value",
+    "valuation",
+    "commodities",
+    "currencies",
+    "stocks",
+    "exchange"
+  ],
+  "aliases": [
+    "candlestick-chart",
+    "trading-chart"
+  ],
+  "deprecated": false
+}

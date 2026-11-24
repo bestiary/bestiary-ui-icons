@@ -1,7 +1,7 @@
 {
   "name": "hat-glasses",
-  "categories": ["accounts"],
-  "tags": ["hat-glasses", "incognito", "private", "anonymous", "spy"],
+  "categories": ["social", "account", "security"],
+  "tags": ["incognito", "disguise", "costume", "masked", "anonymous", "anonymity", "privacy", "private browsing", "stealth", "hidden", "undercover", "spy", "detective"],
   "aliases": ["incognito", "private-mode"],
   "deprecated": false
 }

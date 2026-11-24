@@ -1,0 +1,13 @@
+{
+  "name": "clock-arrow-right",
+  "categories": [
+    "$extends:clock"
+  ],
+  "tags": [
+    "$extends:clock",
+    "$group:direction-right",
+    "range",
+    "unassign"
+  ],
+  "aliases": []
+}

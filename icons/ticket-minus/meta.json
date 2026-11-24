@@ -1,0 +1,13 @@
+{
+  "name": "ticket-minus",
+  "categories": [
+    "transportation"
+  ],
+  "tags": [
+    "$extends:ticket",
+    "$group:minus",
+    "unbook",
+    "decrease"
+  ],
+  "aliases": []
+}

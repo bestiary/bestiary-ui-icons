@@ -1,0 +1,12 @@
+{
+  "name": "circle-dollar-sign",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "marketing"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

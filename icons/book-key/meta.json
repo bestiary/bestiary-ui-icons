@@ -1,0 +1,17 @@
+{
+  "name": "book-key",
+  "categories": [
+    "development",
+    "security",
+    "gaming"
+  ],
+  "tags": [
+    "book",
+    "key",
+    "secret",
+    "password",
+    "hidden"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

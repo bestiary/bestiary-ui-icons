@@ -1,0 +1,23 @@
+{
+  "name": "chart-bell-curve",
+  "categories": [
+    "charts",
+    "math"
+  ],
+  "tags": [
+    "chart",
+    "distribution",
+    "normal distribution",
+    "gaussian",
+    "probability",
+    "frequency",
+    "density",
+    "symmetric",
+    "standard deviation"
+  ],
+  "aliases": [
+    "bell-curve",
+    "gaussian-distribution"
+  ],
+  "deprecated": false
+}

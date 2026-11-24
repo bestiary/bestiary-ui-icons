@@ -1,0 +1,32 @@
+{
+  "name": "audio-lines",
+  "categories": [
+    "multimedia",
+    "communication"
+  ],
+  "tags": [
+    "graphic equaliser",
+    "sound",
+    "noise",
+    "listen",
+    "hearing",
+    "hertz",
+    "frequency",
+    "wavelength",
+    "vibrate",
+    "sine",
+    "synthesizer",
+    "levels",
+    "track",
+    "music",
+    "playback",
+    "radio",
+    "broadcast",
+    "voice"
+  ],
+  "aliases": [
+    "equalizer",
+    "voice-bars"
+  ],
+  "deprecated": false
+}

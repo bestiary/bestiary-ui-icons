@@ -1,0 +1,12 @@
+{
+  "name": "copy-check",
+  "categories": [
+    "$extends:copy",
+    "notifications"
+  ],
+  "tags": [
+    "$extends:copy",
+    "$group:check"
+  ],
+  "aliases": []
+}

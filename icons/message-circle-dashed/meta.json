@@ -1,0 +1,21 @@
+{
+  "name": "message-circle-dashed",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "conversation",
+    "dialog",
+    "feedback",
+    "draft",
+    "dashed"
+  ],
+  "aliases": [
+    "draft-message",
+    "temporary-chat"
+  ],
+  "deprecated": false
+}

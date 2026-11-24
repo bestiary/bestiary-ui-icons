@@ -1,0 +1,11 @@
+{
+  "name": "file-input",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

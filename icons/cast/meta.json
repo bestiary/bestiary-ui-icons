@@ -1,0 +1,18 @@
+{
+  "name": "cast",
+  "categories": [
+    "devices",
+    "connectivity"
+  ],
+  "tags": [
+    "stream",
+    "streaming",
+    "screen",
+    "display",
+    "wireless",
+    "broadcast",
+    "chromecast"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

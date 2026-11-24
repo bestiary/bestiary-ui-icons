@@ -1,0 +1,17 @@
+{
+  "name": "gallery-horizontal-end",
+  "categories": [
+    "$extends:gallery-horizontal",
+    "files"
+  ],
+  "tags": [
+    "$extends:gallery-horizontal",
+    "$group:position-right",
+    "history",
+    "versions",
+    "backup",
+    "time machine"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

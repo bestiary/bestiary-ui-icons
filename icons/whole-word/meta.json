@@ -1,0 +1,13 @@
+{
+  "name": "whole-word",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "selection",
+    "letters",
+    "characters"
+  ],
+  "aliases": []
+}

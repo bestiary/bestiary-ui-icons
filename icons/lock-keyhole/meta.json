@@ -1,0 +1,10 @@
+{
+  "name": "lock-keyhole",
+  "categories": [
+    "$extends:lock"
+  ],
+  "tags": [
+    "$extends:lock"
+  ],
+  "aliases": []
+}

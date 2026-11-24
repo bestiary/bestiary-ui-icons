@@ -1,0 +1,14 @@
+{
+  "name": "list-minus",
+  "categories": [
+    "$extends:list",
+    "multimedia"
+  ],
+  "tags": [
+    "$group:minus",
+    "playlist",
+    "song",
+    "unqueue"
+  ],
+  "aliases": []
+}

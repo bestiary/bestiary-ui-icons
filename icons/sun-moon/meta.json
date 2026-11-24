@@ -1,7 +1,7 @@
 {
   "name": "sun-moon",
   "categories": ["accessibility"],
-  "tags": ["sun-moon", "auto-theme", "day-night", "appearance", "theme"],
+  "tags": ["dark", "moon", "sun", "theme", "auto theme", "system theme", "appearance"],
   "aliases": ["day-night", "auto-theme"],
   "deprecated": false
 }

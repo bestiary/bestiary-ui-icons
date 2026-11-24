@@ -1,0 +1,14 @@
+{
+  "name": "folder-archive",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "archive",
+    "zip",
+    "package"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

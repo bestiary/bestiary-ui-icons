@@ -1,0 +1,21 @@
+{
+  "name": "rat",
+  "categories": [
+    "animals"
+  ],
+  "tags": [
+    "mouse",
+    "mice",
+    "gerbil",
+    "rodent",
+    "pet",
+    "pest",
+    "plague",
+    "disease"
+  ],
+  "aliases": [
+    "mouse-animal",
+    "rodent"
+  ],
+  "deprecated": false
+}

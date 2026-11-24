@@ -1,0 +1,13 @@
+{
+  "name": "play",
+  "categories": [
+    "multimedia"
+  ],
+  "tags": [
+    "$group:play",
+    "music",
+    "audio",
+    "video"
+  ],
+  "aliases": []
+}

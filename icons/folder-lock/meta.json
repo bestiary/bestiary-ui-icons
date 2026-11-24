@@ -1,0 +1,13 @@
+{
+  "name": "folder-lock",
+  "categories": [
+    "$extends:folder",
+    "security"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:lock"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

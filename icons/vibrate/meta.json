@@ -1,0 +1,16 @@
+{
+  "name": "vibrate",
+  "categories": [
+    "devices",
+    "notifications"
+  ],
+  "tags": [
+    "smartphone",
+    "notification",
+    "rumble",
+    "haptic feedback",
+    "screen"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

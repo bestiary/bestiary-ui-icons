@@ -1,0 +1,17 @@
+{
+  "name": "circle-chevron-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "back",
+    "menu",
+    "circle"
+  ],
+  "aliases": [
+    "chevron-down-circle",
+    "circle-dropdown"
+  ],
+  "deprecated": false
+}

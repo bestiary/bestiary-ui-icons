@@ -1,0 +1,11 @@
+{
+  "name": "russian-ruble",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

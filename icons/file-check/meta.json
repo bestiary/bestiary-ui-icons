@@ -1,0 +1,12 @@
+{
+  "name": "file-check",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:check"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

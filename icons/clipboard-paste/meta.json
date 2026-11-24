@@ -1,0 +1,10 @@
+{
+  "name": "clipboard-paste",
+  "categories": [
+    "$extends:clipboard"
+  ],
+  "tags": [
+    "$extends:clipboard"
+  ],
+  "aliases": []
+}

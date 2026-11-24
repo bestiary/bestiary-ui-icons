@@ -1,0 +1,16 @@
+{
+  "name": "wifi-off",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "wifi",
+    "off",
+    "disconnected",
+    "offline",
+    "no signal"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,28 @@
+{
+  "name": "user-group",
+  "categories": [
+    "account",
+    "people",
+    "social"
+  ],
+  "tags": [
+    "group",
+    "team",
+    "community",
+    "membership",
+    "collaboration",
+    "organization",
+    "directory",
+    "staff",
+    "family",
+    "ancestry",
+    "ancestors",
+    "lineage",
+    "parents"
+  ],
+  "aliases": [
+    "team-group",
+    "member-group"
+  ],
+  "deprecated": false
+}

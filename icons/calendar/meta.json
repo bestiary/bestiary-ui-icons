@@ -1,0 +1,17 @@
+{
+  "name": "calendar",
+  "categories": [
+    "time"
+  ],
+  "tags": [
+    "day",
+    "date",
+    "month",
+    "year",
+    "timestamp",
+    "event",
+    "birthday",
+    "birthdate"
+  ],
+  "aliases": []
+}

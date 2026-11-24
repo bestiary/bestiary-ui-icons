@@ -1,7 +1,7 @@
 {
   "name": "id-card",
-  "categories": ["accounts"],
-  "tags": ["id-card", "identity", "license", "verification", "pass"],
+  "categories": ["security", "account"],
+  "tags": ["card", "badge", "identity", "authentication", "secure"],
   "aliases": ["identity-card", "driver-license"],
   "deprecated": false
 }

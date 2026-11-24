@@ -1,6 +1,17 @@
 {
   "name": "user",
-  "categories": ["users"],
-  "tags": ["user", "person", "profile", "account", "avatar"],
-  "aliases": ["person", "profile", "account"]
+  "categories": [
+    "account"
+  ],
+  "tags": [
+    "person",
+    "profile",
+    "account",
+    "member"
+  ],
+  "aliases": [
+    "person",
+    "profile"
+  ],
+  "deprecated": false
 }

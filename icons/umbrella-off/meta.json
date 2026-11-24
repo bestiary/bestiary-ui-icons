@@ -1,0 +1,16 @@
+{
+  "name": "umbrella-off",
+  "categories": [
+    "$extends:umbrella"
+  ],
+  "tags": [
+    "$extends:umbrella",
+    "$group:off",
+    "uncovered",
+    "uninsured",
+    "antivirus",
+    "unprotected",
+    "risky"
+  ],
+  "aliases": []
+}

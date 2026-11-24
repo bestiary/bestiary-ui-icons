@@ -1,7 +1,7 @@
 {
   "name": "eye",
-  "categories": ["accessibility"],
-  "tags": ["eye", "view", "visible", "show", "vision"],
+  "categories": ["accessibility", "photography", "design", "security"],
+  "tags": ["view", "watch", "see", "show", "expose", "reveal", "display", "visible", "visibility", "vision", "preview", "read", "eyes"],
   "aliases": ["visible", "show"],
   "deprecated": false
 }

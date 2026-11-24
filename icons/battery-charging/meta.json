@@ -1,0 +1,15 @@
+{
+  "name": "battery-charging",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "battery",
+    "charging",
+    "power",
+    "energy",
+    "zap"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bath",
+  "categories": [
+    "travel",
+    "home"
+  ],
+  "tags": [
+    "amenities",
+    "services",
+    "bathroom",
+    "shower"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

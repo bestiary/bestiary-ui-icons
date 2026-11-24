@@ -1,0 +1,17 @@
+{
+  "name": "vegan",
+  "categories": [
+    "food-beverage",
+    "sustainability"
+  ],
+  "tags": [
+    "$group:letter",
+    "vegetarian",
+    "fruitarian",
+    "herbivorous",
+    "animal rights",
+    "diet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

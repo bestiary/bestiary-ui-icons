@@ -1,0 +1,17 @@
+{
+  "name": "chart-column",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "categorical",
+    "comparison",
+    "column"
+  ],
+  "aliases": [
+    "column-chart",
+    "vertical-bars"
+  ],
+  "deprecated": false
+}

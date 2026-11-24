@@ -1,0 +1,23 @@
+{
+  "name": "message-square-exclamation-point",
+  "categories": [
+    "social",
+    "communication",
+    "notifications"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "exclamation",
+    "report",
+    "abuse",
+    "warning",
+    "alert",
+    "important"
+  ],
+  "aliases": [
+    "message-square-warning",
+    "message-square-alert"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "message-circle-check",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "conversation",
+    "dialog",
+    "feedback",
+    "moderate",
+    "check"
+  ],
+  "aliases": [
+    "chat-verified",
+    "comment-approved"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lock",
+  "categories": [
+    "security"
+  ],
+  "tags": [
+    "$group:lock",
+    "admin"
+  ],
+  "aliases": []
+}

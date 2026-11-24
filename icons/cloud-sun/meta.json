@@ -1,0 +1,11 @@
+{
+  "name": "cloud-sun",
+  "categories": [
+    "$extends:cloud"
+  ],
+  "tags": [
+    "$extends:cloud",
+    "partly"
+  ],
+  "aliases": []
+}

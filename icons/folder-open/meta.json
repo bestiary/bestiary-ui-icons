@@ -1,0 +1,11 @@
+{
+  "name": "folder-open",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

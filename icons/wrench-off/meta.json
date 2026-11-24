@@ -1,0 +1,20 @@
+{
+  "name": "wrench-off",
+  "categories": [
+    "account",
+    "development",
+    "tools"
+  ],
+  "tags": [
+    "service",
+    "maintenance",
+    "wrench",
+    "off",
+    "disabled"
+  ],
+  "aliases": [
+    "no-maintenance",
+    "repair-off"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "box",
+  "categories": [
+    "shapes",
+    "gaming",
+    "development",
+    "math"
+  ],
+  "tags": [
+    "cube",
+    "package",
+    "container",
+    "storage",
+    "3d",
+    "box"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

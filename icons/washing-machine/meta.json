@@ -1,0 +1,20 @@
+{
+  "name": "washing-machine",
+  "categories": [
+    "home",
+    "devices",
+    "travel"
+  ],
+  "tags": [
+    "tumble dryer",
+    "amenities",
+    "electronics",
+    "cycle",
+    "clothes",
+    "rinse",
+    "spin",
+    "drum"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

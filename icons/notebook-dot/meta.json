@@ -1,0 +1,20 @@
+{
+  "name": "notebook-dot",
+  "categories": [
+    "text",
+    "notifications"
+  ],
+  "tags": [
+    "$extends:notebook",
+    "$group:dot",
+    "document",
+    "file",
+    "page",
+    "paper",
+    "record",
+    "entry",
+    "notebook",
+    "note"
+  ],
+  "aliases": []
+}

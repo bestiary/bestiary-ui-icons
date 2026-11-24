@@ -1,0 +1,13 @@
+{
+  "name": "folder-clock",
+  "categories": [
+    "$extends:folder",
+    "time"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:clock"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "locate-off",
+  "categories": [
+    "$extends:locate"
+  ],
+  "tags": [
+    "$extends:locate",
+    "$group:off"
+  ],
+  "aliases": []
+}

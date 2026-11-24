@@ -1,0 +1,18 @@
+{
+  "name": "package-open",
+  "categories": [
+    "files",
+    "development",
+    "logistics"
+  ],
+  "tags": [
+    "box",
+    "container",
+    "unpack",
+    "unarchive",
+    "opened",
+    "delivered"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "arrows-to-axis-dashed-horizontal",
+  "categories": [
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "collapse",
+    "dashed",
+    "horizontal",
+    "axis",
+    "arrows"
+  ],
+  "aliases": [
+    "collapse-vertical-dashed",
+    "merge-horizontal-dashed"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "book-text",
+  "categories": [
+    "text",
+    "gaming"
+  ],
+  "tags": [
+    "$extends:book",
+    "docs",
+    "wiki",
+    "knowledge base"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,34 @@
+{
+  "name": "lighthouse",
+  "categories": [
+    "buildings",
+    "navigation",
+    "travel"
+  ],
+  "tags": [
+    "lighthouse",
+    "beacon",
+    "coast",
+    "navigation",
+    "tower",
+    "sea",
+    "ocean",
+    "maritime",
+    "guide",
+    "safety",
+    "light",
+    "shine",
+    "port",
+    "marine",
+    "signal",
+    "nautical",
+    "harbor",
+    "shore",
+    "landmark"
+  ],
+  "aliases": [
+    "beacon",
+    "coastal-tower"
+  ],
+  "deprecated": false
+}

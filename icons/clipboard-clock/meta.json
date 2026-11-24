@@ -1,0 +1,20 @@
+{
+  "name": "clipboard-clock",
+  "categories": [
+    "$extends:clipboard",
+    "time"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "$group:clock",
+    "log",
+    "alarm",
+    "reminder",
+    "scheduled",
+    "time tracking",
+    "timesheets",
+    "appointment",
+    "logbook"
+  ],
+  "aliases": []
+}

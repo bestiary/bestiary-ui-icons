@@ -1,16 +1,17 @@
 {
   "name": "user-minus",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-minus",
-    "remove-user",
     "unfollow",
-    "revoke"
+    "unsubscribe",
+    "remove",
+    "user"
   ],
   "aliases": [
-    "remove-user"
+    "remove-user",
+    "delete-user"
   ],
   "deprecated": false
 }

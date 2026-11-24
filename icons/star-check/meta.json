@@ -1,0 +1,12 @@
+{
+  "name": "star-check",
+  "categories": [
+    "$extends:star"
+  ],
+  "tags": [
+    "$extends:star",
+    "$group:check"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

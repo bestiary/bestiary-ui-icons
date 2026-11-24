@@ -1,0 +1,28 @@
+{
+  "name": "robot-vacuum",
+  "categories": [
+    "devices",
+    "home"
+  ],
+  "tags": [
+    "appliance",
+    "cleaning",
+    "household",
+    "housekeeping",
+    "tool",
+    "maintenance",
+    "sweeping",
+    "hygiene",
+    "chores",
+    "automation",
+    "smart home",
+    "device",
+    "floor",
+    "dust",
+    "debris",
+    "navigation",
+    "sensor"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

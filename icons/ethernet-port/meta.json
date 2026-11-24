@@ -1,0 +1,19 @@
+{
+  "name": "ethernet-port",
+  "categories": [
+    "devices",
+    "connectivity"
+  ],
+  "tags": [
+    "internet",
+    "network",
+    "connection",
+    "cable",
+    "lan",
+    "port",
+    "rj45",
+    "router"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

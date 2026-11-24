@@ -1,0 +1,14 @@
+{
+  "name": "text-align-end",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:position-right",
+    "text",
+    "alignment"
+  ],
+  "aliases": [
+    "align-right"
+  ]
+}

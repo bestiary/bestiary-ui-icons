@@ -1,0 +1,31 @@
+{
+  "name": "headset",
+  "categories": [
+    "multimedia",
+    "devices",
+    "gaming",
+    "communication"
+  ],
+  "tags": [
+    "music",
+    "audio",
+    "sound",
+    "gaming",
+    "headphones",
+    "headset",
+    "call",
+    "center",
+    "phone",
+    "telephone",
+    "voip",
+    "video",
+    "customer service",
+    "customer support",
+    "helpdesk"
+  ],
+  "aliases": [
+    "support-headset",
+    "call-center"
+  ],
+  "deprecated": false
+}

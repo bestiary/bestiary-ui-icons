@@ -1,7 +1,21 @@
 {
   "name": "tag-plus",
-  "categories": ["accounts"],
-  "tags": ["tag-plus", "add-tag", "new-label", "category"],
-  "aliases": ["add-tag", "new-label"],
+  "categories": [
+    "account",
+    "shopping"
+  ],
+  "tags": [
+    "label",
+    "badge",
+    "ticket",
+    "mark",
+    "sell",
+    "add",
+    "create"
+  ],
+  "aliases": [
+    "add-tag",
+    "new-tag"
+  ],
   "deprecated": false
 }

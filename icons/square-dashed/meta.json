@@ -1,0 +1,19 @@
+{
+  "name": "square-dashed",
+  "categories": [
+    "design",
+    "cursors"
+  ],
+  "tags": [
+    "dashed",
+    "selection",
+    "square",
+    "marquee",
+    "box",
+    "region"
+  ],
+  "aliases": [
+    "box-select"
+  ],
+  "deprecated": false
+}

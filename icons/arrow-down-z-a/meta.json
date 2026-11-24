@@ -1,0 +1,20 @@
+{
+  "name": "arrow-down-z-a",
+  "categories": [
+    "arrows",
+    "text",
+    "layout"
+  ],
+  "tags": [
+    "sort",
+    "alphabetical",
+    "reverse",
+    "down",
+    "z-a"
+  ],
+  "aliases": [
+    "sort-z-a",
+    "alpha-desc"
+  ],
+  "deprecated": false
+}

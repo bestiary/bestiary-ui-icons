@@ -1,0 +1,12 @@
+{
+  "name": "copy-plus",
+  "categories": [
+    "$extends:copy"
+  ],
+  "tags": [
+    "$extends:copy",
+    "$group:plus",
+    "expand"
+  ],
+  "aliases": []
+}

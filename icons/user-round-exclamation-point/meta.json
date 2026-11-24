@@ -1,0 +1,20 @@
+{
+  "name": "user-round-exclamation-point",
+  "categories": [
+    "account"
+  ],
+  "tags": [
+    "flagged",
+    "suspicious",
+    "reported",
+    "violation",
+    "moderation",
+    "account issue",
+    "review"
+  ],
+  "aliases": [
+    "user-round-alert",
+    "user-round-warning"
+  ],
+  "deprecated": false
+}

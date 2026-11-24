@@ -1,0 +1,17 @@
+{
+  "name": "layout-freeform",
+  "categories": [
+    "design",
+    "layout"
+  ],
+  "tags": [
+    "layout",
+    "freeform",
+    "absolute",
+    "position",
+    "canvas",
+    "blocks"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

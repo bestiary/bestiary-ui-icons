@@ -1,0 +1,16 @@
+{
+  "name": "file-image",
+  "categories": [
+    "$extends:file",
+    "photography"
+  ],
+  "tags": [
+    "$extends:file",
+    "image",
+    "graphics",
+    "photo",
+    "picture"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

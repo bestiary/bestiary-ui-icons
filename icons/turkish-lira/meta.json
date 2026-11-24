@@ -1,0 +1,11 @@
+{
+  "name": "turkish-lira",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

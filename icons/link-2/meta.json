@@ -1,0 +1,10 @@
+{
+  "name": "link-2",
+  "categories": [
+    "$extends:link"
+  ],
+  "tags": [
+    "$extends:link"
+  ],
+  "aliases": []
+}

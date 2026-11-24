@@ -1,0 +1,13 @@
+{
+  "name": "pizza",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "pie",
+    "quiche",
+    "food"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

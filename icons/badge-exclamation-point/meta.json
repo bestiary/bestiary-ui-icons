@@ -1,0 +1,7 @@
+{
+  "name": "badge-exclamation-point",
+  "categories": ["account", "social"],
+  "tags": ["badge", "exclamation", "security", "safety", "issue"],
+  "aliases": ["badge-alert"],
+  "deprecated": false
+}

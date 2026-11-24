@@ -1,0 +1,16 @@
+{
+  "name": "align-vertical-space-around",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "center",
+    "items",
+    "flex",
+    "justify",
+    "distribute",
+    "between"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

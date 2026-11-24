@@ -1,0 +1,12 @@
+{
+  "name": "square-check-big",
+  "categories": [
+    "$extends:square-check"
+  ],
+  "tags": [
+    "$extends:square-check"
+  ],
+  "aliases": [
+    "check-square"
+  ]
+}

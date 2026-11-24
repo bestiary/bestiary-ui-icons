@@ -1,0 +1,22 @@
+{
+  "name": "panel-left-right-dashed",
+  "categories": [
+    "$extends:panel-left"
+  ],
+  "tags": [
+    "$extends:panel-left",
+    "$group:position-right",
+    "$group:dashed",
+    "sidebar",
+    "show",
+    "reveal",
+    "padding",
+    "margin",
+    "guide",
+    "layout",
+    "vertical",
+    "bleed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "image",
+  "categories": [
+    "photography",
+    "text",
+    "multimedia",
+    "files"
+  ],
+  "tags": [
+    "picture",
+    "photo"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

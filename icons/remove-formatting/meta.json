@@ -1,0 +1,14 @@
+{
+  "name": "remove-formatting",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "$group:minus",
+    "format",
+    "x",
+    "times"
+  ],
+  "aliases": []
+}

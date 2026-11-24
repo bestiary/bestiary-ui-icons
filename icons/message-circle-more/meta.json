@@ -1,0 +1,19 @@
+{
+  "name": "message-circle-more",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "typing",
+    "writing",
+    "responding",
+    "ellipsis",
+    "chat"
+  ],
+  "aliases": [
+    "typing-indicator",
+    "chat-ellipsis"
+  ],
+  "deprecated": false
+}

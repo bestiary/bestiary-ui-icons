@@ -1,0 +1,14 @@
+{
+  "name": "square-equal",
+  "categories": [
+    "math"
+  ],
+  "tags": [
+    "calculate",
+    "="
+  ],
+  "aliases": [
+    "equal-square"
+  ],
+  "deprecated": false
+}

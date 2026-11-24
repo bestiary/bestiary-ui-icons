@@ -1,0 +1,17 @@
+{
+  "name": "car-battery",
+  "categories": [
+    "devices",
+    "transportation"
+  ],
+  "tags": [
+    "battery",
+    "automobile",
+    "power",
+    "charge",
+    "vehicle",
+    "car"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

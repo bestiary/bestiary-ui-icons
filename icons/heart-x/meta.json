@@ -1,0 +1,14 @@
+{
+  "name": "heart-x",
+  "categories": [
+    "social",
+    "gaming"
+  ],
+  "tags": [
+    "$group:x",
+    "unlike",
+    "unfavorite"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

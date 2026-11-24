@@ -1,7 +1,7 @@
 {
   "name": "ear",
-  "categories": ["accessibility"],
-  "tags": ["ear", "hearing", "audio", "listen", "sound"],
+  "categories": ["medical", "accessibility"],
+  "tags": ["hearing", "noise", "audio", "accessibility"],
   "aliases": ["hearing", "listen"],
   "deprecated": false
 }

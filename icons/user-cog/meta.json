@@ -1,16 +1,18 @@
 {
   "name": "user-cog",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-cog",
-    "user-settings",
-    "account-config",
-    "preferences"
+    "user",
+    "settings",
+    "preferences",
+    "config",
+    "gear"
   ],
   "aliases": [
-    "user-settings"
+    "user-settings",
+    "account-config"
   ],
   "deprecated": false
 }

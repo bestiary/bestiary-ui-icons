@@ -1,0 +1,19 @@
+{
+  "name": "square-slash",
+  "categories": [
+    "development",
+    "math"
+  ],
+  "tags": [
+    "git",
+    "diff",
+    "ignored",
+    "divide",
+    "slash",
+    "square"
+  ],
+  "aliases": [
+    "slash-square"
+  ],
+  "deprecated": false
+}

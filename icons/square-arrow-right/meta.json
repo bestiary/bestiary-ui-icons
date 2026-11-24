@@ -1,0 +1,19 @@
+{
+  "name": "square-arrow-right",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "right",
+    "next",
+    "west",
+    "sign",
+    "keyboard",
+    "button"
+  ],
+  "aliases": [
+    "arrow-right-square",
+    "square-right"
+  ],
+  "deprecated": false
+}

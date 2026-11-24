@@ -1,0 +1,19 @@
+{
+  "name": "chevrons-from-axis-dashed-vertical",
+  "categories": [
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "dashed",
+    "expand",
+    "vertical",
+    "axis",
+    "chevrons"
+  ],
+  "aliases": [
+    "chevrons-expand-v-dashed",
+    "split-chevrons-v-dashed"
+  ],
+  "deprecated": false
+}

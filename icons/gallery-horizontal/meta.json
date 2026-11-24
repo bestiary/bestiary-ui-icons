@@ -1,0 +1,19 @@
+{
+  "name": "gallery-horizontal",
+  "categories": [
+    "layout",
+    "photography",
+    "multimedia"
+  ],
+  "tags": [
+    "carousel",
+    "pictures",
+    "images",
+    "scroll",
+    "swipe",
+    "album",
+    "portfolio"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

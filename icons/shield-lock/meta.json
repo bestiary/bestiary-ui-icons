@@ -1,7 +1,23 @@
 {
   "name": "shield-lock",
-  "categories": ["accounts"],
-  "tags": ["shield-lock", "locked", "2fa", "mfa", "protected"],
-  "aliases": ["security-lock", "mfa-shield"],
+  "categories": [
+    "security",
+    "account"
+  ],
+  "tags": [
+    "authentication",
+    "credentials",
+    "data protection",
+    "encryption",
+    "login",
+    "ssl",
+    "tls",
+    "two-factor authentication",
+    "vpn"
+  ],
+  "aliases": [
+    "shield-locked",
+    "encrypted-shield"
+  ],
   "deprecated": false
 }

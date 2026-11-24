@@ -1,0 +1,13 @@
+{
+  "name": "save-off",
+  "categories": [
+    "$extends:save"
+  ],
+  "tags": [
+    "$extends:save",
+    "$group:off",
+    "unsalvageable"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

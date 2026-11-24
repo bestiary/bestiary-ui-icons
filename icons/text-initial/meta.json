@@ -1,0 +1,16 @@
+{
+  "name": "text-initial",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "drop cap",
+    "format",
+    "letter",
+    "font size"
+  ],
+  "aliases": [
+    "letter-text"
+  ]
+}

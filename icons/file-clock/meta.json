@@ -1,0 +1,14 @@
+{
+  "name": "file-clock",
+  "categories": [
+    "$extends:file",
+    "time"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:clock",
+    "log"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bluetooth-connected",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "bluetooth",
+    "wireless",
+    "paired",
+    "connected"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

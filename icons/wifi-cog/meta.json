@@ -1,0 +1,16 @@
+{
+  "name": "wifi-cog",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "wifi",
+    "cog",
+    "settings",
+    "control",
+    "network"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,37 @@
+{
+  "name": "shield-exclamation-point",
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "notifications",
+    "gaming"
+  ],
+  "tags": [
+    "unshielded",
+    "insecure",
+    "unsecured",
+    "unsafe",
+    "unprotected",
+    "unguarded",
+    "blocked",
+    "stopped",
+    "detected",
+    "scanned",
+    "exploit",
+    "vulnerability",
+    "compromised",
+    "data leak",
+    "unverified",
+    "emergency",
+    "attention",
+    "alarm",
+    "attacked",
+    "disabled"
+  ],
+  "aliases": [
+    "shield-alert",
+    "security-warning"
+  ],
+  "deprecated": false
+}

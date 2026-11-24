@@ -1,0 +1,16 @@
+{
+  "name": "squares-exclude",
+  "categories": [
+    "design"
+  ],
+  "tags": [
+    "square",
+    "pathfinder",
+    "exclude",
+    "xor",
+    "shape",
+    "boolean"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

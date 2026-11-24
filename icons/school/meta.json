@@ -1,0 +1,30 @@
+{
+  "name": "school",
+  "categories": [
+    "buildings",
+    "navigation",
+    "education"
+  ],
+  "tags": [
+    "building",
+    "education",
+    "childhood",
+    "university",
+    "learning",
+    "campus",
+    "scholar",
+    "student",
+    "lecture",
+    "degree",
+    "course",
+    "academia",
+    "study",
+    "knowledge",
+    "classroom"
+  ],
+  "aliases": [
+    "academy",
+    "school-building"
+  ],
+  "deprecated": false
+}

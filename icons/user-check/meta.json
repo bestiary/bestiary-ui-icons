@@ -1,16 +1,18 @@
 {
   "name": "user-check",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-check",
-    "verified-user",
+    "followed",
+    "subscribed",
+    "verified",
     "approved",
-    "active"
+    "user"
   ],
   "aliases": [
-    "verified-user"
+    "verified-user",
+    "approved-user"
   ],
   "deprecated": false
 }

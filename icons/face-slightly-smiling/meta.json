@@ -1,0 +1,22 @@
+{
+  "name": "face-slightly-smiling",
+  "categories": [
+    "emoji"
+  ],
+  "tags": [
+    "$group:emoticon",
+    "smile",
+    "happy",
+    "happiness",
+    "good",
+    "positive",
+    "friendly",
+    "patronizing",
+    "passive aggressive",
+    "ironic"
+  ],
+  "aliases": [
+    "smile"
+  ],
+  "deprecated": false
+}

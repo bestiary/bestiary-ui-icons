@@ -1,0 +1,20 @@
+{
+  "name": "list-indent-decrease",
+  "categories": [
+    "text",
+    "development"
+  ],
+  "tags": [
+    "list",
+    "indent",
+    "outdent",
+    "decrease",
+    "text",
+    "tab"
+  ],
+  "aliases": [
+    "outdent",
+    "indent-decrease"
+  ],
+  "deprecated": false
+}

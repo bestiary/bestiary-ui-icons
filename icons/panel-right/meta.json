@@ -1,0 +1,14 @@
+{
+  "name": "panel-right",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-right",
+    "sidebar",
+    "secondary",
+    "drawer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

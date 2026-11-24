@@ -1,0 +1,16 @@
+{
+  "name": "chevrons-left-right",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "left",
+    "right",
+    "expand",
+    "chevrons"
+  ],
+  "aliases": [
+    "expand-chevrons-h"
+  ],
+  "deprecated": false
+}

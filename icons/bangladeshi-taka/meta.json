@@ -1,0 +1,15 @@
+{
+  "name": "bangladeshi-taka",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "bdt",
+    "৳",
+    "remittance",
+    "ecommerce"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

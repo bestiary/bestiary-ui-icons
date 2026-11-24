@@ -1,0 +1,12 @@
+{
+  "name": "banana",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "fruit",
+    "food"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

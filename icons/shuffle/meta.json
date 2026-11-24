@@ -1,0 +1,18 @@
+{
+  "name": "shuffle",
+  "categories": [
+    "multimedia",
+    "arrows"
+  ],
+  "tags": [
+    "music",
+    "random",
+    "reorder",
+    "shuffle"
+  ],
+  "aliases": [
+    "random-order",
+    "shuffle-play"
+  ],
+  "deprecated": false
+}

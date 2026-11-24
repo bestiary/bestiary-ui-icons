@@ -1,0 +1,12 @@
+{
+  "name": "smartphone-charging",
+  "categories": [
+    "$extends:smartphone"
+  ],
+  "tags": [
+    "$extends:smartphone",
+    "power"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

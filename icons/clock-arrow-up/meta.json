@@ -1,0 +1,12 @@
+{
+  "name": "clock-arrow-up",
+  "categories": [
+    "$extends:clock"
+  ],
+  "tags": [
+    "$extends:clock",
+    "$group:direction-up",
+    "$group:sort"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "list-checks",
+  "categories": [
+    "$extends:list"
+  ],
+  "tags": [
+    "$group:check",
+    "items",
+    "pending",
+    "checklist"
+  ],
+  "aliases": []
+}

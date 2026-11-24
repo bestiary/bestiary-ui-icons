@@ -1,0 +1,22 @@
+{
+  "name": "panel-top-dashed",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$extends:panel-top",
+    "$group:dashed",
+    "menu bar",
+    "show",
+    "reveal",
+    "padding",
+    "margin",
+    "guide",
+    "layout",
+    "bleed"
+  ],
+  "aliases": [
+    "panel-top-inactive"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "receipt-russian-ruble",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "rub",
+    "₽"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

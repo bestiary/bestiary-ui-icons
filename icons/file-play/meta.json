@@ -1,0 +1,17 @@
+{
+  "name": "file-play",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:play",
+    "movie",
+    "video",
+    "film"
+  ],
+  "aliases": [
+    "file-video"
+  ],
+  "deprecated": false
+}

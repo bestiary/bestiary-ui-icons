@@ -1,0 +1,10 @@
+{
+  "name": "guitar-electric",
+  "categories": [
+    "$extends:guitar"
+  ],
+  "tags": [
+    "$extends:guitar"
+  ],
+  "aliases": []
+}

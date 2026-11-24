@@ -1,0 +1,15 @@
+{
+  "name": "tv-minimal-play",
+  "categories": [
+    "$extends:tv-minimal"
+  ],
+  "tags": [
+    "$extends:tv-minimal",
+    "$group:play",
+    "movie",
+    "ott",
+    "film"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

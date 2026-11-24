@@ -1,0 +1,17 @@
+{
+  "name": "monitor-pc",
+  "categories": [
+    "devices",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "monitor",
+    "pc",
+    "desktop",
+    "workstation",
+    "computer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

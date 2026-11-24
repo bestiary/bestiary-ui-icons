@@ -1,0 +1,16 @@
+{
+  "name": "hop-off",
+  "categories": [
+    "$extends:hop"
+  ],
+  "tags": [
+    "$extends:hop",
+    "$group:off",
+    "hop free",
+    "allergy",
+    "intolerance",
+    "diet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

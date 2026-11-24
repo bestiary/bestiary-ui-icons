@@ -1,0 +1,31 @@
+{
+  "name": "graph-path",
+  "categories": [
+    "charts",
+    "finance",
+    "travel"
+  ],
+  "tags": [
+    "graph",
+    "line",
+    "dot",
+    "analysis",
+    "branch",
+    "merging",
+    "converging",
+    "trail",
+    "route",
+    "analytics",
+    "timeline",
+    "waypoint",
+    "milestone",
+    "tracking",
+    "trend",
+    "sequence"
+  ],
+  "aliases": [
+    "node-path",
+    "waypoint-graph"
+  ],
+  "deprecated": false
+}

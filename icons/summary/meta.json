@@ -1,0 +1,26 @@
+{
+  "name": "summary",
+  "categories": [
+    "text",
+    "ai"
+  ],
+  "tags": [
+    "brief",
+    "abstract",
+    "synopsis",
+    "report",
+    "digest",
+    "outline",
+    "recap",
+    "condensation",
+    "summary",
+    "ai",
+    "text",
+    "overview"
+  ],
+  "aliases": [
+    "ai-summary",
+    "tldr"
+  ],
+  "deprecated": false
+}

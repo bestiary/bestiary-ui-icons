@@ -1,0 +1,26 @@
+{
+  "name": "square-arrow-right-enter",
+  "categories": [
+    "arrows",
+    "account",
+    "development"
+  ],
+  "tags": [
+    "left",
+    "source",
+    "place",
+    "sign in",
+    "log in",
+    "login",
+    "join",
+    "auth",
+    "data flow",
+    "node editor",
+    "panel"
+  ],
+  "aliases": [
+    "enter-square",
+    "square-sign-in"
+  ],
+  "deprecated": false
+}

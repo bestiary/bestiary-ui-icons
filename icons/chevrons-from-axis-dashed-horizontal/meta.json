@@ -1,0 +1,19 @@
+{
+  "name": "chevrons-from-axis-dashed-horizontal",
+  "categories": [
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "dashed",
+    "expand",
+    "horizontal",
+    "axis",
+    "chevrons"
+  ],
+  "aliases": [
+    "chevrons-expand-h-dashed",
+    "split-chevrons-h-dashed"
+  ],
+  "deprecated": false
+}

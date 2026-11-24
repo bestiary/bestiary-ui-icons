@@ -1,0 +1,27 @@
+{
+  "name": "omega",
+  "categories": [
+    "letters-digits",
+    "math",
+    "text",
+    "science"
+  ],
+  "tags": [
+    "$group:letter",
+    "greek",
+    "symbol",
+    "mathematics",
+    "education",
+    "physics",
+    "engineering",
+    "ohms",
+    "electrical resistance",
+    "angular frequency",
+    "dynamical systems",
+    "astronomy",
+    "constellations",
+    "philosophy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,7 +1,20 @@
 {
   "name": "zoom-out",
-  "categories": ["accessibility"],
-  "tags": ["zoom-out", "shrink", "reduce", "scale-down", "minus"],
-  "aliases": ["shrink", "scale-down"],
+  "categories": [
+    "accessibility",
+    "layout",
+    "design",
+    "photography"
+  ],
+  "tags": [
+    "magnifying glass",
+    "zoom",
+    "shrink",
+    "minus"
+  ],
+  "aliases": [
+    "zoom-smaller",
+    "scale-down"
+  ],
   "deprecated": false
 }

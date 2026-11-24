@@ -1,0 +1,17 @@
+{
+  "name": "airplay",
+  "categories": [
+    "multimedia",
+    "connectivity"
+  ],
+  "tags": [
+    "stream",
+    "cast",
+    "mirroring",
+    "screen",
+    "monitor",
+    "airplay"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

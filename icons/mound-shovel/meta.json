@@ -1,0 +1,36 @@
+{
+  "name": "mound-shovel",
+  "categories": [
+    "tools",
+    "nature"
+  ],
+  "tags": [
+    "$extends:shovel",
+    "sand",
+    "pile",
+    "grain",
+    "desert",
+    "nature",
+    "dirt pile",
+    "sand pile",
+    "dirt",
+    "soil",
+    "earth",
+    "gravel",
+    "heap",
+    "stockpile",
+    "aggregate",
+    "excavation",
+    "earthworks",
+    "mine",
+    "mining",
+    "quarry",
+    "sand mine",
+    "frac sand",
+    "construction",
+    "construction site",
+    "landscaping",
+    "beach"
+  ],
+  "aliases": []
+}

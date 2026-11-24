@@ -1,0 +1,13 @@
+{
+  "name": "calendar-fold",
+  "categories": [
+    "$extends:calendar",
+    "files"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "ics"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

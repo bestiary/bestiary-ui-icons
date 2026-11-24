@@ -1,6 +1,19 @@
 {
   "name": "heart",
-  "categories": ["social"],
-  "tags": ["heart", "like", "favorite", "love", "health"],
-  "aliases": ["like", "favorite", "love"]
+  "categories": [
+    "medical",
+    "social",
+    "emoji",
+    "gaming",
+    "shapes"
+  ],
+  "tags": [
+    "$group:heart",
+    "emotion",
+    "suit",
+    "playing",
+    "cards"
+  ],
+  "aliases": [],
+  "deprecated": false
 }

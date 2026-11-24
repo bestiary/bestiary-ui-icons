@@ -1,0 +1,20 @@
+{
+  "name": "tower-control",
+  "categories": [
+    "travel",
+    "transportation",
+    "buildings"
+  ],
+  "tags": [
+    "airport",
+    "travel",
+    "tower",
+    "transportation",
+    "lighthouse"
+  ],
+  "aliases": [
+    "control-tower",
+    "air-traffic"
+  ],
+  "deprecated": false
+}

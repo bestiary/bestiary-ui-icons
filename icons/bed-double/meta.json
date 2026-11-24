@@ -1,0 +1,11 @@
+{
+  "name": "bed-double",
+  "categories": [
+    "$extends:bed"
+  ],
+  "tags": [
+    "$extends:bed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

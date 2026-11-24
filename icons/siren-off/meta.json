@@ -1,0 +1,15 @@
+{
+  "name": "siren-off",
+  "categories": [
+    "$extends:siren"
+  ],
+  "tags": [
+    "$extends:siren",
+    "$group:off",
+    "mute",
+    "silent",
+    "silence"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,38 @@
+{
+  "name": "book-heart",
+  "categories": [
+    "social",
+    "text",
+    "gaming"
+  ],
+  "tags": [
+    "$extends:book",
+    "$group:heart",
+    "diary",
+    "romance",
+    "journal",
+    "entry",
+    "entries",
+    "personal",
+    "private",
+    "secret",
+    "crush",
+    "emotion",
+    "feminine",
+    "girls",
+    "teens",
+    "teenager",
+    "therapy",
+    "therapeutic",
+    "therapist",
+    "planner",
+    "organizer",
+    "organiser",
+    "notes",
+    "notepad",
+    "stationery",
+    "sketchbook"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

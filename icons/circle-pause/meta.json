@@ -1,0 +1,14 @@
+{
+  "name": "circle-pause",
+  "categories": [
+    "multimedia"
+  ],
+  "tags": [
+    "$group:pause",
+    "music",
+    "audio"
+  ],
+  "aliases": [
+    "pause-circle"
+  ]
+}

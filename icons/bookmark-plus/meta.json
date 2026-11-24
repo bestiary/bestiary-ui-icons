@@ -1,6 +1,6 @@
 {
   "name": "bookmark-plus",
-  "categories": ["accounts"],
+  "categories": ["account"],
   "tags": ["bookmark-plus", "add-bookmark", "save", "favorite"],
   "aliases": ["add-bookmark"],
   "deprecated": false

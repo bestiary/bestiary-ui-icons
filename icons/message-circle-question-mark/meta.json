@@ -1,0 +1,19 @@
+{
+  "name": "message-circle-question-mark",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "question",
+    "help",
+    "support",
+    "chat",
+    "faq"
+  ],
+  "aliases": [
+    "chat-help",
+    "faq-bubble"
+  ],
+  "deprecated": false
+}

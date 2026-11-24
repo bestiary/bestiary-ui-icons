@@ -1,0 +1,15 @@
+{
+  "name": "list-restart",
+  "categories": [
+    "$extends:list",
+    "multimedia"
+  ],
+  "tags": [
+    "reset",
+    "refresh",
+    "reload",
+    "playlist",
+    "replay"
+  ],
+  "aliases": []
+}

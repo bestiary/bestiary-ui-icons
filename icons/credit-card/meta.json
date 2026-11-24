@@ -1,7 +1,7 @@
 {
   "name": "credit-card",
-  "categories": ["accounts"],
-  "tags": ["credit-card", "payment", "billing", "card", "subscription"],
+  "categories": ["account", "finance"],
+  "tags": ["bank", "purchase", "payment", "cc", "cashier", "merchant"],
   "aliases": ["payment-card", "debit-card"],
   "deprecated": false
 }

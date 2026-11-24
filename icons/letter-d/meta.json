@@ -1,0 +1,19 @@
+{
+  "name": "letter-d",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "drive",
+    "gear",
+    "diameter",
+    "measurement",
+    "vitamin",
+    "grade",
+    "rating"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

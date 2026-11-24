@@ -1,0 +1,29 @@
+{
+  "name": "square-letter-m",
+  "categories": [
+    "letters-digits",
+    "transportation",
+    "navigation"
+  ],
+  "tags": [
+    "metro",
+    "subway",
+    "underground",
+    "track",
+    "line",
+    "$group:letter",
+    "uppercase",
+    "million",
+    "mega",
+    "metre",
+    "measurement",
+    "male",
+    "medium",
+    "size"
+  ],
+  "aliases": [
+    "m-square",
+    "square-m"
+  ],
+  "deprecated": false
+}

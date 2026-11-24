@@ -1,0 +1,19 @@
+{
+  "name": "message-square-dot",
+  "categories": [
+    "social",
+    "communication",
+    "notifications"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "conversation",
+    "dot",
+    "unread",
+    "notification",
+    "unresolved"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

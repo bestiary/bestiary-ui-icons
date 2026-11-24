@@ -1,0 +1,21 @@
+{
+  "name": "door-open",
+  "categories": [
+    "home",
+    "travel",
+    "security"
+  ],
+  "tags": [
+    "entrance",
+    "entry",
+    "exit",
+    "ingress",
+    "egress",
+    "gate",
+    "gateway",
+    "emergency exit",
+    "quit"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

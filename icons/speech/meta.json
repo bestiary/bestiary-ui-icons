@@ -1,7 +1,7 @@
 {
   "name": "speech",
-  "categories": ["accessibility"],
-  "tags": ["speech", "voice", "talk", "text-to-speech", "tts"],
+  "categories": ["accessibility", "communication"],
+  "tags": ["disability", "disabled", "dda", "human", "accessibility", "people", "sound"],
   "aliases": ["text-to-speech", "tts"],
   "deprecated": false
 }

@@ -1,0 +1,16 @@
+{
+  "name": "square-letter-p-off",
+  "categories": [
+    "$extends:square-letter-p"
+  ],
+  "tags": [
+    "$extends:square-letter-p",
+    "$group:off",
+    "no parking"
+  ],
+  "aliases": [
+    "parking-square-off",
+    "square-parking-off"
+  ],
+  "deprecated": false
+}

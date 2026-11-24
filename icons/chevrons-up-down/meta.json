@@ -1,0 +1,18 @@
+{
+  "name": "chevrons-up-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up",
+    "down",
+    "expand",
+    "chevrons",
+    "select"
+  ],
+  "aliases": [
+    "select-chevrons",
+    "expand-chevrons-v"
+  ],
+  "deprecated": false
+}

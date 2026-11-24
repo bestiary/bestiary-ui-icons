@@ -1,0 +1,22 @@
+{
+  "name": "bot-plus",
+  "categories": [
+    "development",
+    "social",
+    "ai"
+  ],
+  "tags": [
+    "robot",
+    "ai",
+    "assistant",
+    "chatbot",
+    "agent",
+    "add",
+    "create"
+  ],
+  "aliases": [
+    "add-bot",
+    "new-agent"
+  ],
+  "deprecated": false
+}

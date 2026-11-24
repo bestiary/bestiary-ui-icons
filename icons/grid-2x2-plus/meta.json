@@ -1,0 +1,16 @@
+{
+  "name": "grid-2x2-plus",
+  "categories": [
+    "text",
+    "layout"
+  ],
+  "tags": [
+    "$extends:grid-2x2",
+    "$group:plus",
+    "data"
+  ],
+  "aliases": [
+    "grid-2-x-2-plus"
+  ],
+  "deprecated": false
+}

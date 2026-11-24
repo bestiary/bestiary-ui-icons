@@ -1,16 +1,18 @@
 {
   "name": "user-round",
   "categories": [
-    "accounts"
-  ],
-  "tags": [
-    "user-round",
-    "portrait",
-    "profile",
     "account"
   ],
+  "tags": [
+    "user",
+    "person",
+    "profile",
+    "account",
+    "avatar"
+  ],
   "aliases": [
-    "profile-round"
+    "user-2",
+    "round-user"
   ],
   "deprecated": false
 }

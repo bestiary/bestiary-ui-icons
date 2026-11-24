@@ -1,0 +1,13 @@
+{
+  "name": "image-play",
+  "categories": [
+    "$extends:image"
+  ],
+  "tags": [
+    "$extends:image",
+    "$group:play",
+    "gif"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

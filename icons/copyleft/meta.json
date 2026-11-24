@@ -1,0 +1,11 @@
+{
+  "name": "copyleft",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "licence"
+  ],
+  "aliases": []
+}

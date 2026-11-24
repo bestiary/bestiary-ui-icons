@@ -1,0 +1,15 @@
+{
+  "name": "panel-left",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-left",
+    "primary",
+    "drawer"
+  ],
+  "aliases": [
+    "sidebar"
+  ],
+  "deprecated": false
+}

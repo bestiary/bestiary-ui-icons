@@ -1,0 +1,16 @@
+{
+  "name": "monitor-up",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:direction-up",
+    "upload",
+    "connect",
+    "remote",
+    "cast"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "microwave",
+  "categories": [
+    "food-beverage",
+    "home"
+  ],
+  "tags": [
+    "oven",
+    "cooker",
+    "toaster oven",
+    "bake"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

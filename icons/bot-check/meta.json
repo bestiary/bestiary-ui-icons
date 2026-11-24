@@ -1,0 +1,21 @@
+{
+  "name": "bot-check",
+  "categories": [
+    "development",
+    "social",
+    "ai"
+  ],
+  "tags": [
+    "connected",
+    "bot",
+    "robot",
+    "ai",
+    "agent",
+    "verified"
+  ],
+  "aliases": [
+    "bot-verified",
+    "agent-active"
+  ],
+  "deprecated": false
+}

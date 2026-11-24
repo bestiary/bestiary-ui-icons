@@ -1,0 +1,31 @@
+{
+  "name": "route",
+  "categories": [
+    "navigation",
+    "logistics"
+  ],
+  "tags": [
+    "path",
+    "journey",
+    "planner",
+    "points",
+    "stops",
+    "stations",
+    "direction",
+    "right",
+    "flow",
+    "reroute",
+    "detour",
+    "navigate",
+    "forward",
+    "auto",
+    "map",
+    "waypoint",
+    "gps",
+    "turn",
+    "location",
+    "directional"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

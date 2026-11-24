@@ -1,0 +1,13 @@
+{
+  "name": "square-square",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "float",
+    "$group:position-center",
+    "rectangle"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

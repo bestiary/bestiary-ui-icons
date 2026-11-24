@@ -1,0 +1,18 @@
+{
+  "name": "move-vertical",
+  "categories": [
+    "arrows",
+    "cursors"
+  ],
+  "tags": [
+    "double",
+    "arrow",
+    "vertical",
+    "resize"
+  ],
+  "aliases": [
+    "resize-vertical",
+    "up-down-stretch"
+  ],
+  "deprecated": false
+}

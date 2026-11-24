@@ -1,0 +1,20 @@
+{
+  "name": "pen",
+  "categories": [
+    "text",
+    "design",
+    "tools"
+  ],
+  "tags": [
+    "pen",
+    "ink",
+    "marker",
+    "edit",
+    "write",
+    "draw"
+  ],
+  "aliases": [
+    "edit-2"
+  ],
+  "deprecated": false
+}

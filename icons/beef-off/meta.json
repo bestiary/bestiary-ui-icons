@@ -1,0 +1,13 @@
+{
+  "name": "beef-off",
+  "categories": [
+    "$extends:beef"
+  ],
+  "tags": [
+    "$extends:beef",
+    "$group:off",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

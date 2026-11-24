@@ -1,0 +1,13 @@
+{
+  "name": "calendar-heart",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:heart",
+    "subscribe",
+    "valentines day"
+  ],
+  "aliases": []
+}

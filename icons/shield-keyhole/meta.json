@@ -1,0 +1,21 @@
+{
+  "name": "shield-keyhole",
+  "categories": [
+    "account",
+    "security",
+    "development"
+  ],
+  "tags": [
+    "keyhole",
+    "access",
+    "auth",
+    "protected",
+    "authorization",
+    "security"
+  ],
+  "aliases": [
+    "shield-access",
+    "keyhole-shield"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "square-exclamation-point",
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$group:exclamation-mark",
+    "rectangle",
+    "square",
+    "notification",
+    "attention",
+    "important"
+  ],
+  "aliases": []
+}

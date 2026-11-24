@@ -1,0 +1,16 @@
+{
+  "name": "candy-off",
+  "categories": [
+    "$extends:candy"
+  ],
+  "tags": [
+    "$extends:candy",
+    "$group:off",
+    "sugar free",
+    "allergy",
+    "intolerance",
+    "diet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

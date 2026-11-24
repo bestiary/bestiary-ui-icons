@@ -1,0 +1,17 @@
+{
+  "name": "panel-left-close",
+  "categories": [
+    "$extends:panel-left"
+  ],
+  "tags": [
+    "$extends:panel-left",
+    "$group:direction-left",
+    "hide",
+    "chevron",
+    "<"
+  ],
+  "aliases": [
+    "sidebar-close"
+  ],
+  "deprecated": false
+}

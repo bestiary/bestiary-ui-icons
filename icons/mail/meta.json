@@ -1,0 +1,14 @@
+{
+  "name": "mail",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "email",
+    "message",
+    "letter",
+    "unread"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

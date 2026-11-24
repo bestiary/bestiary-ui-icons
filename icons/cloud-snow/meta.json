@@ -1,0 +1,11 @@
+{
+  "name": "cloud-snow",
+  "categories": [
+    "$extends:cloud"
+  ],
+  "tags": [
+    "$extends:cloud",
+    "blizzard"
+  ],
+  "aliases": []
+}

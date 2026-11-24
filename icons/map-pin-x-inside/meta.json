@@ -1,0 +1,10 @@
+{
+  "name": "map-pin-x-inside",
+  "categories": [
+    "$extends:map-pin-x"
+  ],
+  "tags": [
+    "$extends:map-pin-x"
+  ],
+  "aliases": []
+}

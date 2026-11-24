@@ -1,0 +1,12 @@
+{
+  "name": "creative-commons",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "licence",
+    "license"
+  ],
+  "aliases": []
+}

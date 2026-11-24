@@ -1,7 +1,7 @@
 {
   "name": "scan-search",
-  "categories": ["accessibility"],
-  "tags": ["scan", "inspect", "focus", "ocr", "zoom-area"],
+  "categories": ["photography", "multimedia", "accessibility"],
+  "tags": ["preview", "expand", "fullscreen", "gallery", "image"],
   "aliases": ["inspect-area", "ocr-scan"],
   "deprecated": false
 }

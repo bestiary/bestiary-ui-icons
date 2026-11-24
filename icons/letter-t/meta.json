@@ -1,0 +1,19 @@
+{
+  "name": "letter-t",
+  "categories": [
+    "letters-digits",
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "tesla",
+    "magnetism",
+    "temperature",
+    "tonne",
+    "measurement",
+    "time"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "move-up-right",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up-right",
+    "move",
+    "diagonal"
+  ],
+  "aliases": [
+    "long-arrow-up-right",
+    "diagonal-ne"
+  ],
+  "deprecated": false
+}

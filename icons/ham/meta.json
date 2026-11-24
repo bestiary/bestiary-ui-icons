@@ -1,0 +1,19 @@
+{
+  "name": "ham",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "food",
+    "pork",
+    "pig",
+    "meat",
+    "bone",
+    "hock",
+    "knuckle",
+    "gammon",
+    "cured"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

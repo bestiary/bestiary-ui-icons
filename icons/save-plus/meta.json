@@ -1,0 +1,14 @@
+{
+  "name": "save-plus",
+  "categories": [
+    "$extends:save"
+  ],
+  "tags": [
+    "$extends:save",
+    "$group:plus",
+    "save",
+    "update"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

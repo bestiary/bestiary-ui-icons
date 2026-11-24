@@ -1,0 +1,13 @@
+{
+  "name": "mars-stroke",
+  "categories": [
+    "$extends:mars"
+  ],
+  "tags": [
+    "gender",
+    "androgyne",
+    "transgender"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

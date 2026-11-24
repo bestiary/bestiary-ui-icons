@@ -1,0 +1,14 @@
+{
+  "name": "italic",
+  "categories": [
+    "letters-digits",
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "oblique",
+    "format"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

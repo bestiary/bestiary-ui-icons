@@ -1,0 +1,20 @@
+{
+  "name": "list-collapse",
+  "categories": [
+    "$extends:list"
+  ],
+  "tags": [
+    "items",
+    "$group:collapse",
+    "$group:expand",
+    "details",
+    "disclosure",
+    "show",
+    "hide",
+    "toggle",
+    "accordion",
+    "more",
+    "less"
+  ],
+  "aliases": []
+}

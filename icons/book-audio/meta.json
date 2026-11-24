@@ -1,0 +1,14 @@
+{
+  "name": "book-audio",
+  "categories": [
+    "multimedia",
+    "text"
+  ],
+  "tags": [
+    "$extends:book",
+    "$extends:audio-lines",
+    "audiobook",
+    "listening"
+  ],
+  "aliases": []
+}

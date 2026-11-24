@@ -1,0 +1,16 @@
+{
+  "name": "text-align-justify-center",
+  "categories": [
+    "$extends:text-align-justify"
+  ],
+  "tags": [
+    "paragraph",
+    "alignment",
+    "justified",
+    "$group:position-center",
+    "typography",
+    "editor",
+    "document"
+  ],
+  "aliases": []
+}

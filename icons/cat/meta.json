@@ -1,0 +1,17 @@
+{
+  "name": "cat",
+  "categories": [
+    "animals"
+  ],
+  "tags": [
+    "animal",
+    "pet",
+    "kitten",
+    "feline"
+  ],
+  "aliases": [
+    "kitty",
+    "feline"
+  ],
+  "deprecated": false
+}

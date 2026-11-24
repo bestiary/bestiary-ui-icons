@@ -1,0 +1,14 @@
+{
+  "name": "list-tree",
+  "categories": [
+    "$extends:list",
+    "files",
+    "layout"
+  ],
+  "tags": [
+    "tree",
+    "browser"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

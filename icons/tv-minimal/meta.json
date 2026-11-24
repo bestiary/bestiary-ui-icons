@@ -1,0 +1,17 @@
+{
+  "name": "tv-minimal",
+  "categories": [
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:tv",
+    "flat screen",
+    "home cinema",
+    "catchup"
+  ],
+  "aliases": [
+    "tv-2"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "square-pi",
+  "categories": [
+    "letters-digits",
+    "development",
+    "math"
+  ],
+  "tags": [
+    "pi",
+    "constant",
+    "math",
+    "geometry",
+    "formula",
+    "square"
+  ],
+  "aliases": [
+    "pi-square"
+  ],
+  "deprecated": false
+}

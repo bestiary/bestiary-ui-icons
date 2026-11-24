@@ -1,0 +1,23 @@
+{
+  "name": "graph-star",
+  "categories": [
+    "development",
+    "charts"
+  ],
+  "tags": [
+    "mind map",
+    "hub",
+    "dependencies",
+    "bonds",
+    "cluster",
+    "thoughts",
+    "ideas",
+    "concepts",
+    "molecule"
+  ],
+  "aliases": [
+    "star-topology",
+    "hub-network"
+  ],
+  "deprecated": false
+}

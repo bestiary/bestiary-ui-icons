@@ -1,7 +1,7 @@
 {
   "name": "bookmark-check",
-  "categories": ["accounts"],
-  "tags": ["bookmark-check", "saved", "bookmarked", "verified", "done"],
+  "categories": ["account"],
+  "tags": ["save", "favorite", "check", "verified", "bookmarked"],
   "aliases": ["bookmarked", "saved-bookmark"],
   "deprecated": false
 }

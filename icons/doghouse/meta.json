@@ -1,0 +1,21 @@
+{
+  "name": "doghouse",
+  "categories": [
+    "animals",
+    "home",
+    "buildings"
+  ],
+  "tags": [
+    "kennel",
+    "pet",
+    "shelter",
+    "canine",
+    "puppy",
+    "backyard"
+  ],
+  "aliases": [
+    "kennel",
+    "dog-house"
+  ],
+  "deprecated": false
+}

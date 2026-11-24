@@ -1,0 +1,12 @@
+{
+  "name": "calendar-arrow-down",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:direction-down",
+    "$group:sort"
+  ],
+  "aliases": []
+}

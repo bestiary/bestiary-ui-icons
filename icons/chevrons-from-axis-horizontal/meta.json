@@ -1,0 +1,18 @@
+{
+  "name": "chevrons-from-axis-horizontal",
+  "categories": [
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "expand",
+    "horizontal",
+    "axis",
+    "chevrons"
+  ],
+  "aliases": [
+    "chevrons-expand-h",
+    "split-chevrons-h"
+  ],
+  "deprecated": false
+}

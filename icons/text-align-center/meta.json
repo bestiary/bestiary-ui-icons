@@ -1,0 +1,14 @@
+{
+  "name": "text-align-center",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "text",
+    "alignment",
+    "$group:position-center"
+  ],
+  "aliases": [
+    "align-center"
+  ]
+}

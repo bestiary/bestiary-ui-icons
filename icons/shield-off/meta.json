@@ -1,7 +1,40 @@
 {
   "name": "shield-off",
-  "categories": ["accounts"],
-  "tags": ["shield-off", "unprotected", "disabled", "insecure", "no-shield"],
-  "aliases": ["unprotected", "no-shield"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "unshielded",
+    "insecure",
+    "unsecured",
+    "unsafe",
+    "unprotected",
+    "unguarded",
+    "unarmored",
+    "defenseless",
+    "undefended",
+    "interception",
+    "unprevented",
+    "undetected",
+    "exploit",
+    "vulnerability",
+    "weakness",
+    "infected",
+    "compromised",
+    "data leak",
+    "unaudited",
+    "unverified",
+    "error",
+    "damaged",
+    "expired",
+    "eliminated"
+  ],
+  "aliases": [
+    "disabled-shield",
+    "no-shield"
+  ],
   "deprecated": false
 }

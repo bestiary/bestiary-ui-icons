@@ -1,15 +1,19 @@
 {
   "name": "user-round-search",
   "categories": [
-    "accounts"
+    "account",
+    "social"
   ],
   "tags": [
-    "user-round-search",
-    "find-member",
-    "lookup"
+    "search",
+    "find",
+    "lookup",
+    "user",
+    "profile"
   ],
   "aliases": [
-    "find-member"
+    "find-user-round",
+    "search-user-round"
   ],
   "deprecated": false
 }

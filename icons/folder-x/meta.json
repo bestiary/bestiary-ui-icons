@@ -1,0 +1,12 @@
+{
+  "name": "folder-x",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:x"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "house-cog",
+  "categories": [
+    "buildings",
+    "home"
+  ],
+  "tags": [
+    "property",
+    "automation",
+    "house",
+    "home",
+    "cog",
+    "settings"
+  ],
+  "aliases": [
+    "home-settings",
+    "smart-home-config"
+  ],
+  "deprecated": false
+}

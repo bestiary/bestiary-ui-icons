@@ -1,0 +1,14 @@
+{
+  "name": "archive-arrow-up",
+  "categories": [
+    "$extends:archive"
+  ],
+  "tags": [
+    "$extends:archive",
+    "unarchive"
+  ],
+  "aliases": [
+    "archive-restore"
+  ],
+  "deprecated": false
+}

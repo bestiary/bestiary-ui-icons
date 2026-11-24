@@ -1,0 +1,14 @@
+{
+  "name": "git-pull-request-closed",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "git-pull-request",
+    "closed",
+    "rejected",
+    "cancelled"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

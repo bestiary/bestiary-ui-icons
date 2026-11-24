@@ -1,0 +1,16 @@
+{
+  "name": "monitor-cog",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:cog",
+    "executable",
+    "system",
+    "network",
+    "computing"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

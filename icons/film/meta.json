@@ -1,0 +1,16 @@
+{
+  "name": "film",
+  "categories": [
+    "photography",
+    "multimedia"
+  ],
+  "tags": [
+    "movie",
+    "video",
+    "reel",
+    "camera",
+    "cinema",
+    "entertainment"
+  ],
+  "aliases": []
+}

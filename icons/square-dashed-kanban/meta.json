@@ -1,0 +1,30 @@
+{
+  "name": "square-dashed-kanban",
+  "categories": [
+    "charts",
+    "development"
+  ],
+  "tags": [
+    "dashed",
+    "projects",
+    "manage",
+    "overview",
+    "board",
+    "tickets",
+    "issues",
+    "roadmap",
+    "plan",
+    "productivity",
+    "work",
+    "agile",
+    "draft",
+    "template",
+    "boilerplate",
+    "code"
+  ],
+  "aliases": [
+    "kanban-template",
+    "draft-board"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "wind-arrow-down",
+  "categories": [
+    "$extends:wind"
+  ],
+  "tags": [
+    "$extends:wind",
+    "$group:direction-down",
+    "pressure"
+  ],
+  "aliases": []
+}

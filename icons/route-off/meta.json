@@ -1,0 +1,15 @@
+{
+  "name": "route-off",
+  "categories": [
+    "$extends:route"
+  ],
+  "tags": [
+    "$extends:route",
+    "$group:off",
+    "reset",
+    "clear",
+    "closed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

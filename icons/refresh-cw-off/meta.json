@@ -1,0 +1,21 @@
+{
+  "name": "refresh-cw-off",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "sync",
+    "rotate",
+    "off",
+    "no",
+    "stop",
+    "error",
+    "disconnect",
+    "ignore"
+  ],
+  "aliases": [
+    "sync-off",
+    "reload-off"
+  ],
+  "deprecated": false
+}

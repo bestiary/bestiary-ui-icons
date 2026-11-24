@@ -1,0 +1,7 @@
+{
+  "name": "house-arrow-right",
+  "categories": ["buildings", "home", "arrows", "account"],
+  "tags": ["exit", "checkout", "departure", "egress", "sign out", "automation", "rental", "logout"],
+  "aliases": ["home-arrow-right", "leave-home"],
+  "deprecated": false
+}

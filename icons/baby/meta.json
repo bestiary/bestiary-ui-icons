@@ -1,7 +1,7 @@
 {
   "name": "baby",
-  "categories": ["accessibility"],
-  "tags": ["baby", "child", "infant", "family", "care"],
+  "categories": ["accessibility", "people"],
+  "tags": ["child", "childproof", "children"],
   "aliases": ["infant", "toddler"],
   "deprecated": false
 }

@@ -1,7 +1,7 @@
 {
   "name": "contact-round",
-  "categories": ["accounts"],
-  "tags": ["contact-round", "card", "identity", "member", "portrait"],
-  "aliases": ["contact-portrait"],
+  "categories": ["account", "communication", "social"],
+  "tags": ["user", "person", "family", "friend", "acquaintance", "listing", "networking", "round"],
+  "aliases": ["contact-2"],
   "deprecated": false
 }

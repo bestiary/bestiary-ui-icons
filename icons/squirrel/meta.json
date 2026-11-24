@@ -1,0 +1,22 @@
+{
+  "name": "squirrel",
+  "categories": [
+    "animals"
+  ],
+  "tags": [
+    "animal",
+    "rodent",
+    "pet",
+    "pest",
+    "nuts",
+    "retrieve",
+    "updates",
+    "storage",
+    "stash"
+  ],
+  "aliases": [
+    "chipmunk",
+    "rodent-squirrel"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,30 @@
+{
+  "name": "door-stairwell",
+  "categories": [
+    "buildings",
+    "navigation"
+  ],
+  "tags": [
+    "staircase",
+    "stairway",
+    "stairs",
+    "steps",
+    "ladder",
+    "transition",
+    "access",
+    "structure",
+    "building",
+    "vertical",
+    "floor",
+    "level",
+    "entrance",
+    "exit",
+    "egress",
+    "emergency exit"
+  ],
+  "aliases": [
+    "stairwell",
+    "fire-exit-stairs"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "philippine-peso",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "peso",
+    "php"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

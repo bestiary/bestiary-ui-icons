@@ -1,0 +1,16 @@
+{
+  "name": "origami",
+  "categories": [
+    "animals",
+    "design"
+  ],
+  "tags": [
+    "paper",
+    "bird"
+  ],
+  "aliases": [
+    "paper-crane",
+    "paper-bird"
+  ],
+  "deprecated": false
+}

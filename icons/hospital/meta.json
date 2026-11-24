@@ -1,0 +1,28 @@
+{
+  "name": "hospital",
+  "categories": [
+    "medical",
+    "buildings",
+    "navigation"
+  ],
+  "tags": [
+    "infirmary",
+    "sanatorium",
+    "healthcare",
+    "doctor",
+    "hospice",
+    "clinic",
+    "emergency room",
+    "ward",
+    "building",
+    "medical",
+    "vet",
+    "sick",
+    "patient"
+  ],
+  "aliases": [
+    "clinic",
+    "medical-center"
+  ],
+  "deprecated": false
+}

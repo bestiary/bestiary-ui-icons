@@ -1,0 +1,18 @@
+{
+  "name": "switch-camera",
+  "categories": [
+    "communication",
+    "devices",
+    "photography"
+  ],
+  "tags": [
+    "photo",
+    "selfie",
+    "front",
+    "back",
+    "flip",
+    "camera"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

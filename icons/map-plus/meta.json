@@ -1,0 +1,12 @@
+{
+  "name": "map-plus",
+  "categories": [
+    "navigation",
+    "travel"
+  ],
+  "tags": [
+    "$extends:map",
+    "$group:plus"
+  ],
+  "aliases": []
+}

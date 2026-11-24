@@ -1,0 +1,18 @@
+{
+  "name": "arrow-down-to-dot",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "waypoint",
+    "location",
+    "step",
+    "into"
+  ],
+  "aliases": [
+    "step-into",
+    "target-down"
+  ],
+  "deprecated": false
+}

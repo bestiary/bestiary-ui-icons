@@ -1,0 +1,17 @@
+{
+  "name": "monitor-play",
+  "categories": [
+    "$extends:monitor",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:play",
+    "video",
+    "movie",
+    "film",
+    "boot"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

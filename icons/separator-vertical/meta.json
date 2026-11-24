@@ -1,0 +1,19 @@
+{
+  "name": "separator-vertical",
+  "categories": [
+    "text",
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "move",
+    "split",
+    "separator",
+    "vertical"
+  ],
+  "aliases": [
+    "split-column",
+    "resize-column"
+  ],
+  "deprecated": false
+}

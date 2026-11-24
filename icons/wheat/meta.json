@@ -1,0 +1,14 @@
+{
+  "name": "wheat",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "corn",
+    "cereal",
+    "grain",
+    "gluten"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

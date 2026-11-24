@@ -1,7 +1,17 @@
 {
   "name": "square-user-round",
-  "categories": ["accounts"],
-  "tags": ["square-user-round", "avatar", "portrait", "profile", "account"],
-  "aliases": ["portrait-square"],
+  "categories": [
+    "account"
+  ],
+  "tags": [
+    "user",
+    "profile",
+    "account",
+    "avatar"
+  ],
+  "aliases": [
+    "user-square-2",
+    "round-avatar-square"
+  ],
   "deprecated": false
 }

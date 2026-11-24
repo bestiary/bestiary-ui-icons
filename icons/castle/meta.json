@@ -1,0 +1,20 @@
+{
+  "name": "castle",
+  "categories": [
+    "buildings",
+    "gaming",
+    "navigation"
+  ],
+  "tags": [
+    "fortress",
+    "stronghold",
+    "palace",
+    "chateau",
+    "building"
+  ],
+  "aliases": [
+    "fortress",
+    "citadel"
+  ],
+  "deprecated": false
+}

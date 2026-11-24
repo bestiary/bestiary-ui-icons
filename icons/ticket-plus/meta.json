@@ -1,0 +1,13 @@
+{
+  "name": "ticket-plus",
+  "categories": [
+    "transportation"
+  ],
+  "tags": [
+    "$extends:ticket",
+    "$group:plus",
+    "book",
+    "purchase"
+  ],
+  "aliases": []
+}

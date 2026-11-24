@@ -1,0 +1,10 @@
+{
+  "name": "clock-fading",
+  "categories": [
+    "$extends:clock"
+  ],
+  "tags": [
+    "$extends:clock"
+  ],
+  "aliases": []
+}

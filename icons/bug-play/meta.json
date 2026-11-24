@@ -1,0 +1,19 @@
+{
+  "name": "bug-play",
+  "categories": [
+    "development",
+    "animals"
+  ],
+  "tags": [
+    "reproduce",
+    "bug",
+    "debug",
+    "play",
+    "run"
+  ],
+  "aliases": [
+    "debug-play",
+    "reproduce-bug"
+  ],
+  "deprecated": false
+}

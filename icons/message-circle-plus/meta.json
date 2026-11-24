@@ -1,0 +1,19 @@
+{
+  "name": "message-circle-plus",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "add",
+    "new",
+    "plus"
+  ],
+  "aliases": [
+    "new-chat",
+    "add-comment"
+  ],
+  "deprecated": false
+}

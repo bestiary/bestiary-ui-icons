@@ -1,0 +1,14 @@
+{
+  "name": "file-pen-line",
+  "categories": [
+    "$extends:file-pen"
+  ],
+  "tags": [
+    "$extends:file-pen",
+    "$group:pen"
+  ],
+  "aliases": [
+    "file-signature"
+  ],
+  "deprecated": false
+}

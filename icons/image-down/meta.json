@@ -1,0 +1,15 @@
+{
+  "name": "image-down",
+  "categories": [
+    "$extends:image"
+  ],
+  "tags": [
+    "$extends:image",
+    "$group:direction-down",
+    "download",
+    "save",
+    "export"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

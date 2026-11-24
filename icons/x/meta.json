@@ -1,0 +1,17 @@
+{
+  "name": "x",
+  "categories": [
+    "notifications",
+    "math",
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "$group:x",
+    "math",
+    "multiply",
+    "multiplication"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

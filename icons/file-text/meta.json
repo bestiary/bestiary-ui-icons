@@ -1,0 +1,19 @@
+{
+  "name": "file-text",
+  "categories": [
+    "$extends:file",
+    "text"
+  ],
+  "tags": [
+    "$extends:file",
+    "data",
+    "txt",
+    "pdf",
+    "doc",
+    "docx",
+    "word",
+    "docs"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "wifi",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "connection",
+    "signal",
+    "wireless",
+    "network",
+    "wifi"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,26 @@
+{
+  "name": "letter-h",
+  "categories": [
+    "letters-digits",
+    "text"
+  ],
+  "tags": [
+    "html",
+    "markup",
+    "markdown",
+    "$group:letter",
+    "uppercase",
+    "heading",
+    "hospital",
+    "hydrogen",
+    "chemistry",
+    "hour",
+    "time",
+    "height",
+    "measurement"
+  ],
+  "aliases": [
+    "heading"
+  ],
+  "deprecated": false
+}

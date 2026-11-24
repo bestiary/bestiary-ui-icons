@@ -1,7 +1,0 @@
-{
-  "name": "shield-key",
-  "categories": ["accounts"],
-  "tags": ["shield-key", "encryption", "ssh-key", "passkey", "security"],
-  "aliases": ["security-key", "key-guard"],
-  "deprecated": false
-}

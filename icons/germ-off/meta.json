@@ -1,0 +1,12 @@
+{
+  "name": "germ-off",
+  "categories": [
+    "$extends:germ"
+  ],
+  "tags": [
+    "$extends:germ",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "audio-lines-off",
+  "categories": [
+    "multimedia",
+    "communication"
+  ],
+  "tags": [
+    "audio",
+    "mute",
+    "silence",
+    "equalizer",
+    "waveform",
+    "off"
+  ],
+  "aliases": [
+    "equalizer-off",
+    "audio-muted"
+  ],
+  "deprecated": false
+}

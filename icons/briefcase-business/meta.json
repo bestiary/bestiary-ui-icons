@@ -1,0 +1,11 @@
+{
+  "name": "briefcase-business",
+  "categories": [
+    "$extends:briefcase"
+  ],
+  "tags": [
+    "$extends:briefcase",
+    "portfolio"
+  ],
+  "aliases": []
+}

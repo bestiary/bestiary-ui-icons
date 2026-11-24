@@ -1,0 +1,15 @@
+{
+  "name": "octagon-pause",
+  "categories": [
+    "$extends:octagon",
+    "multimedia"
+  ],
+  "tags": [
+    "$group:pause",
+    "music",
+    "audio"
+  ],
+  "aliases": [
+    "pause-octagon"
+  ]
+}

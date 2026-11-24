@@ -1,0 +1,15 @@
+{
+  "name": "circle-fading-check",
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$group:check",
+    "pending",
+    "progress",
+    "processing",
+    "verifying",
+    "loading"
+  ],
+  "aliases": []
+}

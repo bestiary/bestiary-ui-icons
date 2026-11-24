@@ -1,0 +1,19 @@
+{
+  "name": "hand-grab",
+  "categories": [
+    "cursors",
+    "design",
+    "layout"
+  ],
+  "tags": [
+    "hand",
+    "grab",
+    "drag",
+    "move",
+    "cursor"
+  ],
+  "aliases": [
+    "grab"
+  ],
+  "deprecated": false
+}

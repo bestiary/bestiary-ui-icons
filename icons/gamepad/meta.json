@@ -1,0 +1,12 @@
+{
+  "name": "gamepad",
+  "categories": [
+    "gaming",
+    "devices"
+  ],
+  "tags": [
+    "console"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

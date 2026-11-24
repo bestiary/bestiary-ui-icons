@@ -1,0 +1,13 @@
+{
+  "name": "candy-cane",
+  "categories": [
+    "$extends:candy"
+  ],
+  "tags": [
+    "$extends:candy",
+    "christmas",
+    "xmas"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,7 +1,7 @@
 {
   "name": "ear-off",
-  "categories": ["accessibility"],
-  "tags": ["ear-off", "deaf", "mute", "hearing-impaired", "no-audio"],
+  "categories": ["medical", "accessibility"],
+  "tags": ["hard of hearing", "hearing loss", "deafness", "silence"],
   "aliases": ["deaf", "no-hearing"],
   "deprecated": false
 }

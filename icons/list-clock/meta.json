@@ -1,0 +1,18 @@
+{
+  "name": "list-clock",
+  "categories": [
+    "$extends:list",
+    "time"
+  ],
+  "tags": [
+    "$group:clock",
+    "log",
+    "recent",
+    "updated",
+    "revision",
+    "activity",
+    "audit",
+    "list"
+  ],
+  "aliases": []
+}

@@ -1,16 +1,25 @@
 {
   "name": "user-round-clock",
   "categories": [
-    "accounts"
+    "account",
+    "time",
+    "people"
   ],
   "tags": [
-    "user-round-clock",
-    "pending-user",
+    "log",
+    "recent",
+    "activity",
     "session",
+    "avatar",
+    "badge",
+    "reminder",
+    "audit",
+    "clock",
     "history"
   ],
   "aliases": [
-    "pending-user"
+    "user-history",
+    "user-activity"
   ],
   "deprecated": false
 }

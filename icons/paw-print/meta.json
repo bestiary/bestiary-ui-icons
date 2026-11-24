@@ -1,0 +1,20 @@
+{
+  "name": "paw-print",
+  "categories": [
+    "animals"
+  ],
+  "tags": [
+    "pets",
+    "vets",
+    "veterinarian",
+    "domesticated",
+    "cat",
+    "dog",
+    "bear"
+  ],
+  "aliases": [
+    "animal-paw",
+    "pet-print"
+  ],
+  "deprecated": false
+}

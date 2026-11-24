@@ -1,0 +1,11 @@
+{
+  "name": "pause",
+  "categories": [
+    "multimedia"
+  ],
+  "tags": [
+    "$group:pause",
+    "music"
+  ],
+  "aliases": []
+}

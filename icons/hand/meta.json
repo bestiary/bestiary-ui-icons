@@ -1,7 +1,7 @@
 {
   "name": "hand",
-  "categories": ["accessibility"],
-  "tags": ["hand", "palm", "stop", "gesture", "touch"],
+  "categories": ["cursors", "accessibility"],
+  "tags": ["wave", "move", "mouse", "grab", "welcome", "hello", "hi", "greeting", "goodbye", "bye"],
   "aliases": ["palm", "stop-hand"],
   "deprecated": false
 }

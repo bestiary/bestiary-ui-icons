@@ -1,0 +1,17 @@
+{
+  "name": "chart-line",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "line",
+    "graph",
+    "analytics"
+  ],
+  "aliases": [
+    "line-chart",
+    "line-graph"
+  ],
+  "deprecated": false
+}

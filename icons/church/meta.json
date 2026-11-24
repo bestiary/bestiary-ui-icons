@@ -1,0 +1,18 @@
+{
+  "name": "church",
+  "categories": [
+    "buildings",
+    "navigation"
+  ],
+  "tags": [
+    "temple",
+    "building",
+    "church",
+    "chapel"
+  ],
+  "aliases": [
+    "chapel",
+    "cathedral"
+  ],
+  "deprecated": false
+}

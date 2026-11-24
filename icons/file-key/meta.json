@@ -1,0 +1,15 @@
+{
+  "name": "file-key",
+  "categories": [
+    "$extends:file",
+    "security"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:key"
+  ],
+  "aliases": [
+    "file-key-2"
+  ],
+  "deprecated": false
+}

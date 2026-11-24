@@ -1,0 +1,14 @@
+{
+  "name": "ticket-percent",
+  "categories": [
+    "transportation",
+    "shopping"
+  ],
+  "tags": [
+    "$extends:ticket",
+    "$group:percent",
+    "book",
+    "purchase"
+  ],
+  "aliases": []
+}

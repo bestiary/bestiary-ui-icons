@@ -1,0 +1,18 @@
+{
+  "name": "panda",
+  "categories": [
+    "animals"
+  ],
+  "tags": [
+    "animal",
+    "wildlife",
+    "bear",
+    "zoo",
+    "bamboo"
+  ],
+  "aliases": [
+    "panda-bear",
+    "giant-panda"
+  ],
+  "deprecated": false
+}

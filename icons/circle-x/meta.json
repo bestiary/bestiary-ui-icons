@@ -1,0 +1,21 @@
+{
+  "name": "circle-x",
+  "categories": [
+    "math",
+    "notifications"
+  ],
+  "tags": [
+    "$group:x",
+    "incorrect",
+    "wrong",
+    "mistake",
+    "failure",
+    "linter",
+    "multiply",
+    "multiplication"
+  ],
+  "aliases": [
+    "x-circle"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "volume-x",
+  "categories": [
+    "communication",
+    "multimedia"
+  ],
+  "tags": [
+    "volume",
+    "music",
+    "sound",
+    "mute",
+    "speaker",
+    "silence"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

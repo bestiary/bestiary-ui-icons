@@ -1,7 +1,7 @@
 {
   "name": "credit-card-plus",
-  "categories": ["accounts"],
-  "tags": ["credit-card-plus", "add-card", "new-payment", "billing"],
+  "categories": ["account", "finance", "shopping"],
+  "tags": ["debit", "banking", "finance", "transaction", "wallet", "checkout", "billing", "account", "cardholder", "link", "save", "method"],
   "aliases": ["add-card"],
   "deprecated": false
 }

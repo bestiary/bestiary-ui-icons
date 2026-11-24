@@ -1,0 +1,19 @@
+{
+  "name": "dock",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-bottom",
+    "desktop",
+    "applications",
+    "launch",
+    "home",
+    "menu bar",
+    "line",
+    "macos",
+    "osx"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

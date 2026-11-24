@@ -1,7 +1,7 @@
 {
   "name": "credit-card-check",
-  "categories": ["accounts"],
-  "tags": ["credit-card-check", "payment-verified", "billing-ok", "paid"],
+  "categories": ["account", "finance", "shopping"],
+  "tags": ["debit", "banking", "finance", "transaction", "wallet", "checkout", "billing", "account", "cardholder", "authorized"],
   "aliases": ["payment-verified", "card-verified"],
   "deprecated": false
 }

@@ -1,7 +1,7 @@
 {
   "name": "id-card-lanyard",
-  "categories": ["accounts"],
-  "tags": ["id-card-lanyard", "badge-pass", "staff", "conference", "visitor"],
+  "categories": ["security", "account"],
+  "tags": ["id-card", "id-card-lanyard", "employee", "gate-pass", "job", "career", "employment", "hiring", "experience"],
   "aliases": ["lanyard", "staff-pass"],
   "deprecated": false
 }

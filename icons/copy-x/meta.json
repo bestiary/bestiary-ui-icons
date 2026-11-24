@@ -1,0 +1,14 @@
+{
+  "name": "copy-x",
+  "categories": [
+    "notifications",
+    "$extends:copy"
+  ],
+  "tags": [
+    "$extends:copy",
+    "$group:x",
+    "multiply",
+    "multiplication"
+  ],
+  "aliases": []
+}

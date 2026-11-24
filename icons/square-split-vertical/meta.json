@@ -1,0 +1,14 @@
+{
+  "name": "square-split-vertical",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "split",
+    "divide"
+  ],
+  "aliases": [
+    "split-square-vertical"
+  ],
+  "deprecated": false
+}

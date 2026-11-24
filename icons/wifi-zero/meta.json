@@ -1,0 +1,16 @@
+{
+  "name": "wifi-zero",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "wifi",
+    "zero",
+    "no signal",
+    "dot",
+    "disconnected"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

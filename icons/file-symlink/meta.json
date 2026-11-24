@@ -1,0 +1,14 @@
+{
+  "name": "file-symlink",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "symlink",
+    "symbolic",
+    "link"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

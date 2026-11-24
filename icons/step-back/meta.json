@@ -1,0 +1,19 @@
+{
+  "name": "step-back",
+  "categories": [
+    "multimedia",
+    "arrows"
+  ],
+  "tags": [
+    "arrow",
+    "previous",
+    "music",
+    "left",
+    "reverse"
+  ],
+  "aliases": [
+    "frame-back",
+    "previous-frame"
+  ],
+  "deprecated": false
+}

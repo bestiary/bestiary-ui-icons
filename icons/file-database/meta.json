@@ -1,0 +1,16 @@
+{
+  "name": "file-database",
+  "categories": [
+    "development",
+    "files"
+  ],
+  "tags": [
+    "file",
+    "database",
+    "sql",
+    "db",
+    "data"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

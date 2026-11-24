@@ -1,0 +1,16 @@
+{
+  "name": "file-video-camera",
+  "categories": [
+    "$extends:file",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:file",
+    "$extends:video",
+    "video"
+  ],
+  "aliases": [
+    "file-video-2"
+  ],
+  "deprecated": false
+}

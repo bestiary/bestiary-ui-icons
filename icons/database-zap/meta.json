@@ -1,0 +1,17 @@
+{
+  "name": "database-zap",
+  "categories": [
+    "devices",
+    "development"
+  ],
+  "tags": [
+    "database",
+    "zap",
+    "fast",
+    "cache busting",
+    "crash",
+    "power"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

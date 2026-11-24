@@ -1,0 +1,14 @@
+{
+  "name": "file-search-corner",
+  "categories": [
+    "$extends:file-search"
+  ],
+  "tags": [
+    "$extends:file-search",
+    "$group:search"
+  ],
+  "aliases": [
+    "file-search-2"
+  ],
+  "deprecated": false
+}

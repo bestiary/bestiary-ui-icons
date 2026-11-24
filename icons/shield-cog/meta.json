@@ -1,7 +1,21 @@
 {
   "name": "shield-cog",
-  "categories": ["accounts"],
-  "tags": ["shield-cog", "security-settings", "admin", "policy", "config"],
-  "aliases": ["security-settings", "shield-settings"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "gear",
+    "config",
+    "security",
+    "settings",
+    "preferences"
+  ],
+  "aliases": [
+    "shield-settings",
+    "security-settings"
+  ],
   "deprecated": false
 }

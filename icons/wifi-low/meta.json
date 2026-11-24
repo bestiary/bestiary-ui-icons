@@ -1,0 +1,16 @@
+{
+  "name": "wifi-low",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "wifi",
+    "signal",
+    "wireless",
+    "network",
+    "low"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

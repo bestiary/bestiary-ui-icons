@@ -1,0 +1,17 @@
+{
+  "name": "move-left",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "left",
+    "back",
+    "move",
+    "long arrow"
+  ],
+  "aliases": [
+    "long-arrow-left",
+    "push-left"
+  ],
+  "deprecated": false
+}

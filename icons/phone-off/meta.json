@@ -1,0 +1,18 @@
+{
+  "name": "phone-off",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "phone",
+    "call",
+    "off",
+    "mute",
+    "end call",
+    "hang up"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,15 +1,18 @@
 {
   "name": "user-round-cog",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-round-cog",
-    "profile-settings",
-    "preferences"
+    "user",
+    "settings",
+    "preferences",
+    "config",
+    "gear"
   ],
   "aliases": [
-    "profile-settings"
+    "user-cog-2",
+    "user-round-settings"
   ],
   "deprecated": false
 }

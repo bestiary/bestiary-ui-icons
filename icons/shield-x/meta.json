@@ -1,7 +1,38 @@
 {
   "name": "shield-x",
-  "categories": ["accounts"],
-  "tags": ["shield-x", "security-failed", "breach", "error", "deny"],
-  "aliases": ["security-error", "shield-fail"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "unshielded",
+    "insecure",
+    "unsecured",
+    "unsafe",
+    "unprotected",
+    "unguarded",
+    "blocked",
+    "stopped",
+    "detected",
+    "scanned",
+    "exploit",
+    "vulnerability",
+    "compromised",
+    "data leak",
+    "unverified",
+    "inactive",
+    "wrong",
+    "false",
+    "attacked",
+    "damaged",
+    "expired",
+    "eliminated"
+  ],
+  "aliases": [
+    "shield-close",
+    "shield-error"
+  ],
   "deprecated": false
 }

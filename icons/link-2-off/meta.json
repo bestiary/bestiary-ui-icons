@@ -1,0 +1,12 @@
+{
+  "name": "link-2-off",
+  "categories": [
+    "$extends:link-2"
+  ],
+  "tags": [
+    "$extends:link-2",
+    "$group:off",
+    "unchain"
+  ],
+  "aliases": []
+}

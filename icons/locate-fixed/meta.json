@@ -1,0 +1,10 @@
+{
+  "name": "locate-fixed",
+  "categories": [
+    "$extends:locate"
+  ],
+  "tags": [
+    "$extends:locate"
+  ],
+  "aliases": []
+}

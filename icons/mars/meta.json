@@ -1,0 +1,17 @@
+{
+  "name": "mars",
+  "categories": [
+    "medical",
+    "people"
+  ],
+  "tags": [
+    "gender",
+    "sex",
+    "male",
+    "masculine",
+    "man",
+    "boy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

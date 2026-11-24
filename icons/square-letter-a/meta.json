@@ -1,0 +1,20 @@
+{
+  "name": "square-letter-a",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "grade",
+    "rating",
+    "accessibility",
+    "blood type",
+    "audio",
+    "ampere",
+    "electricity",
+    "appearance"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

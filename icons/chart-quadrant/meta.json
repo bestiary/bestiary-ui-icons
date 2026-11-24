@@ -1,0 +1,26 @@
+{
+  "name": "chart-quadrant",
+  "categories": [
+    "charts",
+    "science",
+    "math"
+  ],
+  "tags": [
+    "chart",
+    "quadrant",
+    "scatter plot",
+    "2x2",
+    "matrix",
+    "segmentation",
+    "correlation",
+    "comparison",
+    "risk",
+    "swot",
+    "clustering"
+  ],
+  "aliases": [
+    "quadrant-matrix",
+    "swot-grid"
+  ],
+  "deprecated": false
+}

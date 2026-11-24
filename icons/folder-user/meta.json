@@ -1,7 +1,7 @@
 {
   "name": "folder-user",
-  "categories": ["accounts"],
-  "tags": ["folder-user", "personal-folder", "directory", "member"],
+  "categories": ["files", "account"],
+  "tags": ["document", "home folder", "shared", "access", "owner"],
   "aliases": ["personal-folder", "user-directory"],
   "deprecated": false
 }

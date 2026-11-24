@@ -1,0 +1,23 @@
+{
+  "name": "store",
+  "categories": [
+    "buildings",
+    "navigation",
+    "shopping"
+  ],
+  "tags": [
+    "shop",
+    "supermarket",
+    "stand",
+    "boutique",
+    "building",
+    "sell",
+    "selling",
+    "merchant"
+  ],
+  "aliases": [
+    "shop",
+    "storefront"
+  ],
+  "deprecated": false
+}

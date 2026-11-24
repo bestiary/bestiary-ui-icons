@@ -1,0 +1,21 @@
+{
+  "name": "phi",
+  "categories": [
+    "letters-digits",
+    "math",
+    "science"
+  ],
+  "tags": [
+    "$group:letter",
+    "math",
+    "golden-ratio",
+    "symbol",
+    "greek",
+    "letter",
+    "constant",
+    "flux",
+    "magnetic-flux"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

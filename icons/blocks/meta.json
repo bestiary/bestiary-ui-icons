@@ -1,0 +1,17 @@
+{
+  "name": "blocks",
+  "categories": [
+    "development",
+    "layout"
+  ],
+  "tags": [
+    "addon",
+    "plugin",
+    "integration",
+    "extension",
+    "package",
+    "blocks"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "house-arrow-left",
+  "categories": ["buildings", "home", "arrows", "account"],
+  "tags": ["enter", "entry", "check-in", "arrival", "ingress", "sign in", "automation", "login", "presence"],
+  "aliases": ["home-arrow-left", "return-home"],
+  "deprecated": false
+}

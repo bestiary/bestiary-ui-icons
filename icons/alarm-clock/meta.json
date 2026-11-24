@@ -1,0 +1,17 @@
+{
+  "name": "alarm-clock",
+  "categories": [
+    "devices",
+    "notifications",
+    "time"
+  ],
+  "tags": [
+    "clock",
+    "alarm",
+    "morning",
+    "reminder",
+    "time"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

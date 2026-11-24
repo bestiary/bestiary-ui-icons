@@ -1,0 +1,17 @@
+{
+  "name": "letters",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "abc",
+    "alphabetical",
+    "characters",
+    "language",
+    "literacy",
+    "spelling"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

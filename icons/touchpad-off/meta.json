@@ -1,0 +1,12 @@
+{
+  "name": "touchpad-off",
+  "categories": [
+    "$extends:touchpad"
+  ],
+  "tags": [
+    "$extends:touchpad",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

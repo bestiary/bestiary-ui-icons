@@ -1,0 +1,16 @@
+{
+  "name": "square-letter-g",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "gravity",
+    "g-force",
+    "gram",
+    "measurement"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

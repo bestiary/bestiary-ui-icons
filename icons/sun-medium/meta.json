@@ -1,7 +1,7 @@
 {
   "name": "sun-medium",
-  "categories": ["accessibility"],
-  "tags": ["sun-medium", "brightness-medium", "sunlight", "display", "screen"],
+  "categories": ["accessibility", "weather"],
+  "tags": ["brightness", "medium"],
   "aliases": ["brightness-medium"],
   "deprecated": false
 }

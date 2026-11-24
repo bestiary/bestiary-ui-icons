@@ -1,7 +1,7 @@
 {
   "name": "briefcase-plus",
-  "categories": ["accounts"],
-  "tags": ["briefcase-plus", "job", "workspace", "add-role", "career"],
+  "categories": ["files", "account"],
+  "tags": ["briefcase", "portfolio", "business", "professional"],
   "aliases": ["add-job", "new-workspace"],
   "deprecated": false
 }

@@ -1,0 +1,17 @@
+{
+  "name": "mail-exclamation-point",
+  "categories": [
+    "mail",
+    "notifications"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:exclamation-mark",
+    "delivery error"
+  ],
+  "aliases": [
+    "mail-warning",
+    "mail-alert"
+  ],
+  "deprecated": false
+}

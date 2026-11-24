@@ -1,0 +1,19 @@
+{
+  "name": "radar",
+  "categories": [
+    "navigation",
+    "security",
+    "communication"
+  ],
+  "tags": [
+    "scan",
+    "sonar",
+    "detect",
+    "find",
+    "locate",
+    "signal",
+    "track"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

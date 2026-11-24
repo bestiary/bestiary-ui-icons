@@ -1,0 +1,17 @@
+{
+  "name": "book-lock",
+  "categories": [
+    "development",
+    "security",
+    "gaming"
+  ],
+  "tags": [
+    "book",
+    "lock",
+    "secret",
+    "private",
+    "encrypted"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

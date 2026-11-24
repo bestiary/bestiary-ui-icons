@@ -1,0 +1,17 @@
+{
+  "name": "refresh-cw",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "sync",
+    "rotate",
+    "arrows",
+    "circular"
+  ],
+  "aliases": [
+    "sync-cw",
+    "reload-cw"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "phone",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "call",
+    "telephone",
+    "handset",
+    "contact",
+    "voice"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

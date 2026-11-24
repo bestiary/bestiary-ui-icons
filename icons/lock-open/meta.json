@@ -1,0 +1,12 @@
+{
+  "name": "lock-open",
+  "categories": [
+    "$extends:lock"
+  ],
+  "tags": [
+    "$extends:lock"
+  ],
+  "aliases": [
+    "unlock"
+  ]
+}

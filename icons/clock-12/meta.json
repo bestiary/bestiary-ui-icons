@@ -1,0 +1,12 @@
+{
+  "name": "clock-12",
+  "categories": [
+    "$extends:clock"
+  ],
+  "tags": [
+    "$extends:clock",
+    "noon",
+    "midnight"
+  ],
+  "aliases": []
+}

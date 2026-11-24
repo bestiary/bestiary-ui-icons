@@ -1,0 +1,15 @@
+{
+  "name": "monitor-check",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:check",
+    "connected",
+    "running",
+    "active"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

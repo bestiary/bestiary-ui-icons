@@ -1,0 +1,17 @@
+{
+  "name": "nfc",
+  "categories": [
+    "finance",
+    "devices",
+    "connectivity"
+  ],
+  "tags": [
+    "contactless",
+    "payment",
+    "near-field communication",
+    "tap",
+    "wireless"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

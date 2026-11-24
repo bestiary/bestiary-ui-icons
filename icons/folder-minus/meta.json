@@ -1,0 +1,12 @@
+{
+  "name": "folder-minus",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:minus"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

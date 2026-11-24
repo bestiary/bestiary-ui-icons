@@ -1,0 +1,10 @@
+{
+  "name": "car-front",
+  "categories": [
+    "$extends:car"
+  ],
+  "tags": [
+    "$extends:car"
+  ],
+  "aliases": []
+}

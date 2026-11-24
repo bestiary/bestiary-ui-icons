@@ -1,7 +1,26 @@
 {
   "name": "shield-plus",
-  "categories": ["accounts"],
-  "tags": ["shield-plus", "add-protection", "upgrade-security", "guard"],
-  "aliases": ["add-shield", "enable-protection"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming",
+    "medical"
+  ],
+  "tags": [
+    "professional",
+    "enterprise",
+    "full",
+    "maximum",
+    "upgraded",
+    "ultra",
+    "activate",
+    "enable",
+    "medic"
+  ],
+  "aliases": [
+    "add-shield",
+    "shield-add"
+  ],
   "deprecated": false
 }

@@ -1,16 +1,19 @@
 {
   "name": "user-key",
   "categories": [
-    "accounts"
+    "account",
+    "security"
   ],
   "tags": [
-    "user-key",
-    "ssh-key",
-    "user-access",
-    "auth"
+    "login",
+    "roles",
+    "permissions",
+    "key",
+    "access"
   ],
   "aliases": [
-    "user-access-key"
+    "user-access-key",
+    "account-key"
   ],
   "deprecated": false
 }

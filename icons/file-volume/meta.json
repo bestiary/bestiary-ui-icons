@@ -1,0 +1,15 @@
+{
+  "name": "file-volume",
+  "categories": [
+    "$extends:file",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:file",
+    "$extends:volume",
+    "audio",
+    "volume"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

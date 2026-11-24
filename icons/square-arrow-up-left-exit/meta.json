@@ -1,0 +1,17 @@
+{
+  "name": "square-arrow-up-left-exit",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up-left",
+    "exit",
+    "arrow",
+    "square"
+  ],
+  "aliases": [
+    "exit-nw-square",
+    "pop-top-left"
+  ],
+  "deprecated": false
+}

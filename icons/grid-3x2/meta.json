@@ -1,0 +1,20 @@
+{
+  "name": "grid-3x2",
+  "categories": [
+    "text",
+    "layout",
+    "design"
+  ],
+  "tags": [
+    "table",
+    "rows",
+    "columns",
+    "blocks",
+    "grid",
+    "3x2"
+  ],
+  "aliases": [
+    "grid-3-x-2"
+  ],
+  "deprecated": false
+}

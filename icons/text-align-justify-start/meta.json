@@ -1,0 +1,17 @@
+{
+  "name": "text-align-justify-start",
+  "categories": [
+    "$extends:text-align-justify"
+  ],
+  "tags": [
+    "$group:position-left",
+    "paragraph",
+    "alignment",
+    "justified",
+    "start",
+    "typography",
+    "editor",
+    "document"
+  ],
+  "aliases": []
+}

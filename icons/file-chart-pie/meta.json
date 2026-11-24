@@ -1,0 +1,19 @@
+{
+  "name": "file-chart-pie",
+  "categories": [
+    "files",
+    "charts"
+  ],
+  "tags": [
+    "file",
+    "chart",
+    "pie",
+    "report",
+    "analytics"
+  ],
+  "aliases": [
+    "report-pie",
+    "document-pie-chart"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "door-closed",
+  "categories": [
+    "home",
+    "travel",
+    "security"
+  ],
+  "tags": [
+    "entrance",
+    "entry",
+    "exit",
+    "ingress",
+    "egress",
+    "gate",
+    "gateway",
+    "emergency exit"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

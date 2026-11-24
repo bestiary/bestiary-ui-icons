@@ -1,0 +1,21 @@
+{
+  "name": "square-arrow-left-enter",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "left",
+    "enter",
+    "reverse",
+    "back",
+    "cell",
+    "expand",
+    "collapse",
+    "split"
+  ],
+  "aliases": [
+    "enter-left-square",
+    "split-left"
+  ],
+  "deprecated": false
+}

@@ -1,7 +1,7 @@
 {
   "name": "bookmark",
-  "categories": ["accounts"],
-  "tags": ["bookmark", "save", "favorite", "reading-list", "tag"],
+  "categories": ["account"],
+  "tags": ["save", "favorite", "favourite", "mark", "label", "attachment", "file", "stick", "pin", "read", "clip", "marker", "tag"],
   "aliases": ["save-bookmark"],
   "deprecated": false
 }

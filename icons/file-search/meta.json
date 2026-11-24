@@ -1,0 +1,14 @@
+{
+  "name": "file-search",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:search",
+    "lost",
+    "browser"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "arrow-left-right",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "bidirectional",
+    "two-way",
+    "swap",
+    "switch",
+    "transaction",
+    "reorder",
+    "move"
+  ],
+  "aliases": [
+    "swap-horizontal",
+    "bidirectional-horizontal"
+  ],
+  "deprecated": false
+}

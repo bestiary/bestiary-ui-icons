@@ -1,0 +1,25 @@
+{
+  "name": "diagram-flow-vertical",
+  "categories": [
+    "design",
+    "charts",
+    "development"
+  ],
+  "tags": [
+    "flowchart",
+    "workflow",
+    "hierarchy",
+    "branches",
+    "tree",
+    "parent",
+    "child",
+    "process",
+    "sequence",
+    "decision tree"
+  ],
+  "aliases": [
+    "flow-vertical",
+    "tree-vertical"
+  ],
+  "deprecated": false
+}

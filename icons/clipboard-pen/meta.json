@@ -1,0 +1,14 @@
+{
+  "name": "clipboard-pen",
+  "categories": [
+    "$extends:clipboard"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "$group:pen",
+    "signature"
+  ],
+  "aliases": [
+    "clipboard-edit"
+  ]
+}

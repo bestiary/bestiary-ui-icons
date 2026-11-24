@@ -1,0 +1,7 @@
+{
+  "name": "fingerprint-pattern",
+  "categories": ["account", "security"],
+  "tags": ["2fa", "authentication", "biometric", "identity", "security"],
+  "aliases": ["fingerprint"],
+  "deprecated": false
+}

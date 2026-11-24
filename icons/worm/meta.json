@@ -1,0 +1,24 @@
+{
+  "name": "worm",
+  "categories": [
+    "animals",
+    "security"
+  ],
+  "tags": [
+    "invertebrate",
+    "grub",
+    "larva",
+    "snake",
+    "crawl",
+    "wiggle",
+    "slither",
+    "pest control",
+    "computer virus",
+    "malware"
+  ],
+  "aliases": [
+    "grub",
+    "caterpillar"
+  ],
+  "deprecated": false
+}

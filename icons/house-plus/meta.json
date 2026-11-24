@@ -1,0 +1,18 @@
+{
+  "name": "house-plus",
+  "categories": [
+    "buildings",
+    "medical"
+  ],
+  "tags": [
+    "medical",
+    "house",
+    "plus",
+    "add"
+  ],
+  "aliases": [
+    "add-home",
+    "new-property"
+  ],
+  "deprecated": false
+}

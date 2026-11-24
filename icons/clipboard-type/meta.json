@@ -1,0 +1,12 @@
+{
+  "name": "clipboard-type",
+  "categories": [
+    "$extends:clipboard"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "$group:letter",
+    "format"
+  ],
+  "aliases": []
+}

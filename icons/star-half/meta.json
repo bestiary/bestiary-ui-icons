@@ -1,0 +1,10 @@
+{
+  "name": "star-half",
+  "categories": [
+    "social"
+  ],
+  "tags": [
+    "$extends:star"
+  ],
+  "aliases": []
+}

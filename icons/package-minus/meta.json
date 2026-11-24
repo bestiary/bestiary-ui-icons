@@ -1,0 +1,17 @@
+{
+  "name": "package-minus",
+  "categories": [
+    "files",
+    "development",
+    "logistics"
+  ],
+  "tags": [
+    "package",
+    "minus",
+    "remove",
+    "delete",
+    "uninstall"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

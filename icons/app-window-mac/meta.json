@@ -1,0 +1,17 @@
+{
+  "name": "app-window-mac",
+  "categories": [
+    "layout",
+    "development"
+  ],
+  "tags": [
+    "app-window",
+    "macos",
+    "osx",
+    "desktop",
+    "title bar",
+    "traffic lights"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

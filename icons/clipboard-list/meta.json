@@ -1,0 +1,12 @@
+{
+  "name": "clipboard-list",
+  "categories": [
+    "$extends:clipboard"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "tasks",
+    "checklist"
+  ],
+  "aliases": []
+}

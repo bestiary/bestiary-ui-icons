@@ -1,7 +1,19 @@
 {
   "name": "venetian-mask",
-  "categories": ["accounts"],
-  "tags": ["venetian-mask", "persona", "anonymous", "impersonate", "masquerade"],
-  "aliases": ["persona", "impersonate"],
+  "categories": [
+    "account",
+    "gaming"
+  ],
+  "tags": [
+    "mask",
+    "masquerade",
+    "impersonate",
+    "secret",
+    "incognito"
+  ],
+  "aliases": [
+    "masquerade-mask",
+    "impersonate"
+  ],
   "deprecated": false
 }

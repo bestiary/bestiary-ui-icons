@@ -1,0 +1,16 @@
+{
+  "name": "microscope",
+  "categories": [
+    "science",
+    "medical"
+  ],
+  "tags": [
+    "medical",
+    "education",
+    "science",
+    "imaging",
+    "research"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

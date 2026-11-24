@@ -1,0 +1,29 @@
+{
+  "name": "dome",
+  "categories": [
+    "buildings",
+    "navigation",
+    "travel"
+  ],
+  "tags": [
+    "roof",
+    "cupola",
+    "rotunda",
+    "shelter",
+    "building",
+    "architecture",
+    "structure",
+    "church",
+    "cathedral",
+    "monument",
+    "landmark",
+    "museum",
+    "observatory",
+    "heritage"
+  ],
+  "aliases": [
+    "cupola",
+    "rotunda"
+  ],
+  "deprecated": false
+}

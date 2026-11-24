@@ -1,0 +1,12 @@
+{
+  "name": "badge-x",
+  "categories": [
+    "social"
+  ],
+  "tags": [
+    "$extends:badge",
+    "$group:x",
+    "lost"
+  ],
+  "aliases": []
+}

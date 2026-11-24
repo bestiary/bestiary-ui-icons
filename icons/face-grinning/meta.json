@@ -1,0 +1,22 @@
+{
+  "name": "face-grinning",
+  "categories": [
+    "emoji"
+  ],
+  "tags": [
+    "$group:emoticon",
+    "happy",
+    "happiness",
+    "good",
+    "laugh",
+    "broad smile",
+    "pleasure",
+    "good cheer",
+    "humour",
+    "funny"
+  ],
+  "aliases": [
+    "laugh"
+  ],
+  "deprecated": false
+}

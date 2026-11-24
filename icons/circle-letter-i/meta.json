@@ -1,0 +1,17 @@
+{
+  "name": "circle-letter-i",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "information",
+    "help",
+    "input",
+    "current",
+    "electricity"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

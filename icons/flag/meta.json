@@ -1,7 +1,7 @@
 {
   "name": "flag",
-  "categories": ["accounts"],
-  "tags": ["flag", "report", "milestone", "country", "feature-flag"],
+  "categories": ["account", "social"],
+  "tags": ["report", "marker", "notification", "warning", "milestone", "goal", "notice", "signal", "attention", "banner"],
   "aliases": ["report-flag", "banner-flag"],
   "deprecated": false
 }

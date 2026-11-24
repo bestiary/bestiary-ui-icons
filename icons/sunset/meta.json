@@ -1,0 +1,14 @@
+{
+  "name": "sunset",
+  "categories": [
+    "weather",
+    "time"
+  ],
+  "tags": [
+    "weather",
+    "time",
+    "evening",
+    "night"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shrimp",
+  "categories": [
+    "animals",
+    "food-beverage"
+  ],
+  "tags": [
+    "seafood",
+    "shellfish",
+    "crustacean",
+    "prawn",
+    "marine",
+    "ocean",
+    "fresh",
+    "cuisine"
+  ],
+  "aliases": [
+    "prawn",
+    "shellfish"
+  ],
+  "deprecated": false
+}

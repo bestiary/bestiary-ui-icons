@@ -1,0 +1,16 @@
+{
+  "name": "octagon-minus",
+  "categories": [
+    "transportation"
+  ],
+  "tags": [
+    "$group:minus",
+    "stop",
+    "forbidden",
+    "decrease",
+    "traffic",
+    "halt",
+    "restricted"
+  ],
+  "aliases": []
+}

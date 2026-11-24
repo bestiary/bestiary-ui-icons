@@ -1,0 +1,13 @@
+{
+  "name": "utensils-crossed",
+  "categories": [
+    "$extends:utensils"
+  ],
+  "tags": [
+    "$extends:utensils"
+  ],
+  "aliases": [
+    "fork-knife-crossed"
+  ],
+  "deprecated": false
+}

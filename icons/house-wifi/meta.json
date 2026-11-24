@@ -1,0 +1,19 @@
+{
+  "name": "house-wifi",
+  "categories": [
+    "home",
+    "buildings",
+    "connectivity"
+  ],
+  "tags": [
+    "connectivity",
+    "house",
+    "wifi",
+    "smart home"
+  ],
+  "aliases": [
+    "home-wifi",
+    "smart-home-wifi"
+  ],
+  "deprecated": false
+}

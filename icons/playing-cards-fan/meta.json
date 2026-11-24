@@ -1,0 +1,18 @@
+{
+  "name": "playing-cards-fan",
+  "categories": [
+    "$extends:playing-cards",
+    "social"
+  ],
+  "tags": [
+    "$extends:playing-cards",
+    "fan",
+    "spread",
+    "dealt",
+    "prompt",
+    "icebreaker",
+    "conversation"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

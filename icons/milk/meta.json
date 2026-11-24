@@ -1,0 +1,16 @@
+{
+  "name": "milk",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "lactose",
+    "bottle",
+    "beverage",
+    "drink",
+    "water",
+    "diet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

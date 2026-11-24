@@ -1,0 +1,31 @@
+{
+  "name": "playing-card",
+  "categories": [
+    "gaming"
+  ],
+  "tags": [
+    "deck",
+    "draw",
+    "deal",
+    "shuffle",
+    "chance",
+    "random",
+    "selection",
+    "tabletop",
+    "flashcard",
+    "study",
+    "learning",
+    "prompt",
+    "icebreaker",
+    "conversation",
+    "collectible",
+    "trading",
+    "poker",
+    "casino",
+    "game",
+    "gambling",
+    "suit"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

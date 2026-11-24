@@ -1,0 +1,19 @@
+{
+  "name": "circle-power",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "on",
+    "off",
+    "power",
+    "switch",
+    "toggle",
+    "reboot",
+    "restart"
+  ],
+  "aliases": [
+    "power-circle"
+  ],
+  "deprecated": false
+}

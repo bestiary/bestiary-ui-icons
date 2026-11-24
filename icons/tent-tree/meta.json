@@ -1,0 +1,11 @@
+{
+  "name": "tent-tree",
+  "categories": [
+    "travel",
+    "nature"
+  ],
+  "tags": [
+    "$extends:tent"
+  ],
+  "aliases": []
+}

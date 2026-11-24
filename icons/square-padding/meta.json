@@ -1,0 +1,17 @@
+{
+  "name": "square-padding",
+  "categories": [
+    "layout",
+    "design"
+  ],
+  "tags": [
+    "padding",
+    "spacing",
+    "gap",
+    "inner spacing",
+    "box model",
+    "layout"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

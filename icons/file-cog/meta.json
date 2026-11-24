@@ -1,0 +1,15 @@
+{
+  "name": "file-cog",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:cog",
+    "executable"
+  ],
+  "aliases": [
+    "file-cog-2"
+  ],
+  "deprecated": false
+}

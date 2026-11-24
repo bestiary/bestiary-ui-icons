@@ -1,0 +1,13 @@
+{
+  "name": "receipt-cent",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "cents",
+    "¢"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

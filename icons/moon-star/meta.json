@@ -1,7 +1,7 @@
 {
   "name": "moon-star",
-  "categories": ["accessibility"],
-  "tags": ["moon-star", "night-mode", "bedtime", "dim", "evening"],
+  "categories": ["accessibility", "weather"],
+  "tags": ["dark", "night", "star"],
   "aliases": ["night-mode", "bedtime"],
   "deprecated": false
 }

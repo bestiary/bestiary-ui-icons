@@ -1,7 +1,0 @@
-{
-  "name": "badge-alert",
-  "categories": ["accounts"],
-  "tags": ["badge", "alert", "warning", "attention", "notice"],
-  "aliases": ["alert-badge", "warning-badge"],
-  "deprecated": false
-}

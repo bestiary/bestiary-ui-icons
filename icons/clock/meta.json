@@ -1,0 +1,11 @@
+{
+  "name": "clock",
+  "categories": [
+    "time"
+  ],
+  "tags": [
+    "$group:clock",
+    "alarm"
+  ],
+  "aliases": []
+}

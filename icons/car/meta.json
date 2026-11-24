@@ -1,0 +1,13 @@
+{
+  "name": "car",
+  "categories": [
+    "transportation"
+  ],
+  "tags": [
+    "vehicle",
+    "drive",
+    "trip",
+    "journey"
+  ],
+  "aliases": []
+}

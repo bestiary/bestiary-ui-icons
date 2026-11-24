@@ -1,0 +1,19 @@
+{
+  "name": "chevrons-to-axis-dashed-vertical",
+  "categories": [
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "dashed",
+    "collapse",
+    "vertical",
+    "axis",
+    "chevrons"
+  ],
+  "aliases": [
+    "chevrons-collapse-v-dashed",
+    "merge-chevrons-v-dashed"
+  ],
+  "deprecated": false
+}

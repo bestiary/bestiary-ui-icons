@@ -1,0 +1,14 @@
+{
+  "name": "file-down",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$extends:download",
+    "$group:direction-down",
+    "download"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

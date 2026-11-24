@@ -1,0 +1,22 @@
+{
+  "name": "fish",
+  "categories": [
+    "food-beverage",
+    "animals"
+  ],
+  "tags": [
+    "dish",
+    "restaurant",
+    "course",
+    "meal",
+    "seafood",
+    "pet",
+    "sea",
+    "marine"
+  ],
+  "aliases": [
+    "seafood",
+    "aquatic"
+  ],
+  "deprecated": false
+}

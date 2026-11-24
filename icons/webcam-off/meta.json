@@ -1,0 +1,17 @@
+{
+  "name": "webcam-off",
+  "categories": [
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "webcam",
+    "camera",
+    "off",
+    "disabled",
+    "security",
+    "privacy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

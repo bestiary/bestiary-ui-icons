@@ -1,0 +1,14 @@
+{
+  "name": "book-headphones",
+  "categories": [
+    "multimedia",
+    "text"
+  ],
+  "tags": [
+    "$extends:book",
+    "$extends:headphones",
+    "audiobook",
+    "listening"
+  ],
+  "aliases": []
+}

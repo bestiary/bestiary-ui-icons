@@ -1,0 +1,19 @@
+{
+  "name": "braces",
+  "categories": [
+    "development",
+    "files"
+  ],
+  "tags": [
+    "json",
+    "code",
+    "token",
+    "curly brackets",
+    "curly braces",
+    "data"
+  ],
+  "aliases": [
+    "curly-braces"
+  ],
+  "deprecated": false
+}

@@ -1,7 +1,7 @@
 {
   "name": "folder-users",
-  "categories": ["accounts"],
-  "tags": ["folder-users", "shared-folder", "team-directory", "group"],
+  "categories": ["files", "account", "people"],
+  "tags": ["shared", "document", "group", "team", "permission", "access", "collaboration", "organization"],
   "aliases": ["shared-folder", "team-folder"],
   "deprecated": false
 }

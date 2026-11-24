@@ -1,0 +1,19 @@
+{
+  "name": "message-square-x",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "close",
+    "delete",
+    "remove",
+    "silence",
+    "mute",
+    "moderate"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

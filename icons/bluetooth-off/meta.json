@@ -1,0 +1,16 @@
+{
+  "name": "bluetooth-off",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "bluetooth",
+    "wireless",
+    "off",
+    "lost",
+    "disabled"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

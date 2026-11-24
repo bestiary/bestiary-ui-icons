@@ -1,0 +1,17 @@
+{
+  "name": "circuit-board",
+  "categories": [
+    "science",
+    "development",
+    "devices"
+  ],
+  "tags": [
+    "computing",
+    "electricity",
+    "electronics",
+    "pcb",
+    "circuit"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

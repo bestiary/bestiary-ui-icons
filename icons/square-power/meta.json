@@ -1,0 +1,24 @@
+{
+  "name": "square-power",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "on",
+    "off",
+    "device",
+    "switch",
+    "toggle",
+    "binary",
+    "boolean",
+    "reboot",
+    "restart",
+    "button",
+    "keyboard",
+    "troubleshoot"
+  ],
+  "aliases": [
+    "power-square"
+  ],
+  "deprecated": false
+}

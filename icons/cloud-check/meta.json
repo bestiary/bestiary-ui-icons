@@ -1,0 +1,16 @@
+{
+  "name": "cloud-check",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "cloud",
+    "check",
+    "sync",
+    "network",
+    "saved",
+    "persisted"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

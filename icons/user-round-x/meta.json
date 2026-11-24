@@ -1,15 +1,17 @@
 {
   "name": "user-round-x",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-round-x",
-    "ban-member",
-    "delete-profile"
+    "unfollow",
+    "unsubscribe",
+    "remove",
+    "user"
   ],
   "aliases": [
-    "delete-profile"
+    "user-x-2",
+    "delete-user-round"
   ],
   "deprecated": false
 }

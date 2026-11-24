@@ -1,0 +1,19 @@
+{
+  "name": "rectangle-ellipsis",
+  "categories": [
+    "text",
+    "development"
+  ],
+  "tags": [
+    "password",
+    "input",
+    "field",
+    "ellipsis",
+    "dots",
+    "2fa"
+  ],
+  "aliases": [
+    "form-input"
+  ],
+  "deprecated": false
+}

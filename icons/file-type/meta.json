@@ -1,0 +1,14 @@
+{
+  "name": "file-type",
+  "categories": [
+    "$extends:file",
+    "text"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:letter",
+    "type"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "shield-cog-corner",
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "shield cog",
+    "gear",
+    "config",
+    "security",
+    "settings"
+  ],
+  "aliases": [
+    "shield-gear-corner",
+    "security-cog-corner"
+  ],
+  "deprecated": false
+}

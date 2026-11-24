@@ -1,7 +1,7 @@
 {
   "name": "badge-info",
-  "categories": ["accessibility"],
-  "tags": ["badge", "info", "information", "details", "notice"],
+  "categories": ["letters-digits", "account", "accessibility", "social"],
+  "tags": ["help", "information", "details", "notice"],
   "aliases": ["info-badge"],
   "deprecated": false
 }

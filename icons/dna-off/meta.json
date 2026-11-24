@@ -1,0 +1,14 @@
+{
+  "name": "dna-off",
+  "categories": [
+    "$extends:dna",
+    "food-beverage"
+  ],
+  "tags": [
+    "$extends:dna",
+    "$group:off",
+    "gmo free"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

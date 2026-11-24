@@ -1,0 +1,17 @@
+{
+  "name": "circle-letter-j",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "joule",
+    "energy",
+    "java",
+    "javascript",
+    "code"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

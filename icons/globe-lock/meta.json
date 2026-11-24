@@ -1,0 +1,18 @@
+{
+  "name": "globe-lock",
+  "categories": [
+    "security",
+    "connectivity"
+  ],
+  "tags": [
+    "globe",
+    "lock",
+    "vpn",
+    "encryption",
+    "ssl",
+    "https",
+    "secure"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

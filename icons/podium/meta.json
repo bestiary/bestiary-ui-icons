@@ -1,0 +1,32 @@
+{
+  "name": "podium",
+  "categories": [
+    "sports",
+    "gaming"
+  ],
+  "tags": [
+    "$group:digit",
+    "award",
+    "stage",
+    "winner",
+    "celebration",
+    "performance",
+    "medal",
+    "success",
+    "achievement",
+    "highlight",
+    "ranking",
+    "winning",
+    "place",
+    "placing",
+    "leaderboard",
+    "first",
+    "second",
+    "third",
+    "gold",
+    "silver",
+    "bronze"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

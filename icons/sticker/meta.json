@@ -1,0 +1,16 @@
+{
+  "name": "sticker",
+  "categories": [
+    "social",
+    "emoji"
+  ],
+  "tags": [
+    "reaction",
+    "emotion",
+    "smile",
+    "happy",
+    "feedback"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudy",
+  "categories": [
+    "weather"
+  ],
+  "tags": [
+    "weather",
+    "clouds"
+  ],
+  "aliases": []
+}

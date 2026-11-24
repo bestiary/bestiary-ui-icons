@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe",
+  "categories": [
+    "gaming"
+  ],
+  "tags": [
+    "$group:letter",
+    "game",
+    "board",
+    "grid",
+    "strategy",
+    "noughts and crosses"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lamp-wall-up",
+  "categories": [
+    "$extends:lamp"
+  ],
+  "tags": [
+    "$extends:lamp",
+    "$group:direction-up",
+    "wall"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

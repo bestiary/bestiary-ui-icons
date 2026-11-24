@@ -1,0 +1,14 @@
+{
+  "name": "file-scan",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$extends:scan",
+    "scan",
+    "code"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

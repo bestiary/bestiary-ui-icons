@@ -1,7 +1,0 @@
-{
-  "name": "fingerprint",
-  "categories": ["accounts"],
-  "tags": ["fingerprint", "biometric", "auth", "identity", "security"],
-  "aliases": ["biometric", "touch-id"],
-  "deprecated": false
-}

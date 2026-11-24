@@ -1,0 +1,14 @@
+{
+  "name": "align-vertical-distribute-start",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-top",
+    "items",
+    "flex",
+    "justify"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

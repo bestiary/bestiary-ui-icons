@@ -1,0 +1,21 @@
+{
+  "name": "fish-off",
+  "categories": [
+    "food-beverage",
+    "animals"
+  ],
+  "tags": [
+    "food",
+    "animal",
+    "allergy",
+    "intolerance",
+    "diet",
+    "seafood",
+    "off"
+  ],
+  "aliases": [
+    "no-fish",
+    "fish-allergy"
+  ],
+  "deprecated": false
+}

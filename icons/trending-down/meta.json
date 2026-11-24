@@ -1,0 +1,19 @@
+{
+  "name": "trending-down",
+  "categories": [
+    "charts",
+    "arrows"
+  ],
+  "tags": [
+    "chart",
+    "down",
+    "decrease",
+    "decline",
+    "trend"
+  ],
+  "aliases": [
+    "trend-down",
+    "downtrend"
+  ],
+  "deprecated": false
+}

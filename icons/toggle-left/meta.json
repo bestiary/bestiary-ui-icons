@@ -1,0 +1,16 @@
+{
+  "name": "toggle-left",
+  "categories": [
+    "layout",
+    "development"
+  ],
+  "tags": [
+    "off",
+    "switch",
+    "boolean",
+    "toggle",
+    "left"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

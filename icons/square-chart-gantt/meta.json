@@ -1,0 +1,25 @@
+{
+  "name": "square-chart-gantt",
+  "categories": [
+    "charts",
+    "time",
+    "development"
+  ],
+  "tags": [
+    "chart",
+    "timeline",
+    "planning",
+    "projects",
+    "roadmap",
+    "intentions",
+    "code",
+    "coding",
+    "toolbar",
+    "button"
+  ],
+  "aliases": [
+    "gantt-square",
+    "project-square"
+  ],
+  "deprecated": false
+}

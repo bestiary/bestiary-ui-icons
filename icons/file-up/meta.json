@@ -1,0 +1,15 @@
+{
+  "name": "file-up",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:direction-up",
+    "upload",
+    "import",
+    "export"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

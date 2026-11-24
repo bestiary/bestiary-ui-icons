@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "categories": [
+    "development",
+    "social",
+    "ai"
+  ],
+  "tags": [
+    "robot",
+    "ai",
+    "chat",
+    "assistant",
+    "chatbot",
+    "automation",
+    "machine-learning",
+    "ai-assistant",
+    "intelligent-assistant",
+    "agent"
+  ],
+  "aliases": [
+    "robot",
+    "ai-agent"
+  ],
+  "deprecated": false
+}

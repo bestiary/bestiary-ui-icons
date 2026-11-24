@@ -1,7 +1,7 @@
 {
   "name": "bell",
-  "categories": ["accounts"],
-  "tags": ["bell", "notification", "alert", "alarm", "subscribe"],
+  "categories": ["account", "notifications"],
+  "tags": ["alarm", "notification", "sound", "reminder"],
   "aliases": ["notification", "alarm"],
   "deprecated": false
 }

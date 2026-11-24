@@ -1,7 +1,7 @@
 {
   "name": "captions",
-  "categories": ["accessibility"],
-  "tags": ["captions", "subtitles", "transcript", "video", "media"],
+  "categories": ["multimedia", "accessibility"],
+  "tags": ["closed captions", "subtitles", "subhead", "transcription", "transcribe", "dialogue", "accessibility"],
   "aliases": ["subtitles"],
   "deprecated": false
 }

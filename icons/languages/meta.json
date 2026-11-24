@@ -1,0 +1,11 @@
+{
+  "name": "languages",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "translate"
+  ],
+  "aliases": []
+}

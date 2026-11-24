@@ -1,0 +1,11 @@
+{
+  "name": "reply",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "email"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

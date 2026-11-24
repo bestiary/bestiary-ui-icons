@@ -1,0 +1,12 @@
+{
+  "name": "lamp-floor",
+  "categories": [
+    "$extends:lamp"
+  ],
+  "tags": [
+    "$extends:lamp",
+    "floor"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

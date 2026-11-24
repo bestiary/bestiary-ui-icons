@@ -1,0 +1,19 @@
+{
+  "name": "diamond",
+  "categories": [
+    "shapes",
+    "gaming"
+  ],
+  "tags": [
+    "square",
+    "rectangle",
+    "oblique",
+    "rhombus",
+    "shape",
+    "suit",
+    "playing",
+    "cards"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

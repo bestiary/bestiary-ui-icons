@@ -1,16 +1,19 @@
 {
   "name": "user-round-key",
   "categories": [
-    "accounts"
+    "account",
+    "security"
   ],
   "tags": [
-    "user-round-key",
-    "profile-key",
-    "passkey",
-    "auth"
+    "login",
+    "roles",
+    "permissions",
+    "key",
+    "access"
   ],
   "aliases": [
-    "profile-key"
+    "user-round-access",
+    "passkey-user"
   ],
   "deprecated": false
 }

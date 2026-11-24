@@ -1,0 +1,12 @@
+{
+  "name": "mail-minus",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:minus"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

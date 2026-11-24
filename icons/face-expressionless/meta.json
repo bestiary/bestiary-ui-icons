@@ -1,0 +1,17 @@
+{
+  "name": "face-expressionless",
+  "categories": [
+    "emoji"
+  ],
+  "tags": [
+    "$group:emoticon",
+    "nuisance",
+    "annoyed",
+    "annoyance",
+    "frustration"
+  ],
+  "aliases": [
+    "annoyed"
+  ],
+  "deprecated": false
+}

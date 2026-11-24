@@ -1,0 +1,7 @@
+{
+  "name": "bell-dot",
+  "categories": ["account", "notifications"],
+  "tags": ["alarm", "notification", "sound", "reminder", "unread", "dot"],
+  "aliases": ["unread-notification", "bell-badge"],
+  "deprecated": false
+}

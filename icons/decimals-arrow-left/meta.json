@@ -1,0 +1,25 @@
+{
+  "name": "decimals-arrow-left",
+  "categories": [
+    "design",
+    "text",
+    "arrows",
+    "math"
+  ],
+  "tags": [
+    "decimal",
+    "decrease",
+    "less",
+    "fewer",
+    "precision",
+    "rounding",
+    "digits",
+    "fraction",
+    "float"
+  ],
+  "aliases": [
+    "decrease-decimals",
+    "less-precision"
+  ],
+  "deprecated": false
+}

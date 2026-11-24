@@ -1,0 +1,15 @@
+{
+  "name": "archive-arrow-down",
+  "categories": [
+    "$extends:archive"
+  ],
+  "tags": [
+    "$extends:archive",
+    "unarchive",
+    "email",
+    "download",
+    "save"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

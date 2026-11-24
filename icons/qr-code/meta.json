@@ -1,0 +1,17 @@
+{
+  "name": "qr-code",
+  "categories": [
+    "development",
+    "social"
+  ],
+  "tags": [
+    "barcode",
+    "scan",
+    "link",
+    "url",
+    "qr",
+    "code"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,10 @@
+{
+  "name": "timer-reset",
+  "categories": [
+    "$extends:timer"
+  ],
+  "tags": [
+    "$extends:timer"
+  ],
+  "aliases": []
+}

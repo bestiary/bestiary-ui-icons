@@ -1,0 +1,17 @@
+{
+  "name": "medal",
+  "categories": [
+    "sports",
+    "gaming"
+  ],
+  "tags": [
+    "prize",
+    "sports",
+    "winner",
+    "trophy",
+    "award",
+    "achievement"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

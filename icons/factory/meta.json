@@ -1,0 +1,20 @@
+{
+  "name": "factory",
+  "categories": [
+    "buildings",
+    "navigation"
+  ],
+  "tags": [
+    "building",
+    "business",
+    "energy",
+    "industry",
+    "manufacture",
+    "sector"
+  ],
+  "aliases": [
+    "industrial-plant",
+    "manufacturing"
+  ],
+  "deprecated": false
+}

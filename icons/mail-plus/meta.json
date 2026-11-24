@@ -1,0 +1,15 @@
+{
+  "name": "mail-plus",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:plus",
+    "compose",
+    "invite",
+    "invitation"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

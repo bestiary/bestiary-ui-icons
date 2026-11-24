@@ -1,0 +1,19 @@
+{
+  "name": "hotel",
+  "categories": [
+    "buildings",
+    "navigation",
+    "travel"
+  ],
+  "tags": [
+    "building",
+    "hostel",
+    "motel",
+    "inn"
+  ],
+  "aliases": [
+    "hostel",
+    "lodging"
+  ],
+  "deprecated": false
+}

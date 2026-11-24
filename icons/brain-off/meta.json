@@ -1,0 +1,21 @@
+{
+  "name": "brain-off",
+  "categories": [
+    "medical",
+    "science",
+    "ai",
+    "development"
+  ],
+  "tags": [
+    "artificial intelligence",
+    "ai",
+    "reasoning",
+    "off",
+    "disabled"
+  ],
+  "aliases": [
+    "reasoning-off",
+    "no-thinking"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,18 @@
+{
+  "name": "move-3d",
+  "categories": [
+    "design"
+  ],
+  "tags": [
+    "move",
+    "axis",
+    "gizmo",
+    "coordinates",
+    "transform",
+    "3d"
+  ],
+  "aliases": [
+    "move-3-d"
+  ],
+  "deprecated": false
+}

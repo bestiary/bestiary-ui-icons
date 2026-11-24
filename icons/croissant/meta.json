@@ -1,0 +1,14 @@
+{
+  "name": "croissant",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "bakery",
+    "cooking",
+    "food",
+    "pastry"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

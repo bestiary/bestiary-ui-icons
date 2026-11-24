@@ -1,0 +1,21 @@
+{
+  "name": "arrow-up-from-line",
+  "categories": [
+    "arrows",
+    "files",
+    "development"
+  ],
+  "tags": [
+    "up",
+    "upload",
+    "git",
+    "version control",
+    "push",
+    "expand"
+  ],
+  "aliases": [
+    "upload-from-line",
+    "push-up"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "layout-panel-top",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-top",
+    "window",
+    "webpage",
+    "section",
+    "grid",
+    "template",
+    "structure"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

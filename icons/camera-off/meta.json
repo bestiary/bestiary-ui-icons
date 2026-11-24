@@ -1,0 +1,20 @@
+{
+  "name": "camera-off",
+  "categories": [
+    "photography",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "camera",
+    "off",
+    "disabled",
+    "no-photo",
+    "video-off"
+  ],
+  "aliases": [
+    "no-camera",
+    "camera-disabled"
+  ],
+  "deprecated": false
+}

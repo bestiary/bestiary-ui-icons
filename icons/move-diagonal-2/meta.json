@@ -1,0 +1,18 @@
+{
+  "name": "move-diagonal-2",
+  "categories": [
+    "arrows",
+    "cursors"
+  ],
+  "tags": [
+    "double",
+    "arrow",
+    "diagonal",
+    "resize"
+  ],
+  "aliases": [
+    "resize-nw-se",
+    "diagonal-arrows-2"
+  ],
+  "deprecated": false
+}

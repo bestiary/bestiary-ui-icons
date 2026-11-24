@@ -1,0 +1,18 @@
+{
+  "name": "route-arrow-right",
+  "categories": [
+    "navigation",
+    "arrows"
+  ],
+  "tags": [
+    "one-way",
+    "arrow",
+    "route",
+    "path"
+  ],
+  "aliases": [
+    "one-way-route",
+    "path-right"
+  ],
+  "deprecated": false
+}

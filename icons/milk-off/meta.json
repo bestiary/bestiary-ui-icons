@@ -1,0 +1,15 @@
+{
+  "name": "milk-off",
+  "categories": [
+    "$extends:milk"
+  ],
+  "tags": [
+    "$extends:milk",
+    "$group:off",
+    "lactose free",
+    "allergy",
+    "intolerance"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

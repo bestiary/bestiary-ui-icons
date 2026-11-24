@@ -1,0 +1,12 @@
+{
+  "name": "folder-plus-corner",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:plus"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

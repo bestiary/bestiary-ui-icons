@@ -1,0 +1,11 @@
+{
+  "name": "car-taxi-front",
+  "categories": [
+    "$extends:car"
+  ],
+  "tags": [
+    "$extends:car",
+    "cab"
+  ],
+  "aliases": []
+}

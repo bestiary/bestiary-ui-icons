@@ -1,0 +1,13 @@
+{
+  "name": "circle-play",
+  "categories": [
+    "multimedia"
+  ],
+  "tags": [
+    "$group:play",
+    "music"
+  ],
+  "aliases": [
+    "play-circle"
+  ]
+}

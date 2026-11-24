@@ -1,0 +1,16 @@
+{
+  "name": "folder-git",
+  "categories": [
+    "development",
+    "files"
+  ],
+  "tags": [
+    "folder",
+    "root",
+    "project",
+    "git",
+    "repo"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

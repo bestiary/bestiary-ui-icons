@@ -1,0 +1,18 @@
+{
+  "name": "usb-c-port",
+  "categories": [
+    "devices",
+    "connectivity"
+  ],
+  "tags": [
+    "usb",
+    "usb-c",
+    "type-c",
+    "socket",
+    "plug",
+    "slot",
+    "port"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

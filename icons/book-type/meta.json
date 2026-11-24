@@ -1,0 +1,19 @@
+{
+  "name": "book-type",
+  "categories": [
+    "text",
+    "design",
+    "gaming"
+  ],
+  "tags": [
+    "book",
+    "letter",
+    "thesaurus",
+    "synonym",
+    "language",
+    "fonts",
+    "typography"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

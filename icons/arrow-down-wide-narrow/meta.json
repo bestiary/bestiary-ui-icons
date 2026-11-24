@@ -1,0 +1,20 @@
+{
+  "name": "arrow-down-wide-narrow",
+  "categories": [
+    "arrows",
+    "text",
+    "layout"
+  ],
+  "tags": [
+    "sort",
+    "wide",
+    "narrow",
+    "descending",
+    "down"
+  ],
+  "aliases": [
+    "sort-desc",
+    "wide-to-narrow"
+  ],
+  "deprecated": false
+}

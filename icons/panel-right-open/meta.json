@@ -1,0 +1,17 @@
+{
+  "name": "panel-right-open",
+  "categories": [
+    "$extends:panel-right"
+  ],
+  "tags": [
+    "$extends:panel-right",
+    "$group:direction-left",
+    "show",
+    "reveal",
+    "chevron",
+    "left",
+    "<"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

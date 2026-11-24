@@ -1,0 +1,15 @@
+{
+  "name": "monitor-off",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:off",
+    "offline",
+    "disconnected",
+    "power"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

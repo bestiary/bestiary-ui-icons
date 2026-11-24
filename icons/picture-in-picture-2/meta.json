@@ -1,0 +1,10 @@
+{
+  "name": "picture-in-picture-2",
+  "categories": [
+    "$extends:picture-in-picture"
+  ],
+  "tags": [
+    "$extends:picture-in-picture"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bus-front",
+  "categories": [
+    "$extends:bus"
+  ],
+  "tags": [
+    "$extends:bus"
+  ],
+  "aliases": []
+}

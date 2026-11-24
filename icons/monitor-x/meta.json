@@ -1,0 +1,15 @@
+{
+  "name": "monitor-x",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:x",
+    "disconnected",
+    "stop",
+    "suspend"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,18 @@
+{
+  "name": "square-arrow-left-exit",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "left",
+    "exit",
+    "back",
+    "reverse",
+    "collapse"
+  ],
+  "aliases": [
+    "exit-left-square",
+    "pop-left"
+  ],
+  "deprecated": false
+}

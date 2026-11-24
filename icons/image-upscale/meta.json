@@ -1,0 +1,14 @@
+{
+  "name": "image-upscale",
+  "categories": [
+    "photography",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:image",
+    "resize",
+    "sharpen",
+    "increase"
+  ],
+  "aliases": []
+}

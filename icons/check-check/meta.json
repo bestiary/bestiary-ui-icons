@@ -1,0 +1,12 @@
+{
+  "name": "check-check",
+  "categories": [
+    "$extends:check"
+  ],
+  "tags": [
+    "$extends:check",
+    "received",
+    "double"
+  ],
+  "aliases": []
+}

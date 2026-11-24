@@ -1,0 +1,28 @@
+{
+  "name": "square-kanban",
+  "categories": [
+    "charts",
+    "development"
+  ],
+  "tags": [
+    "projects",
+    "manage",
+    "overview",
+    "board",
+    "tickets",
+    "issues",
+    "roadmap",
+    "plan",
+    "productivity",
+    "work",
+    "agile",
+    "code",
+    "toolbar",
+    "button"
+  ],
+  "aliases": [
+    "kanban-square",
+    "board-square"
+  ],
+  "deprecated": false
+}

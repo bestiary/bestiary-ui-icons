@@ -1,0 +1,20 @@
+{
+  "name": "message-square",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "conversation",
+    "dialog",
+    "feedback",
+    "speech bubble"
+  ],
+  "aliases": [
+    "comment-box",
+    "speech-square"
+  ],
+  "deprecated": false
+}

@@ -1,7 +1,27 @@
 {
   "name": "wallet-cards",
-  "categories": ["accounts"],
-  "tags": ["wallet-cards", "payment-methods", "cards", "billing"],
-  "aliases": ["payment-methods", "card-wallet"],
+  "categories": [
+    "account",
+    "finance"
+  ],
+  "tags": [
+    "wallet",
+    "cards",
+    "banking",
+    "cash",
+    "debit",
+    "transport",
+    "credit",
+    "purchase",
+    "payment",
+    "shopping",
+    "retail",
+    "consumer",
+    "cc"
+  ],
+  "aliases": [
+    "card-wallet",
+    "payment-wallet"
+  ],
   "deprecated": false
 }

@@ -1,0 +1,31 @@
+{
+  "name": "cloud-backup",
+  "categories": [
+    "arrows",
+    "files"
+  ],
+  "tags": [
+    "storage",
+    "memory",
+    "bytes",
+    "servers",
+    "backup",
+    "time machine",
+    "rotate",
+    "synchronize",
+    "refresh",
+    "reconnect",
+    "transfer",
+    "data",
+    "security",
+    "upload",
+    "save",
+    "remote",
+    "safety"
+  ],
+  "aliases": [
+    "cloud-restore",
+    "cloud-history"
+  ],
+  "deprecated": false
+}

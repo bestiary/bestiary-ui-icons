@@ -1,0 +1,15 @@
+{
+  "name": "rotate-cw-fading-clock",
+  "categories": [
+    "time"
+  ],
+  "tags": [
+    "$extends:rotate-cw",
+    "$group:clock",
+    "waiting",
+    "hourglass",
+    "loading",
+    "pause"
+  ],
+  "aliases": []
+}

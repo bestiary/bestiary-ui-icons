@@ -1,0 +1,12 @@
+{
+  "name": "lightbulb-off",
+  "categories": [
+    "$extends:lightbulb"
+  ],
+  "tags": [
+    "$extends:lightbulb",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

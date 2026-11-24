@@ -1,0 +1,19 @@
+{
+  "name": "face-angry",
+  "categories": [
+    "emoji"
+  ],
+  "tags": [
+    "$group:emoticon",
+    "anger",
+    "rage",
+    "fury",
+    "resentment",
+    "irritation",
+    "disgust"
+  ],
+  "aliases": [
+    "angry"
+  ],
+  "deprecated": false
+}

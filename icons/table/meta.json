@@ -1,0 +1,17 @@
+{
+  "name": "table",
+  "categories": [
+    "text",
+    "files"
+  ],
+  "tags": [
+    "spreadsheet",
+    "grid",
+    "csv",
+    "xls",
+    "xlsx",
+    "excel"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

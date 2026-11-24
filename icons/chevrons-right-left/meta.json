@@ -1,0 +1,17 @@
+{
+  "name": "chevrons-right-left",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "right",
+    "left",
+    "collapse",
+    "chevrons"
+  ],
+  "aliases": [
+    "collapse-chevrons-h",
+    "pinch-horizontal-chevrons"
+  ],
+  "deprecated": false
+}

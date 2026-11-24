@@ -1,0 +1,11 @@
+{
+  "name": "play-off",
+  "categories": [
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:play",
+    "$group:off"
+  ],
+  "aliases": []
+}

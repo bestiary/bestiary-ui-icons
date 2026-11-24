@@ -1,0 +1,11 @@
+{
+  "name": "subscript",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "$group:digit"
+  ],
+  "aliases": []
+}

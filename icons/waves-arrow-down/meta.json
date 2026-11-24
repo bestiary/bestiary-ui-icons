@@ -1,0 +1,24 @@
+{
+  "name": "waves-arrow-down",
+  "categories": [
+    "weather",
+    "sustainability"
+  ],
+  "tags": [
+    "$group:direction-down",
+    "water",
+    "sea",
+    "level",
+    "sound",
+    "hertz",
+    "wavelength",
+    "vibrate",
+    "low",
+    "tide",
+    "ocean",
+    "rising",
+    "down",
+    "falling"
+  ],
+  "aliases": []
+}

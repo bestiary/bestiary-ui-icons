@@ -1,0 +1,15 @@
+{
+  "name": "minimize",
+  "categories": [
+    "layout",
+    "design"
+  ],
+  "tags": [
+    "collapse",
+    "exit fullscreen",
+    "shrink",
+    "minimize"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

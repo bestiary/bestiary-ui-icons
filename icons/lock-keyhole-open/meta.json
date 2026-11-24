@@ -1,0 +1,12 @@
+{
+  "name": "lock-keyhole-open",
+  "categories": [
+    "$extends:lock-keyhole"
+  ],
+  "tags": [
+    "$extends:lock-keyhole"
+  ],
+  "aliases": [
+    "unlock-keyhole"
+  ]
+}

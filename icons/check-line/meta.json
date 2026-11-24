@@ -1,0 +1,10 @@
+{
+  "name": "check-line",
+  "categories": [
+    "$extends:check"
+  ],
+  "tags": [
+    "$extends:check"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "trending-up",
+  "categories": [
+    "charts",
+    "arrows"
+  ],
+  "tags": [
+    "chart",
+    "up",
+    "increase",
+    "growth",
+    "trend"
+  ],
+  "aliases": [
+    "trend-up",
+    "uptrend"
+  ],
+  "deprecated": false
+}

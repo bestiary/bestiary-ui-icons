@@ -1,0 +1,20 @@
+{
+  "name": "house-heart",
+  "categories": [
+    "home",
+    "buildings"
+  ],
+  "tags": [
+    "home sweet home",
+    "abode",
+    "healthy living",
+    "lifestyle",
+    "house",
+    "heart"
+  ],
+  "aliases": [
+    "home-heart",
+    "favorite-home"
+  ],
+  "deprecated": false
+}

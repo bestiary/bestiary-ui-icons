@@ -1,0 +1,31 @@
+{
+  "name": "scan",
+  "categories": [
+    "devices",
+    "shopping",
+    "security",
+    "photography"
+  ],
+  "tags": [
+    "qr-code",
+    "barcode",
+    "checkout",
+    "augmented reality",
+    "ar",
+    "target",
+    "surveillance",
+    "camera",
+    "lens",
+    "focus",
+    "frame",
+    "select",
+    "box",
+    "boundary",
+    "bounds",
+    "area",
+    "square",
+    "dashed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

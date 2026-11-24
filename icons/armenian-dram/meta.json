@@ -1,0 +1,12 @@
+{
+  "name": "armenian-dram",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "symbol"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

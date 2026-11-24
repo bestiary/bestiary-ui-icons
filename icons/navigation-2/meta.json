@@ -1,0 +1,10 @@
+{
+  "name": "navigation-2",
+  "categories": [
+    "$extends:navigation"
+  ],
+  "tags": [
+    "$extends:navigation"
+  ],
+  "aliases": []
+}

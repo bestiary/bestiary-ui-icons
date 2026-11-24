@@ -1,0 +1,33 @@
+{
+  "name": "playing-cards",
+  "categories": [
+    "gaming"
+  ],
+  "tags": [
+    "deck",
+    "stack",
+    "shuffle",
+    "deal",
+    "draw",
+    "hand",
+    "tabletop",
+    "planning poker",
+    "scrum",
+    "agile",
+    "estimation",
+    "estimate",
+    "flashcards",
+    "study",
+    "learning",
+    "collectible",
+    "collection",
+    "trading",
+    "poker",
+    "casino",
+    "game",
+    "gambling",
+    "suit"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

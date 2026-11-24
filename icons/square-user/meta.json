@@ -1,7 +1,17 @@
 {
   "name": "square-user",
-  "categories": ["accounts"],
-  "tags": ["square-user", "avatar", "profile", "account", "tile"],
-  "aliases": ["avatar-square", "user-tile"],
+  "categories": [
+    "account"
+  ],
+  "tags": [
+    "user",
+    "profile",
+    "account",
+    "avatar"
+  ],
+  "aliases": [
+    "user-square",
+    "avatar-square"
+  ],
   "deprecated": false
 }

@@ -1,0 +1,21 @@
+{
+  "name": "arrow-right-to-line",
+  "categories": [
+    "arrows",
+    "development"
+  ],
+  "tags": [
+    "right",
+    "last",
+    "tab",
+    "keyboard",
+    "mac",
+    "indent",
+    "collapse"
+  ],
+  "aliases": [
+    "tab-arrow",
+    "collapse-right"
+  ],
+  "deprecated": false
+}

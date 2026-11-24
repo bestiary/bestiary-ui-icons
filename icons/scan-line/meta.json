@@ -1,0 +1,21 @@
+{
+  "name": "scan-line",
+  "categories": [
+    "devices",
+    "shopping"
+  ],
+  "tags": [
+    "$extends:scan",
+    "till",
+    "cart",
+    "transaction",
+    "purchase",
+    "buy",
+    "product",
+    "packaging",
+    "retail",
+    "consumer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

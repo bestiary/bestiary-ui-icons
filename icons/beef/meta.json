@@ -1,0 +1,18 @@
+{
+  "name": "beef",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "food",
+    "dish",
+    "restaurant",
+    "course",
+    "meal",
+    "meat",
+    "bbq",
+    "steak"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

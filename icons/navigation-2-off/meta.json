@@ -1,0 +1,11 @@
+{
+  "name": "navigation-2-off",
+  "categories": [
+    "$extends:navigation-2"
+  ],
+  "tags": [
+    "$extends:navigation-2",
+    "$group:off"
+  ],
+  "aliases": []
+}

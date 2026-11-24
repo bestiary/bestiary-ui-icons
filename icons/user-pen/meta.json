@@ -1,16 +1,18 @@
 {
   "name": "user-pen",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-pen",
-    "edit-profile",
-    "edit-user",
-    "update"
+    "edit",
+    "update",
+    "profile",
+    "user",
+    "pen"
   ],
   "aliases": [
-    "edit-profile"
+    "edit-user",
+    "user-edit"
   ],
   "deprecated": false
 }

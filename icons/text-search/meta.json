@@ -1,0 +1,15 @@
+{
+  "name": "text-search",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:search",
+    "data",
+    "copy",
+    "txt",
+    "pdf",
+    "document"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,17 @@
+{
+  "name": "panel-top-open",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$extends:panel-top",
+    "$group:direction-down",
+    "menu bar",
+    "show",
+    "reveal",
+    "chevron",
+    "down"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "face-slightly-smiling-plus",
+  "categories": [
+    "emoji",
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "react",
+    "emoji",
+    "smile",
+    "add reaction",
+    "plus"
+  ],
+  "aliases": [
+    "add-reaction",
+    "smile-plus"
+  ],
+  "deprecated": false
+}

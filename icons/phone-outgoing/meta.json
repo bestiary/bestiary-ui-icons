@@ -1,0 +1,16 @@
+{
+  "name": "phone-outgoing",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "phone",
+    "call",
+    "outgoing",
+    "dial"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

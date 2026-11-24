@@ -1,0 +1,19 @@
+{
+  "name": "door-closed-package",
+  "categories": [
+    "home",
+    "transportation",
+    "shopping",
+    "logistics"
+  ],
+  "tags": [
+    "delivery",
+    "parcel",
+    "doorstep",
+    "shipping",
+    "drop-off",
+    "courier"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

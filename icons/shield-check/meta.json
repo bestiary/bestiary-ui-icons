@@ -1,7 +1,37 @@
 {
   "name": "shield-check",
-  "categories": ["accounts"],
-  "tags": ["shield-check", "verified", "secure", "trusted", "protected"],
-  "aliases": ["security-verified", "shield-ok"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "secured",
+    "guarded",
+    "defended",
+    "blocked",
+    "prevented",
+    "active",
+    "activated",
+    "scanned",
+    "found",
+    "audited",
+    "certification",
+    "certified",
+    "tested",
+    "passed",
+    "qualified",
+    "cleared",
+    "cleaned",
+    "checked",
+    "insurance",
+    "guarantee",
+    "warranty"
+  ],
+  "aliases": [
+    "shield-verified",
+    "verified-shield"
+  ],
   "deprecated": false
 }

@@ -1,0 +1,17 @@
+{
+  "name": "phone-missed",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "phone",
+    "call",
+    "missed",
+    "declined",
+    "failed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

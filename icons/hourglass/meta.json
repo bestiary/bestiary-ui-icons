@@ -1,0 +1,13 @@
+{
+  "name": "hourglass",
+  "categories": [
+    "time",
+    "gaming"
+  ],
+  "tags": [
+    "$group:clock",
+    "sandglass"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

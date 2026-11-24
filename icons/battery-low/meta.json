@@ -1,0 +1,14 @@
+{
+  "name": "battery-low",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "battery",
+    "low",
+    "power",
+    "energy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "file-terminal",
+  "categories": [
+    "development",
+    "files"
+  ],
+  "tags": [
+    "file",
+    "terminal",
+    "bash",
+    "script",
+    "executable",
+    "cli"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

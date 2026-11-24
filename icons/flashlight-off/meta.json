@@ -1,0 +1,12 @@
+{
+  "name": "flashlight-off",
+  "categories": [
+    "$extends:flashlight"
+  ],
+  "tags": [
+    "$extends:flashlight",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,28 @@
+{
+  "name": "message-circle-text",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "speech",
+    "bubble",
+    "sms",
+    "texting",
+    "messaging",
+    "dm",
+    "discussion",
+    "thread",
+    "transcript",
+    "written",
+    "writing",
+    "lines",
+    "support",
+    "chatbot"
+  ],
+  "aliases": [
+    "text-bubble",
+    "sms-chat"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "signal",
+  "categories": [
+    "connectivity"
+  ],
+  "tags": [
+    "connection",
+    "wireless",
+    "gsm",
+    "phone",
+    "bars",
+    "cellular",
+    "5g"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

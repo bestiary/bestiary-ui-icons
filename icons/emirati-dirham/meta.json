@@ -1,0 +1,18 @@
+{
+  "name": "emirati-dirham",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "aed",
+    "arab emirates dirham",
+    "uae",
+    "United Arab Emirates",
+    "middle east",
+    "gulf",
+    "exchange rate"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

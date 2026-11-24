@@ -1,0 +1,13 @@
+{
+  "name": "receipt-turkish-lira",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "try",
+    "₺"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

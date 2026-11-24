@@ -1,0 +1,20 @@
+{
+  "name": "panels-top-left",
+  "categories": [
+    "layout",
+    "design",
+    "development"
+  ],
+  "tags": [
+    "menu bar",
+    "sidebar",
+    "layout",
+    "window",
+    "webpage",
+    "overview"
+  ],
+  "aliases": [
+    "layout"
+  ],
+  "deprecated": false
+}

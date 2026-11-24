@@ -1,0 +1,18 @@
+{
+  "name": "square-menu",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "bars",
+    "navigation",
+    "hamburger",
+    "options",
+    "menu bar",
+    "panel"
+  ],
+  "aliases": [
+    "menu-square"
+  ],
+  "deprecated": false
+}

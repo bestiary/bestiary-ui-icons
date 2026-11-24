@@ -1,0 +1,17 @@
+{
+  "name": "wifi-sync",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "wifi",
+    "sync",
+    "reset",
+    "restart",
+    "refresh",
+    "reconnect"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "map-minus",
+  "categories": [
+    "navigation",
+    "travel"
+  ],
+  "tags": [
+    "$extends:map",
+    "$group:minus",
+    "drop"
+  ],
+  "aliases": []
+}

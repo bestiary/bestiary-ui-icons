@@ -1,0 +1,27 @@
+{
+  "name": "groceries",
+  "categories": [
+    "food-beverage",
+    "shopping"
+  ],
+  "tags": [
+    "food",
+    "vegetables",
+    "health",
+    "grocery",
+    "market",
+    "farmer",
+    "produce",
+    "pantry",
+    "paper bag",
+    "shop",
+    "supermarket",
+    "retail",
+    "delivery",
+    "larder",
+    "provisions",
+    "takeout"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

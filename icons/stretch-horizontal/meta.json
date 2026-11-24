@@ -1,0 +1,14 @@
+{
+  "name": "stretch-horizontal",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "items",
+    "flex",
+    "justify",
+    "distribute"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

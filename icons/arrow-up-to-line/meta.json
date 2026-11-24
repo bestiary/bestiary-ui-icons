@@ -1,0 +1,19 @@
+{
+  "name": "arrow-up-to-line",
+  "categories": [
+    "arrows",
+    "files"
+  ],
+  "tags": [
+    "up",
+    "first",
+    "upload",
+    "collapse",
+    "to line"
+  ],
+  "aliases": [
+    "upload-to-line",
+    "collapse-up"
+  ],
+  "deprecated": false
+}

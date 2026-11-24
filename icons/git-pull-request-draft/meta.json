@@ -1,0 +1,14 @@
+{
+  "name": "git-pull-request-draft",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "git-pull-request",
+    "draft",
+    "dashed",
+    "pr"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

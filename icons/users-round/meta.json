@@ -1,7 +1,19 @@
 {
   "name": "users-round",
-  "categories": ["accounts"],
-  "tags": ["users-round", "team", "portraits", "members", "group"],
-  "aliases": ["round-users", "portraits-group"],
+  "categories": [
+    "account",
+    "people"
+  ],
+  "tags": [
+    "users",
+    "group",
+    "team",
+    "members",
+    "people"
+  ],
+  "aliases": [
+    "users-2",
+    "people-round"
+  ],
   "deprecated": false
 }

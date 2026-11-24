@@ -1,0 +1,18 @@
+{
+  "name": "chevrons-right",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "right",
+    "last",
+    "turn",
+    "corner",
+    "chevrons"
+  ],
+  "aliases": [
+    "double-chevron-right",
+    "skip-ahead"
+  ],
+  "deprecated": false
+}

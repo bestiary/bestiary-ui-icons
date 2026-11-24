@@ -1,0 +1,19 @@
+{
+  "name": "file-badge",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "award",
+    "achievement",
+    "badge",
+    "rosette",
+    "prize",
+    "winner"
+  ],
+  "aliases": [
+    "file-badge-2"
+  ],
+  "deprecated": false
+}

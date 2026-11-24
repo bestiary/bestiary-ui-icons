@@ -1,0 +1,12 @@
+{
+  "name": "baseline",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "format",
+    "color"
+  ],
+  "aliases": []
+}

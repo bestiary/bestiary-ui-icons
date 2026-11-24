@@ -1,7 +1,7 @@
 {
   "name": "badge",
-  "categories": ["accounts"],
-  "tags": ["badge", "seal", "status", "label", "reward"],
+  "categories": ["account", "social", "shapes"],
+  "tags": ["seal", "emblem", "rosette", "insignia", "sticker", "stamp", "label", "award", "achievement", "certification", "official", "status", "starburst", "scalloped", "shape"],
   "aliases": ["seal"],
   "deprecated": false
 }

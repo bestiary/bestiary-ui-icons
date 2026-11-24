@@ -1,0 +1,16 @@
+{
+  "name": "lectern",
+  "categories": [
+    "communication",
+    "education"
+  ],
+  "tags": [
+    "pulpit",
+    "podium",
+    "stand"
+  ],
+  "aliases": [
+    "speaker-stand"
+  ],
+  "deprecated": false
+}

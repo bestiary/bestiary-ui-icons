@@ -1,0 +1,13 @@
+{
+  "name": "archive-x",
+  "categories": [
+    "$extends:archive"
+  ],
+  "tags": [
+    "$extends:archive",
+    "$group:x",
+    "junk"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "rows-3",
+  "categories": [
+    "layout",
+    "design",
+    "text"
+  ],
+  "tags": [
+    "rows",
+    "split",
+    "panel",
+    "thirds",
+    "layout"
+  ],
+  "aliases": [
+    "panels-top-bottom"
+  ],
+  "deprecated": false
+}

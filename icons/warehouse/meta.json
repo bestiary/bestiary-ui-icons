@@ -1,0 +1,23 @@
+{
+  "name": "warehouse",
+  "categories": [
+    "buildings",
+    "navigation",
+    "logistics"
+  ],
+  "tags": [
+    "storage",
+    "storehouse",
+    "depot",
+    "depository",
+    "repository",
+    "stockroom",
+    "logistics",
+    "building"
+  ],
+  "aliases": [
+    "depot",
+    "storage-facility"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "toilet",
+  "categories": [
+    "home",
+    "travel"
+  ],
+  "tags": [
+    "toilet",
+    "potty",
+    "bathroom",
+    "washroom"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

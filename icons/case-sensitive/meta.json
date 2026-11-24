@@ -1,0 +1,12 @@
+{
+  "name": "case-sensitive",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "letters",
+    "characters"
+  ],
+  "aliases": []
+}

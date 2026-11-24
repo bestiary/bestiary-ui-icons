@@ -1,0 +1,17 @@
+{
+  "name": "square-dot",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "git",
+    "diff",
+    "modified",
+    "dot",
+    "square"
+  ],
+  "aliases": [
+    "dot-square"
+  ],
+  "deprecated": false
+}

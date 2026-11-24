@@ -1,0 +1,17 @@
+{
+  "name": "leafy-green",
+  "categories": [
+    "food-beverage",
+    "sustainability"
+  ],
+  "tags": [
+    "salad",
+    "lettuce",
+    "vegetable",
+    "chard",
+    "cabbage",
+    "bok choy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

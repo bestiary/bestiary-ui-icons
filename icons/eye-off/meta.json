@@ -1,7 +1,7 @@
 {
   "name": "eye-off",
-  "categories": ["accessibility"],
-  "tags": ["eye-off", "hide", "hidden", "invisible", "privacy"],
+  "categories": ["accessibility", "photography", "design", "security"],
+  "tags": ["conceal", "mask", "hide", "hidden", "invisible"],
   "aliases": ["hide", "invisible"],
   "deprecated": false
 }

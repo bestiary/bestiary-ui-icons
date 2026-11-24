@@ -1,0 +1,23 @@
+{
+  "name": "ship-cargo",
+  "categories": [
+    "$extends:ship",
+    "logistics"
+  ],
+  "tags": [
+    "$extends:ship",
+    "cargo",
+    "container",
+    "freighter",
+    "freight",
+    "shipping",
+    "port",
+    "harbor",
+    "dock",
+    "logistics",
+    "import",
+    "export"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

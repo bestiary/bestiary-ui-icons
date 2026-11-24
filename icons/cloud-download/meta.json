@@ -1,0 +1,19 @@
+{
+  "name": "cloud-download",
+  "categories": [
+    "arrows",
+    "files"
+  ],
+  "tags": [
+    "import",
+    "install",
+    "installation",
+    "cloud",
+    "download"
+  ],
+  "aliases": [
+    "download-cloud",
+    "cloud-import"
+  ],
+  "deprecated": false
+}

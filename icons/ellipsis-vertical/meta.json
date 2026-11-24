@@ -1,0 +1,26 @@
+{
+  "name": "ellipsis-vertical",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "menu",
+    "options",
+    "spread",
+    "more",
+    "further",
+    "extra",
+    "overflow",
+    "dots",
+    "…",
+    "...",
+    "kebab",
+    "kebab menu",
+    "three dots",
+    "3 dots"
+  ],
+  "aliases": [
+    "more-vertical"
+  ],
+  "deprecated": false
+}

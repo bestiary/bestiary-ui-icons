@@ -1,0 +1,20 @@
+{
+  "name": "banknote-arrow-down",
+  "categories": [
+    "$extends:banknote"
+  ],
+  "tags": [
+    "$extends:banknote",
+    "$group:direction-down",
+    "withdraw",
+    "expense",
+    "out",
+    "payout",
+    "refund",
+    "debit",
+    "spending",
+    "decrease"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "wheat-off",
+  "categories": [
+    "$extends:wheat"
+  ],
+  "tags": [
+    "$extends:wheat",
+    "$group:off",
+    "gluten free",
+    "allergy",
+    "intolerance",
+    "diet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

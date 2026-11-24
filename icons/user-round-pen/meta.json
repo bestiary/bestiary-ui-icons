@@ -1,15 +1,18 @@
 {
   "name": "user-round-pen",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-round-pen",
-    "update-profile",
-    "edit"
+    "edit",
+    "update",
+    "profile",
+    "user",
+    "pen"
   ],
   "aliases": [
-    "update-profile"
+    "edit-user-round",
+    "user-pen-2"
   ],
   "deprecated": false
 }

@@ -1,0 +1,12 @@
+{
+  "name": "truck-electric",
+  "categories": [
+    "$extends:truck"
+  ],
+  "tags": [
+    "$extends:truck",
+    "electric"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

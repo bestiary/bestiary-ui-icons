@@ -1,0 +1,13 @@
+{
+  "name": "strikethrough",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "$group:minus",
+    "cross out",
+    "format"
+  ],
+  "aliases": []
+}

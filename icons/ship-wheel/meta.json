@@ -1,0 +1,12 @@
+{
+  "name": "ship-wheel",
+  "categories": [
+    "$extends:ship"
+  ],
+  "tags": [
+    "$extends:ship",
+    "steering",
+    "rudder"
+  ],
+  "aliases": []
+}

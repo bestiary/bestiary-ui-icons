@@ -1,0 +1,16 @@
+{
+  "name": "type-outline",
+  "categories": [
+    "$extends:type"
+  ],
+  "tags": [
+    "$extends:type",
+    "silhouette",
+    "profile",
+    "contour",
+    "stroke",
+    "line"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

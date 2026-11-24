@@ -1,0 +1,18 @@
+{
+  "name": "plug-zap",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "$extends:plug",
+    "$extends:zap",
+    "charge",
+    "charging",
+    "battery",
+    "connect"
+  ],
+  "aliases": [
+    "plug-zap-2"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "triangle-dashed",
+  "categories": [
+    "$extends:triangle"
+  ],
+  "tags": [
+    "$extends:triangle",
+    "$group:dashed"
+  ],
+  "aliases": []
+}

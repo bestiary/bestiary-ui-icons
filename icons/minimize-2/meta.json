@@ -1,0 +1,18 @@
+{
+  "name": "minimize-2",
+  "categories": [
+    "layout",
+    "arrows"
+  ],
+  "tags": [
+    "minimize",
+    "collapse",
+    "exit fullscreen",
+    "scale"
+  ],
+  "aliases": [
+    "diagonal-collapse",
+    "exit-fullscreen"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,10 @@
+{
+  "name": "check",
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$group:check"
+  ],
+  "aliases": []
+}

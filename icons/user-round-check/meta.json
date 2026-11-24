@@ -1,15 +1,17 @@
 {
   "name": "user-round-check",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-round-check",
-    "verified-profile",
-    "approved"
+    "followed",
+    "subscribed",
+    "verified",
+    "user"
   ],
   "aliases": [
-    "verified-profile"
+    "user-check-2",
+    "verified-user-round"
   ],
   "deprecated": false
 }

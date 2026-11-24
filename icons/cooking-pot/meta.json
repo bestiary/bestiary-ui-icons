@@ -1,0 +1,23 @@
+{
+  "name": "cooking-pot",
+  "categories": [
+    "food-beverage",
+    "home"
+  ],
+  "tags": [
+    "pod",
+    "cooking",
+    "recipe",
+    "food",
+    "kitchen",
+    "chef",
+    "restaurant",
+    "dinner",
+    "lunch",
+    "breakfast",
+    "meal",
+    "eat"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

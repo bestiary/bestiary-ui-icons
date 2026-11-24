@@ -1,0 +1,13 @@
+{
+  "name": "broom-sparkles",
+  "categories": [
+    "$extends:broom"
+  ],
+  "tags": [
+    "$extends:broom",
+    "$group:sparkles",
+    "pristine"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

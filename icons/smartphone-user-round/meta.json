@@ -1,0 +1,20 @@
+{
+  "name": "smartphone-user-round",
+  "categories": [
+    "account",
+    "devices",
+    "people"
+  ],
+  "tags": [
+    "avatar",
+    "owner",
+    "authentication",
+    "mobile",
+    "profile"
+  ],
+  "aliases": [
+    "mobile-user",
+    "phone-profile"
+  ],
+  "deprecated": false
+}

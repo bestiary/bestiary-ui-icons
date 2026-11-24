@@ -1,0 +1,20 @@
+{
+  "name": "triangle-exclamation-point",
+  "categories": [
+    "notifications",
+    "development"
+  ],
+  "tags": [
+    "warning",
+    "alert",
+    "exclamation",
+    "error",
+    "danger",
+    "caution"
+  ],
+  "aliases": [
+    "alert-triangle",
+    "triangle-alert"
+  ],
+  "deprecated": false
+}

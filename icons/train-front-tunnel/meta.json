@@ -1,0 +1,12 @@
+{
+  "name": "train-front-tunnel",
+  "categories": [
+    "$extends:train-front",
+    "navigation"
+  ],
+  "tags": [
+    "$extends:train-front",
+    "speed"
+  ],
+  "aliases": []
+}

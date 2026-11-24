@@ -1,7 +1,7 @@
 {
   "name": "sun",
-  "categories": ["accessibility"],
-  "tags": ["sun", "light", "bright", "day", "theme"],
+  "categories": ["accessibility", "weather", "sustainability"],
+  "tags": ["brightness", "weather", "light", "summer"],
   "aliases": ["light-mode", "daylight"],
   "deprecated": false
 }

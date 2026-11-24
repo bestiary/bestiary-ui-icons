@@ -1,0 +1,22 @@
+{
+  "name": "milestone",
+  "categories": [
+    "arrows",
+    "navigation",
+    "development"
+  ],
+  "tags": [
+    "signpost",
+    "direction",
+    "right",
+    "east",
+    "forward",
+    "version control",
+    "waypoint"
+  ],
+  "aliases": [
+    "signpost-right",
+    "roadmap-milestone"
+  ],
+  "deprecated": false
+}

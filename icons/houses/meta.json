@@ -1,0 +1,28 @@
+{
+  "name": "houses",
+  "categories": [
+    "buildings",
+    "home"
+  ],
+  "tags": [
+    "homes",
+    "housing",
+    "estate",
+    "living",
+    "buildings",
+    "development",
+    "residences",
+    "residential",
+    "village",
+    "neighbourhood",
+    "accommodation",
+    "community",
+    "dwellings",
+    "architecture"
+  ],
+  "aliases": [
+    "neighborhood",
+    "residential-homes"
+  ],
+  "deprecated": false
+}

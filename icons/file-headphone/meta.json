@@ -1,0 +1,17 @@
+{
+  "name": "file-headphone",
+  "categories": [
+    "$extends:file",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:file",
+    "$extends:headphones",
+    "headphones"
+  ],
+  "aliases": [
+    "file-audio",
+    "file-audio-2"
+  ],
+  "deprecated": false
+}

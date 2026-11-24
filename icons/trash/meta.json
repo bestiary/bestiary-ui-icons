@@ -1,6 +1,24 @@
 {
   "name": "trash",
-  "categories": ["actions"],
-  "tags": ["trash", "delete", "remove", "bin", "garbage"],
-  "aliases": ["delete", "bin", "remove"]
+  "categories": [
+    "files",
+    "mail"
+  ],
+  "tags": [
+    "$group:minus",
+    "empty",
+    "deletion",
+    "cleanup",
+    "junk",
+    "garbage",
+    "bin",
+    "waste",
+    "recycle",
+    "discard",
+    "rubbish"
+  ],
+  "aliases": [
+    "trash-2"
+  ],
+  "deprecated": false
 }

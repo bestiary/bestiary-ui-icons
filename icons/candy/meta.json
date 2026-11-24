@@ -1,0 +1,13 @@
+{
+  "name": "candy",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "sugar",
+    "food",
+    "sweet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

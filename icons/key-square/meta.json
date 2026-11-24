@@ -1,7 +1,7 @@
 {
   "name": "key-square",
-  "categories": ["accounts"],
-  "tags": ["key-square", "api-key", "secret", "token", "security"],
+  "categories": ["security", "account"],
+  "tags": ["car key", "api-key", "secret", "token", "security"],
   "aliases": ["api-key", "square-key"],
   "deprecated": false
 }

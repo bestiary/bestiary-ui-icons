@@ -1,0 +1,20 @@
+{
+  "name": "cloud-exclamation-point",
+  "categories": [
+    "development",
+    "notifications",
+    "weather"
+  ],
+  "tags": [
+    "cloud",
+    "exclamation",
+    "alert",
+    "warning",
+    "sync",
+    "network"
+  ],
+  "aliases": [
+    "cloud-alert"
+  ],
+  "deprecated": false
+}

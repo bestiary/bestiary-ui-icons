@@ -1,0 +1,20 @@
+{
+  "name": "chevrons-up",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up",
+    "first",
+    "forward",
+    "ahead",
+    "faster",
+    "speed",
+    "boost"
+  ],
+  "aliases": [
+    "double-chevron-up",
+    "fast-up"
+  ],
+  "deprecated": false
+}

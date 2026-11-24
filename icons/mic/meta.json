@@ -1,0 +1,19 @@
+{
+  "name": "mic",
+  "categories": [
+    "devices",
+    "communication",
+    "multimedia"
+  ],
+  "tags": [
+    "record",
+    "sound",
+    "listen",
+    "radio",
+    "podcast",
+    "microphone",
+    "voice"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

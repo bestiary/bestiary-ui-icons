@@ -1,0 +1,17 @@
+{
+  "name": "chart-scatter",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "scatter",
+    "dots",
+    "distribution"
+  ],
+  "aliases": [
+    "scatter-plot",
+    "dot-plot"
+  ],
+  "deprecated": false
+}

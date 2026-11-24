@@ -1,0 +1,21 @@
+{
+  "name": "house",
+  "categories": [
+    "buildings",
+    "home",
+    "navigation"
+  ],
+  "tags": [
+    "home",
+    "living",
+    "building",
+    "residence",
+    "architecture",
+    "homepage"
+  ],
+  "aliases": [
+    "home",
+    "homepage"
+  ],
+  "deprecated": false
+}

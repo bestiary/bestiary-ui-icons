@@ -1,0 +1,16 @@
+{
+  "name": "bean-off",
+  "categories": [
+    "$extends:bean"
+  ],
+  "tags": [
+    "$extends:bean",
+    "$group:off",
+    "soy free",
+    "allergy",
+    "intolerance",
+    "diet"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "undo-2",
+  "categories": [
+    "text",
+    "arrows"
+  ],
+  "tags": [
+    "undo",
+    "back",
+    "return",
+    "reverse",
+    "revert",
+    "direction",
+    "u-turn"
+  ],
+  "aliases": [
+    "undo-curved",
+    "u-turn-left"
+  ],
+  "deprecated": false
+}

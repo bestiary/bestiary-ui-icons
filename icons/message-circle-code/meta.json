@@ -1,0 +1,21 @@
+{
+  "name": "message-circle-code",
+  "categories": [
+    "social",
+    "communication",
+    "development"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "conversation",
+    "dialog",
+    "feedback",
+    "code review"
+  ],
+  "aliases": [
+    "code-review-bubble",
+    "chat-code"
+  ],
+  "deprecated": false
+}

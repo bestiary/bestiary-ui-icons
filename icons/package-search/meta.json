@@ -1,0 +1,17 @@
+{
+  "name": "package-search",
+  "categories": [
+    "files",
+    "development",
+    "logistics"
+  ],
+  "tags": [
+    "package",
+    "search",
+    "inspect",
+    "find",
+    "lookup"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "monitor",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "tv",
+    "computer",
+    "desktop",
+    "screen",
+    "display",
+    "external display",
+    "screen sharing",
+    "virtual machine",
+    "vm"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

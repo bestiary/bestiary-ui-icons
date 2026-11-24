@@ -1,0 +1,19 @@
+{
+  "name": "step-forward",
+  "categories": [
+    "multimedia",
+    "arrows"
+  ],
+  "tags": [
+    "arrow",
+    "next",
+    "music",
+    "right",
+    "continue"
+  ],
+  "aliases": [
+    "frame-forward",
+    "next-frame"
+  ],
+  "deprecated": false
+}

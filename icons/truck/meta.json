@@ -1,0 +1,16 @@
+{
+  "name": "truck",
+  "categories": [
+    "transportation",
+    "logistics"
+  ],
+  "tags": [
+    "delivery",
+    "van",
+    "shipping",
+    "haulage",
+    "lorry"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

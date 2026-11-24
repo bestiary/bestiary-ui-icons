@@ -1,0 +1,12 @@
+{
+  "name": "ligature",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "alternates",
+    "alternatives"
+  ],
+  "aliases": []
+}

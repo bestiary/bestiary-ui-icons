@@ -1,0 +1,17 @@
+{
+  "name": "rotate-ccw-key",
+  "categories": [
+    "security",
+    "account"
+  ],
+  "tags": [
+    "change",
+    "key",
+    "rotate"
+  ],
+  "aliases": [
+    "rotate-key",
+    "reset-key"
+  ],
+  "deprecated": false
+}

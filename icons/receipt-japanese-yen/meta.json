@@ -1,0 +1,13 @@
+{
+  "name": "receipt-japanese-yen",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "jpy",
+    "¥"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

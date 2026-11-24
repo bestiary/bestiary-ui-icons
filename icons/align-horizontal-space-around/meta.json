@@ -1,0 +1,16 @@
+{
+  "name": "align-horizontal-space-around",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "center",
+    "items",
+    "flex",
+    "justify",
+    "distribute",
+    "between"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

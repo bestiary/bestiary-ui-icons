@@ -1,0 +1,10 @@
+{
+  "name": "calendar-plus-2",
+  "categories": [
+    "$extends:calendar-plus"
+  ],
+  "tags": [
+    "$extends:calendar-plus"
+  ],
+  "aliases": []
+}

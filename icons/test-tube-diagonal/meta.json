@@ -1,0 +1,12 @@
+{
+  "name": "test-tube-diagonal",
+  "categories": [
+    "$extends:test-tube"
+  ],
+  "tags": [
+    "$extends:test-tube"
+  ],
+  "aliases": [
+    "test-tube-2"
+  ]
+}

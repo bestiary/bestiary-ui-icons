@@ -1,0 +1,28 @@
+{
+  "name": "kanban",
+  "categories": [
+    "charts",
+    "development"
+  ],
+  "tags": [
+    "projects",
+    "manage",
+    "overview",
+    "board",
+    "tickets",
+    "issues",
+    "roadmap",
+    "plan",
+    "intentions",
+    "productivity",
+    "work",
+    "agile",
+    "code",
+    "coding"
+  ],
+  "aliases": [
+    "kanban-board",
+    "task-columns"
+  ],
+  "deprecated": false
+}

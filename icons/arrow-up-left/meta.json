@@ -1,0 +1,17 @@
+{
+  "name": "arrow-up-left",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up-left",
+    "diagonal",
+    "arrow",
+    "northwest"
+  ],
+  "aliases": [
+    "northwest",
+    "top-left-arrow"
+  ],
+  "deprecated": false
+}

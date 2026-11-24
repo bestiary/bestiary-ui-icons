@@ -1,0 +1,19 @@
+{
+  "name": "square-percent",
+  "categories": [
+    "social",
+    "finance",
+    "shopping",
+    "math"
+  ],
+  "tags": [
+    "$group:percent",
+    "verified",
+    "unverified",
+    "sticker"
+  ],
+  "aliases": [
+    "percent-square"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "stretch-vertical",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "items",
+    "flex",
+    "justify",
+    "distribute"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

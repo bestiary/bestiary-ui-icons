@@ -1,0 +1,13 @@
+{
+  "name": "azerbaijani-manat",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "azerbaijan",
+    "azn"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

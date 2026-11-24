@@ -1,0 +1,14 @@
+{
+  "name": "notepad-text-dashed",
+  "categories": [
+    "$extends:notepad-text"
+  ],
+  "tags": [
+    "$extends:notepad-text",
+    "$group:dashed",
+    "draft",
+    "template"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

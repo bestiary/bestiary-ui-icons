@@ -1,0 +1,12 @@
+{
+  "name": "circle-check",
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$group:check"
+  ],
+  "aliases": [
+    "check-circle-2"
+  ]
+}

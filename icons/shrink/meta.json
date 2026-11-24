@@ -1,0 +1,18 @@
+{
+  "name": "shrink",
+  "categories": [
+    "layout",
+    "arrows"
+  ],
+  "tags": [
+    "collapse",
+    "scale",
+    "fullscreen",
+    "shrink"
+  ],
+  "aliases": [
+    "collapse-four-corners",
+    "unfullscreen"
+  ],
+  "deprecated": false
+}

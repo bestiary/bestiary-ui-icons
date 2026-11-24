@@ -1,0 +1,24 @@
+{
+  "name": "book-a",
+  "categories": [
+    "text",
+    "gaming"
+  ],
+  "tags": [
+    "$extends:book",
+    "$group:letter",
+    "dictionary",
+    "define",
+    "definition",
+    "thesaurus",
+    "encyclopedia",
+    "encyclopaedia",
+    "language",
+    "translate",
+    "alphabetical",
+    "a-z",
+    "ordered"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "diff",
+  "categories": [
+    "development",
+    "files"
+  ],
+  "tags": [
+    "patch",
+    "difference",
+    "compare",
+    "plus",
+    "minus",
+    "math"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

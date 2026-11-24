@@ -1,0 +1,12 @@
+{
+  "name": "calendar-off",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:minus",
+    "$group:off"
+  ],
+  "aliases": []
+}

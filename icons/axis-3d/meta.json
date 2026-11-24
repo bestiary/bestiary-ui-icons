@@ -1,0 +1,17 @@
+{
+  "name": "axis-3d",
+  "categories": [
+    "design"
+  ],
+  "tags": [
+    "gizmo",
+    "coordinates",
+    "model",
+    "3d",
+    "axis"
+  ],
+  "aliases": [
+    "axis-3-d"
+  ],
+  "deprecated": false
+}

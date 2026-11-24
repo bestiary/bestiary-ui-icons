@@ -1,0 +1,23 @@
+{
+  "name": "signpost-big",
+  "categories": [
+    "arrows",
+    "navigation"
+  ],
+  "tags": [
+    "navigation",
+    "direction",
+    "arrow",
+    "wayfinding",
+    "guide",
+    "location",
+    "pointer",
+    "route",
+    "signpost"
+  ],
+  "aliases": [
+    "trail-signpost",
+    "two-way-signpost"
+  ],
+  "deprecated": false
+}

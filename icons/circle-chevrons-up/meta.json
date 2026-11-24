@@ -1,0 +1,25 @@
+{
+  "name": "circle-chevrons-up",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up",
+    "first",
+    "top",
+    "page",
+    "back to top",
+    "scroll",
+    "jump",
+    "caret",
+    "button",
+    "skip",
+    "pagination",
+    "fast"
+  ],
+  "aliases": [
+    "chevrons-up-circle",
+    "circle-back-to-top"
+  ],
+  "deprecated": false
+}

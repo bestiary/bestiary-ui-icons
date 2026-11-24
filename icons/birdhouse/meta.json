@@ -1,0 +1,21 @@
+{
+  "name": "birdhouse",
+  "categories": [
+    "nature",
+    "animals",
+    "home"
+  ],
+  "tags": [
+    "birdhouse",
+    "bird",
+    "garden",
+    "home",
+    "house",
+    "woodwork"
+  ],
+  "aliases": [
+    "bird-house",
+    "nesting-box"
+  ],
+  "deprecated": false
+}

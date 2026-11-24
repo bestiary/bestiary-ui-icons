@@ -1,0 +1,12 @@
+{
+  "name": "power-off",
+  "categories": [
+    "$extends:power"
+  ],
+  "tags": [
+    "$extends:power",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

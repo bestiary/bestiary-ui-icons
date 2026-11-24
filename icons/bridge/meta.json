@@ -1,0 +1,29 @@
+{
+  "name": "bridge",
+  "categories": [
+    "travel",
+    "transportation",
+    "buildings"
+  ],
+  "tags": [
+    "overpass",
+    "cross over",
+    "traverse",
+    "viaduct",
+    "suspension",
+    "infrastructure",
+    "transportation",
+    "crossing",
+    "road",
+    "river",
+    "gate",
+    "travel",
+    "landmark",
+    "route"
+  ],
+  "aliases": [
+    "suspension-bridge",
+    "overpass"
+  ],
+  "deprecated": false
+}

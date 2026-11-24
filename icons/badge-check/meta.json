@@ -1,0 +1,19 @@
+{
+  "name": "badge-check",
+  "categories": [
+    "social"
+  ],
+  "tags": [
+    "$extends:badge",
+    "$group:check",
+    "premium",
+    "vip",
+    "exclusive",
+    "pro",
+    "guarantee",
+    "warranty"
+  ],
+  "aliases": [
+    "verified"
+  ]
+}

@@ -1,7 +1,28 @@
 {
   "name": "scan-eye",
-  "categories": ["accounts"],
-  "tags": ["scan-eye", "iris", "retina", "biometric", "auth"],
-  "aliases": ["iris-scan", "retina-scan"],
+  "categories": [
+    "photography",
+    "security",
+    "account"
+  ],
+  "tags": [
+    "preview",
+    "zoom",
+    "expand",
+    "fullscreen",
+    "gallery",
+    "image",
+    "watch",
+    "retina",
+    "biometric",
+    "identification",
+    "authentication",
+    "access",
+    "login"
+  ],
+  "aliases": [
+    "retina-scan",
+    "iris-scan"
+  ],
   "deprecated": false
 }

@@ -1,0 +1,7 @@
+{
+  "name": "building-complex-plus",
+  "categories": ["account", "buildings"],
+  "tags": ["office", "headquarters", "startup", "registration", "onboarding", "real estate", "property"],
+  "aliases": ["add-branch", "new-office-complex"],
+  "deprecated": false
+}

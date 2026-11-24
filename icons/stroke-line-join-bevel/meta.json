@@ -1,0 +1,17 @@
+{
+  "name": "stroke-line-join-bevel",
+  "categories": [
+    "design",
+    "shapes"
+  ],
+  "tags": [
+    "line",
+    "join",
+    "bevel",
+    "corner",
+    "chamfer",
+    "stroke"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "align-center-vertical",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-center",
+    "items",
+    "flex",
+    "justify"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

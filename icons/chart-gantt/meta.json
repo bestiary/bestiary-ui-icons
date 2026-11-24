@@ -1,0 +1,30 @@
+{
+  "name": "chart-gantt",
+  "categories": [
+    "charts",
+    "time"
+  ],
+  "tags": [
+    "chart",
+    "timeline",
+    "planning",
+    "projects",
+    "manage",
+    "overview",
+    "roadmap",
+    "plan",
+    "deadline",
+    "date",
+    "event",
+    "range",
+    "period",
+    "productivity",
+    "work",
+    "agile"
+  ],
+  "aliases": [
+    "gantt-chart",
+    "project-timeline"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "wifi-high",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "wifi",
+    "signal",
+    "wireless",
+    "network",
+    "high"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,7 +1,36 @@
 {
   "name": "shield-ellipsis",
-  "categories": ["accounts"],
-  "tags": ["shield-ellipsis", "pending", "scanning", "security-check"],
-  "aliases": ["shield-pending", "security-scanning"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "securing",
+    "protecting",
+    "guarding",
+    "armoring",
+    "defending",
+    "blocking",
+    "preventing",
+    "detecting",
+    "scanning",
+    "finding",
+    "auditing",
+    "verifying",
+    "upgrading",
+    "loader",
+    "loading",
+    "throbber",
+    "progress",
+    "dots",
+    "more",
+    "etc"
+  ],
+  "aliases": [
+    "shield-loading",
+    "shield-pending"
+  ],
   "deprecated": false
 }

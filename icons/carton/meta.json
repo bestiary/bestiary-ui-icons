@@ -1,0 +1,30 @@
+{
+  "name": "carton",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "milk",
+    "dairy",
+    "beverage",
+    "drink",
+    "diet",
+    "lactose",
+    "liquid",
+    "liter",
+    "litre",
+    "pint",
+    "pints",
+    "pasteurized",
+    "skim",
+    "skimmed",
+    "container",
+    "packaging",
+    "grocery",
+    "juice",
+    "cream",
+    "cow"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

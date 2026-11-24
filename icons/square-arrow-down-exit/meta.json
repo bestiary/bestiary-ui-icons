@@ -1,0 +1,19 @@
+{
+  "name": "square-arrow-down-exit",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "exit",
+    "pour",
+    "empty",
+    "cell",
+    "expand"
+  ],
+  "aliases": [
+    "exit-down-square",
+    "pour-out"
+  ],
+  "deprecated": false
+}

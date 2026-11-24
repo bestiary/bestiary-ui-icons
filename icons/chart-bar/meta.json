@@ -1,0 +1,17 @@
+{
+  "name": "chart-bar",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "categorical",
+    "comparison",
+    "bar"
+  ],
+  "aliases": [
+    "bar-chart-horizontal",
+    "horizontal-bars"
+  ],
+  "deprecated": false
+}

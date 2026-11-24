@@ -1,0 +1,27 @@
+{
+  "name": "square-chevron-up",
+  "categories": [
+    "arrows",
+    "math"
+  ],
+  "tags": [
+    "up",
+    "caret",
+    "keyboard",
+    "button",
+    "mac",
+    "control",
+    "ctrl",
+    "superscript",
+    "exponential",
+    "power",
+    "ahead",
+    "menu",
+    "panel"
+  ],
+  "aliases": [
+    "chevron-up-square",
+    "square-caret-up"
+  ],
+  "deprecated": false
+}

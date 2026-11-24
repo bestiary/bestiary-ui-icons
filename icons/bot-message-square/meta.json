@@ -1,0 +1,22 @@
+{
+  "name": "bot-message-square",
+  "categories": [
+    "development",
+    "social",
+    "ai"
+  ],
+  "tags": [
+    "robot",
+    "ai",
+    "chat",
+    "assistant",
+    "chatbot",
+    "agent",
+    "message"
+  ],
+  "aliases": [
+    "chatbot",
+    "ai-chat"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "shower-head",
+  "categories": [
+    "home",
+    "travel"
+  ],
+  "tags": [
+    "shower",
+    "bath",
+    "bathroom",
+    "amenities",
+    "services"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

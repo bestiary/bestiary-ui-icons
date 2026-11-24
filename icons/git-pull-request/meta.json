@@ -1,0 +1,15 @@
+{
+  "name": "git-pull-request",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "code",
+    "version control",
+    "pull request",
+    "pr",
+    "open"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloud-drizzle",
+  "categories": [
+    "$extends:cloud"
+  ],
+  "tags": [
+    "$extends:cloud",
+    "shower"
+  ],
+  "aliases": []
+}

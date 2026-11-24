@@ -1,7 +1,7 @@
 {
   "name": "activity",
-  "categories": ["accounts"],
-  "tags": ["activity", "pulse", "status", "health", "analytics"],
+  "categories": ["medical", "account", "social"],
+  "tags": ["pulse", "action", "motion", "movement", "exercise", "fitness", "healthcare", "heart rate monitor", "vital signs", "vitals", "emergency room", "hospital", "waveform", "audio"],
   "aliases": ["pulse", "heartbeat"],
   "deprecated": false
 }

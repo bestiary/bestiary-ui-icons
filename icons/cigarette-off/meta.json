@@ -1,0 +1,13 @@
+{
+  "name": "cigarette-off",
+  "categories": [
+    "$extends:cigarette"
+  ],
+  "tags": [
+    "$extends:cigarette",
+    "$group:off",
+    "no-smoking"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

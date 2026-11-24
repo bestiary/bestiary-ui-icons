@@ -1,0 +1,16 @@
+{
+  "name": "compass",
+  "categories": [
+    "navigation",
+    "travel"
+  ],
+  "tags": [
+    "direction",
+    "north",
+    "east",
+    "south",
+    "west",
+    "browser"
+  ],
+  "aliases": []
+}

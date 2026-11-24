@@ -1,0 +1,20 @@
+{
+  "name": "square-arrow-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "next",
+    "backwards",
+    "reverse",
+    "sign",
+    "keyboard",
+    "button"
+  ],
+  "aliases": [
+    "arrow-down-square",
+    "square-down"
+  ],
+  "deprecated": false
+}

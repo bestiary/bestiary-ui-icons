@@ -1,0 +1,19 @@
+{
+  "name": "smartphone",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "phone",
+    "cellphone",
+    "device",
+    "mobile",
+    "screen",
+    "display",
+    "touchscreen",
+    "portable",
+    "responsive"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

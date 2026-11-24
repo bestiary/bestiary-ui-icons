@@ -1,0 +1,13 @@
+{
+  "name": "cigarette",
+  "categories": [
+    "travel",
+    "transportation",
+    "medical"
+  ],
+  "tags": [
+    "smoking"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

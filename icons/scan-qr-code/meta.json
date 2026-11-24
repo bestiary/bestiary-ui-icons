@@ -1,7 +1,22 @@
 {
   "name": "scan-qr-code",
-  "categories": ["accounts"],
-  "tags": ["scan-qr-code", "qr", "barcode", "2fa", "authenticator"],
-  "aliases": ["qr-scan", "qr-code"],
+  "categories": [
+    "account",
+    "shopping",
+    "devices",
+    "security"
+  ],
+  "tags": [
+    "scan",
+    "qr code",
+    "url",
+    "information",
+    "digital",
+    "scanner"
+  ],
+  "aliases": [
+    "qr-scanner",
+    "scan-qr"
+  ],
   "deprecated": false
 }

@@ -1,7 +1,36 @@
 {
   "name": "shield-question-mark",
-  "categories": ["accounts"],
-  "tags": ["shield-question-mark", "security-help", "unknown-status", "verify"],
-  "aliases": ["security-help", "unknown-security"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "unshielded",
+    "insecure",
+    "unsecured",
+    "unsafe",
+    "unprotected",
+    "unguarded",
+    "unarmored",
+    "defenseless",
+    "undefended",
+    "unprevented",
+    "undetected",
+    "exploit",
+    "vulnerability",
+    "weakness",
+    "infection",
+    "compromised",
+    "data leak",
+    "unverified",
+    "uncertified",
+    "inactive"
+  ],
+  "aliases": [
+    "shield-question",
+    "unknown-shield"
+  ],
   "deprecated": false
 }

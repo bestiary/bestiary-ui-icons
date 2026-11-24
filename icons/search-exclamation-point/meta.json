@@ -1,0 +1,15 @@
+{
+  "name": "search-exclamation-point",
+  "categories": [
+    "$extends:search"
+  ],
+  "tags": [
+    "$extends:search",
+    "$group:exclamation-mark",
+    "stop",
+    "anomaly"
+  ],
+  "aliases": [
+    "search-alert"
+  ]
+}

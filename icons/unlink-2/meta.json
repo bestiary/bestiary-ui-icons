@@ -1,0 +1,10 @@
+{
+  "name": "unlink-2",
+  "categories": [
+    "$extends:unlink"
+  ],
+  "tags": [
+    "$extends:unlink"
+  ],
+  "aliases": []
+}

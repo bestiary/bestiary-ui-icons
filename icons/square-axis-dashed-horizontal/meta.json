@@ -1,0 +1,20 @@
+{
+  "name": "square-axis-dashed-horizontal",
+  "categories": [
+    "design",
+    "photography"
+  ],
+  "tags": [
+    "dashed",
+    "reflect",
+    "alignment",
+    "centerline",
+    "flip",
+    "horizontal"
+  ],
+  "aliases": [
+    "flip-vertical",
+    "square-centerline-dashed-vertical"
+  ],
+  "deprecated": false
+}

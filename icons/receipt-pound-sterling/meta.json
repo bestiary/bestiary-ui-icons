@@ -1,0 +1,15 @@
+{
+  "name": "receipt-pound-sterling",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "$group:currency",
+    "british",
+    "gbp",
+    "£"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

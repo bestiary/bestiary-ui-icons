@@ -1,0 +1,13 @@
+{
+  "name": "thermometer",
+  "categories": [
+    "weather"
+  ],
+  "tags": [
+    "temperature",
+    "celsius",
+    "fahrenheit",
+    "weather"
+  ],
+  "aliases": []
+}

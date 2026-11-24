@@ -1,0 +1,19 @@
+{
+  "name": "square-letter-e",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "explicit",
+    "content rating",
+    "east",
+    "empty",
+    "energy",
+    "grade",
+    "rating"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

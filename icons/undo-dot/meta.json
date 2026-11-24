@@ -1,0 +1,17 @@
+{
+  "name": "undo-dot",
+  "categories": [
+    "text",
+    "arrows"
+  ],
+  "tags": [
+    "undo",
+    "step",
+    "back"
+  ],
+  "aliases": [
+    "step-back-dot",
+    "undo-point"
+  ],
+  "deprecated": false
+}

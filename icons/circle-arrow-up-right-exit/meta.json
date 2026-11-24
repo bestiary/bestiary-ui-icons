@@ -1,0 +1,17 @@
+{
+  "name": "circle-arrow-up-right-exit",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up-right",
+    "exit",
+    "arrow",
+    "circle"
+  ],
+  "aliases": [
+    "exit-top-right",
+    "circle-exit-ne"
+  ],
+  "deprecated": false
+}

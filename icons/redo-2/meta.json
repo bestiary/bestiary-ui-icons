@@ -1,0 +1,18 @@
+{
+  "name": "redo-2",
+  "categories": [
+    "text",
+    "arrows"
+  ],
+  "tags": [
+    "undo",
+    "rerun",
+    "history",
+    "redo"
+  ],
+  "aliases": [
+    "redo-curved",
+    "forward-step"
+  ],
+  "deprecated": false
+}

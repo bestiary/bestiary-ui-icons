@@ -1,0 +1,17 @@
+{
+  "name": "square-x",
+  "categories": [
+    "math",
+    "notifications"
+  ],
+  "tags": [
+    "$group:x",
+    "math",
+    "multiply",
+    "multiplication"
+  ],
+  "aliases": [
+    "x-square"
+  ],
+  "deprecated": false
+}

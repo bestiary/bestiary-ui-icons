@@ -1,0 +1,29 @@
+{
+  "name": "rotate-ccw",
+  "categories": [
+    "arrows",
+    "design",
+    "photography"
+  ],
+  "tags": [
+    "arrow",
+    "left",
+    "counter-clockwise",
+    "restart",
+    "reload",
+    "rerun",
+    "refresh",
+    "backup",
+    "undo",
+    "replay",
+    "redo",
+    "retry",
+    "rewind",
+    "reverse"
+  ],
+  "aliases": [
+    "undo-rotate",
+    "counter-clockwise"
+  ],
+  "deprecated": false
+}

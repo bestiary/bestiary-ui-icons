@@ -1,0 +1,16 @@
+{
+  "name": "spell-check",
+  "categories": [
+    "text",
+    "development"
+  ],
+  "tags": [
+    "spelling",
+    "check",
+    "linter",
+    "typo",
+    "correction"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

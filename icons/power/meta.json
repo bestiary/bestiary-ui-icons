@@ -1,0 +1,23 @@
+{
+  "name": "power",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "on",
+    "off",
+    "device",
+    "switch",
+    "toggle",
+    "binary",
+    "boolean",
+    "reboot",
+    "restart",
+    "button",
+    "keyboard",
+    "troubleshoot",
+    "quit"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

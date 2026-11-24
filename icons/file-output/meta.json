@@ -1,0 +1,11 @@
+{
+  "name": "file-output",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

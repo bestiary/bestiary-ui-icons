@@ -1,0 +1,30 @@
+{
+  "name": "square-chevrons-up",
+  "categories": [
+    "arrows",
+    "navigation",
+    "multimedia",
+    "layout"
+  ],
+  "tags": [
+    "top",
+    "ascend",
+    "page",
+    "page up",
+    "back to top",
+    "scroll",
+    "jump",
+    "north",
+    "caret",
+    "button",
+    "keyboard",
+    "skip",
+    "pagination",
+    "fast"
+  ],
+  "aliases": [
+    "chevrons-up-square",
+    "square-page-up"
+  ],
+  "deprecated": false
+}

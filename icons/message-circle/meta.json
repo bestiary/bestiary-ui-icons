@@ -1,0 +1,20 @@
+{
+  "name": "message-circle",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "comment",
+    "chat",
+    "conversation",
+    "dialog",
+    "feedback",
+    "speech bubble"
+  ],
+  "aliases": [
+    "chat-bubble",
+    "speech-circle"
+  ],
+  "deprecated": false
+}

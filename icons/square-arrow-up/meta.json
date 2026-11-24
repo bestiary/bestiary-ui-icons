@@ -1,0 +1,18 @@
+{
+  "name": "square-arrow-up",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up",
+    "forward",
+    "sign",
+    "keyboard",
+    "button"
+  ],
+  "aliases": [
+    "arrow-up-square",
+    "square-up"
+  ],
+  "deprecated": false
+}

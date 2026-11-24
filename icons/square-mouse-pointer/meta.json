@@ -1,0 +1,20 @@
+{
+  "name": "square-mouse-pointer",
+  "categories": [
+    "cursors",
+    "development"
+  ],
+  "tags": [
+    "inspector",
+    "element",
+    "mouse",
+    "click",
+    "pointer",
+    "dom",
+    "selector"
+  ],
+  "aliases": [
+    "inspect"
+  ],
+  "deprecated": false
+}

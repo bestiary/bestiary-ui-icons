@@ -1,0 +1,15 @@
+{
+  "name": "git-pull-request-create",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "git-pull-request",
+    "plus",
+    "create",
+    "new",
+    "pr"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

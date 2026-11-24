@@ -1,0 +1,16 @@
+{
+  "name": "disc-album",
+  "categories": [
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "disc",
+    "album",
+    "cover",
+    "music",
+    "sleeve"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

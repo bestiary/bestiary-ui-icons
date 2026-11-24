@@ -1,0 +1,14 @@
+{
+  "name": "panel-top",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-top",
+    "drawer",
+    "browser",
+    "webpage"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

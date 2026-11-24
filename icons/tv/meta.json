@@ -1,0 +1,19 @@
+{
+  "name": "tv",
+  "categories": [
+    "devices",
+    "multimedia",
+    "communication"
+  ],
+  "tags": [
+    "television",
+    "stream",
+    "display",
+    "widescreen",
+    "hd",
+    "video",
+    "broadcast"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

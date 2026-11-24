@@ -1,0 +1,18 @@
+{
+  "name": "calendar-chevrons-left",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:direction-left",
+    "$group:navigation-first",
+    "arrow",
+    "symbol",
+    "pointer",
+    "indicator",
+    "menu",
+    "events"
+  ],
+  "aliases": []
+}

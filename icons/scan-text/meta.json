@@ -1,0 +1,17 @@
+{
+  "name": "scan-text",
+  "categories": [
+    "text",
+    "devices"
+  ],
+  "tags": [
+    "$extends:scan",
+    "recognition",
+    "read",
+    "translate",
+    "copy",
+    "lines"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

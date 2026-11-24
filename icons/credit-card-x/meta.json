@@ -1,7 +1,7 @@
 {
   "name": "credit-card-x",
-  "categories": ["accounts"],
-  "tags": ["credit-card-x", "payment-failed", "declined", "cancel-card"],
+  "categories": ["account", "finance", "shopping"],
+  "tags": ["debit", "banking", "finance", "transaction", "wallet", "checkout", "billing", "account", "cardholder", "declined", "rejected", "invalid"],
   "aliases": ["payment-failed", "card-declined"],
   "deprecated": false
 }

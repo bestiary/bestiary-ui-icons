@@ -1,0 +1,22 @@
+{
+  "name": "rabbit",
+  "categories": [
+    "animals"
+  ],
+  "tags": [
+    "animal",
+    "rodent",
+    "pet",
+    "pest",
+    "bunny",
+    "hare",
+    "fast",
+    "speed",
+    "hop"
+  ],
+  "aliases": [
+    "bunny",
+    "hare"
+  ],
+  "deprecated": false
+}

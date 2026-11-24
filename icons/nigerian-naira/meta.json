@@ -1,0 +1,14 @@
+{
+  "name": "nigerian-naira",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "nigeria",
+    "nigerian",
+    "ngn"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

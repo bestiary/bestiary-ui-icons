@@ -1,0 +1,14 @@
+{
+  "name": "list-plus",
+  "categories": [
+    "$extends:list",
+    "multimedia"
+  ],
+  "tags": [
+    "$group:plus",
+    "playlist",
+    "song",
+    "track"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "clock-exclamation-point",
+  "categories": [
+    "$extends:clock"
+  ],
+  "tags": [
+    "$extends:clock",
+    "$group:exclamation-mark",
+    "wrong"
+  ],
+  "aliases": [
+    "clock-alert"
+  ]
+}

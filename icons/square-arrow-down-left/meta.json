@@ -1,0 +1,18 @@
+{
+  "name": "square-arrow-down-left",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down-left",
+    "sign",
+    "keyboard",
+    "button",
+    "turn"
+  ],
+  "aliases": [
+    "arrow-down-left-square",
+    "square-sw"
+  ],
+  "deprecated": false
+}

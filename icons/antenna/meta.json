@@ -1,0 +1,30 @@
+{
+  "name": "antenna",
+  "categories": [
+    "devices",
+    "multimedia",
+    "communication",
+    "connectivity"
+  ],
+  "tags": [
+    "signal",
+    "connection",
+    "connectivity",
+    "tv",
+    "television",
+    "broadcast",
+    "live",
+    "frequency",
+    "tune",
+    "scan",
+    "channels",
+    "aerial",
+    "receiver",
+    "transmission"
+  ],
+  "aliases": [
+    "tv-antenna",
+    "aerial-signal"
+  ],
+  "deprecated": false
+}

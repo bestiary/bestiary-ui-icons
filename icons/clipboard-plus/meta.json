@@ -1,0 +1,17 @@
+{
+  "name": "clipboard-plus",
+  "categories": [
+    "$extends:clipboard",
+    "medical"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "$group:plus",
+    "document",
+    "medical",
+    "report",
+    "doctor"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

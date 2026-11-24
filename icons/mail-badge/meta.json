@@ -1,0 +1,25 @@
+{
+  "name": "mail-badge",
+  "categories": [
+    "mail",
+    "communication",
+    "security"
+  ],
+  "tags": [
+    "certified",
+    "registered",
+    "seal",
+    "stamp",
+    "verified",
+    "envelope",
+    "rosette",
+    "signed",
+    "official",
+    "delivery"
+  ],
+  "aliases": [
+    "certified-mail",
+    "verified-email"
+  ],
+  "deprecated": false
+}

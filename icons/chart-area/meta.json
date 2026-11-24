@@ -1,0 +1,17 @@
+{
+  "name": "chart-area",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "area",
+    "graph",
+    "analytics"
+  ],
+  "aliases": [
+    "area-chart",
+    "area-graph"
+  ],
+  "deprecated": false
+}

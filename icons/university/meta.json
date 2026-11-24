@@ -1,0 +1,22 @@
+{
+  "name": "university",
+  "categories": [
+    "buildings",
+    "navigation",
+    "education"
+  ],
+  "tags": [
+    "building",
+    "education",
+    "childhood",
+    "school",
+    "college",
+    "academy",
+    "institute"
+  ],
+  "aliases": [
+    "college",
+    "campus"
+  ],
+  "deprecated": false
+}

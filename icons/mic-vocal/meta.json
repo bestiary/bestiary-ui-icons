@@ -1,0 +1,19 @@
+{
+  "name": "mic-vocal",
+  "categories": [
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:mic",
+    "lyrics",
+    "voice",
+    "music",
+    "karaoke",
+    "singing"
+  ],
+  "aliases": [
+    "mic-2"
+  ],
+  "deprecated": false
+}

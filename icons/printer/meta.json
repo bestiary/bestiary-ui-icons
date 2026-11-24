@@ -1,0 +1,13 @@
+{
+  "name": "printer",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "fax",
+    "office",
+    "device"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

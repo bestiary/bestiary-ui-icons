@@ -1,0 +1,16 @@
+{
+  "name": "door-closed-cog",
+  "categories": [
+    "home",
+    "security"
+  ],
+  "tags": [
+    "$extends:door-closed",
+    "$group:cog",
+    "room",
+    "access",
+    "automation"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "square-chevron-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "back",
+    "menu",
+    "panel"
+  ],
+  "aliases": [
+    "chevron-down-square",
+    "square-dropdown"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gift",
+  "categories": [
+    "gaming",
+    "shopping"
+  ],
+  "tags": [
+    "present",
+    "box",
+    "birthday",
+    "party"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

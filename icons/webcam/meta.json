@@ -1,0 +1,16 @@
+{
+  "name": "webcam",
+  "categories": [
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "camera",
+    "security",
+    "video",
+    "call",
+    "webcam"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "git-merge-conflict",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "git-merge",
+    "conflict",
+    "error",
+    "diff",
+    "commits"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

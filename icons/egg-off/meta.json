@@ -1,0 +1,16 @@
+{
+  "name": "egg-off",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "$extends:egg",
+    "$group:off",
+    "egg free",
+    "vegan",
+    "hatched",
+    "bad egg"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

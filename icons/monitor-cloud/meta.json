@@ -1,0 +1,17 @@
+{
+  "name": "monitor-cloud",
+  "categories": [
+    "development",
+    "devices"
+  ],
+  "tags": [
+    "monitor",
+    "cloud",
+    "virtual desktop",
+    "vdi",
+    "saas",
+    "workstation"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

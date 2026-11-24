@@ -1,0 +1,20 @@
+{
+  "name": "download",
+  "categories": [
+    "arrows",
+    "files"
+  ],
+  "tags": [
+    "import",
+    "export",
+    "save",
+    "pull",
+    "install",
+    "installation"
+  ],
+  "aliases": [
+    "save-file",
+    "download-tray"
+  ],
+  "deprecated": false
+}

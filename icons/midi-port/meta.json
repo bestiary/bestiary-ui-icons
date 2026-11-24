@@ -1,0 +1,20 @@
+{
+  "name": "midi-port",
+  "categories": [
+    "multimedia",
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "midi",
+    "port",
+    "connector",
+    "socket",
+    "din",
+    "audio",
+    "music",
+    "synthesizer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

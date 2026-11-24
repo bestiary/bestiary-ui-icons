@@ -1,0 +1,16 @@
+{
+  "name": "database-backup",
+  "categories": [
+    "devices",
+    "development"
+  ],
+  "tags": [
+    "database",
+    "backup",
+    "restore",
+    "history",
+    "time machine"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

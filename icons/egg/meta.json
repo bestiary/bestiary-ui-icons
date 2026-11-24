@@ -1,0 +1,26 @@
+{
+  "name": "egg",
+  "categories": [
+    "food-beverage",
+    "animals"
+  ],
+  "tags": [
+    "bird",
+    "chicken",
+    "nest",
+    "hatch",
+    "shell",
+    "incubate",
+    "soft boiled",
+    "hard",
+    "breakfast",
+    "brunch",
+    "morning",
+    "easter"
+  ],
+  "aliases": [
+    "chicken-egg",
+    "easter-egg"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,23 @@
+{
+  "name": "message-circle-dashed-check",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "pending",
+    "provisional",
+    "verification",
+    "confirmation",
+    "status",
+    "approval",
+    "moderate",
+    "resolved",
+    "draft"
+  ],
+  "aliases": [
+    "pending-approval-chat",
+    "draft-verified"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,27 @@
+{
+  "name": "trending-up-down",
+  "categories": [
+    "charts",
+    "arrows"
+  ],
+  "tags": [
+    "chart",
+    "up",
+    "down",
+    "arrows",
+    "estimated",
+    "indeterminate",
+    "data fluctuation",
+    "uncertain",
+    "forecast",
+    "variable",
+    "prediction",
+    "dynamic",
+    "volatile"
+  ],
+  "aliases": [
+    "volatile-trend",
+    "forecast-arrows"
+  ],
+  "deprecated": false
+}

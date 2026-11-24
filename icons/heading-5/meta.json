@@ -1,0 +1,13 @@
+{
+  "name": "heading-5",
+  "categories": [
+    "$extends:letter-h"
+  ],
+  "tags": [
+    "$extends:letter-h",
+    "$group:digit",
+    "h5"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

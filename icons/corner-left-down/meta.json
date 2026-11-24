@@ -1,0 +1,16 @@
+{
+  "name": "corner-left-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "left",
+    "down",
+    "arrow"
+  ],
+  "aliases": [
+    "turn-left-down",
+    "hook-left-down"
+  ],
+  "deprecated": false
+}

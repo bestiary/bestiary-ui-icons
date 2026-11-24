@@ -1,7 +1,7 @@
 {
   "name": "book-user",
-  "categories": ["accounts"],
-  "tags": ["book-user", "contacts", "address-book", "directory", "member"],
+  "categories": ["account", "communication", "social"],
+  "tags": ["family", "friends", "acquaintances", "details", "addresses", "phone numbers", "directory", "listing", "networking"],
   "aliases": ["address-book", "contacts-book"],
   "deprecated": false
 }

@@ -1,0 +1,11 @@
+{
+  "name": "folder-search-2",
+  "categories": [
+    "$extends:folder-search"
+  ],
+  "tags": [
+    "$extends:folder-search"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

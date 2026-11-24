@@ -1,0 +1,22 @@
+{
+  "name": "ticket-x",
+  "categories": [
+    "transportation"
+  ],
+  "tags": [
+    "$extends:ticket",
+    "$group:x",
+    "refunded",
+    "used",
+    "void",
+    "invalidated",
+    "spoiled",
+    "denied",
+    "refused",
+    "banned",
+    "barred",
+    "forbidden",
+    "prohibited"
+  ],
+  "aliases": []
+}

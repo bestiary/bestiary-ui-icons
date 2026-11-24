@@ -1,0 +1,12 @@
+{
+  "name": "printer-x",
+  "categories": [
+    "$extends:printer"
+  ],
+  "tags": [
+    "$extends:printer",
+    "$group:x"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

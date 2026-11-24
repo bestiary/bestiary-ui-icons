@@ -1,0 +1,30 @@
+{
+  "name": "shell",
+  "categories": [
+    "animals",
+    "development",
+    "nature",
+    "travel"
+  ],
+  "tags": [
+    "beach",
+    "sand",
+    "holiday",
+    "sea life",
+    "fossil",
+    "ammonite",
+    "biology",
+    "ocean",
+    "terminal",
+    "command line",
+    "session",
+    "bash",
+    "zsh",
+    "spiral"
+  ],
+  "aliases": [
+    "seashell",
+    "ammonite"
+  ],
+  "deprecated": false
+}

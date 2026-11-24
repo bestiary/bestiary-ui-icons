@@ -1,0 +1,14 @@
+{
+  "name": "nepali-rupee",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "nepal",
+    "rupee",
+    "npr"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "arrow-up",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up",
+    "forward",
+    "north",
+    "arrow"
+  ],
+  "aliases": [
+    "up-arrow",
+    "north"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "badge-euro",
+  "categories": [
+    "shopping",
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "discount",
+    "offer",
+    "sale",
+    "voucher",
+    "tag",
+    "marketing",
+    "€"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

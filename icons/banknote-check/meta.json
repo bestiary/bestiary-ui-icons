@@ -1,0 +1,17 @@
+{
+  "name": "banknote-check",
+  "categories": [
+    "$extends:banknote"
+  ],
+  "tags": [
+    "$extends:banknote",
+    "$group:check",
+    "banknote",
+    "document",
+    "verification",
+    "found",
+    "paid"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

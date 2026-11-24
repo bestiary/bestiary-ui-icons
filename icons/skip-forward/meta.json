@@ -1,0 +1,19 @@
+{
+  "name": "skip-forward",
+  "categories": [
+    "multimedia",
+    "arrows"
+  ],
+  "tags": [
+    "arrow",
+    "skip",
+    "next",
+    "music",
+    "track"
+  ],
+  "aliases": [
+    "next-track",
+    "media-next"
+  ],
+  "deprecated": false
+}

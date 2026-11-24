@@ -1,0 +1,14 @@
+{
+  "name": "cloud-lightning",
+  "categories": [
+    "$extends:cloud"
+  ],
+  "tags": [
+    "$extends:cloud",
+    "bolt",
+    "thunder",
+    "thunderstorm",
+    "thunderbolt"
+  ],
+  "aliases": []
+}

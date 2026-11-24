@@ -1,0 +1,24 @@
+{
+  "name": "circle-chevrons-left",
+  "categories": [
+    "arrows",
+    "multimedia"
+  ],
+  "tags": [
+    "left",
+    "first",
+    "previous",
+    "rewind",
+    "start",
+    "music",
+    "caret",
+    "button",
+    "pagination",
+    "skip"
+  ],
+  "aliases": [
+    "chevrons-left-circle",
+    "circle-rewind"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "computer",
+  "categories": [
+    "devices",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "pc",
+    "chassis",
+    "desktop",
+    "monitor",
+    "computer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

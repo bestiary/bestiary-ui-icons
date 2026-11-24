@@ -1,0 +1,17 @@
+{
+  "name": "file-signal",
+  "categories": [
+    "$extends:file",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:file",
+    "audio",
+    "music",
+    "volume"
+  ],
+  "aliases": [
+    "file-volume-2"
+  ],
+  "deprecated": false
+}

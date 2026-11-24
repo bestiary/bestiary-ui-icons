@@ -1,0 +1,12 @@
+{
+  "name": "mouse-off",
+  "categories": [
+    "$extends:mouse"
+  ],
+  "tags": [
+    "$extends:mouse",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

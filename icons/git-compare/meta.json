@@ -1,0 +1,15 @@
+{
+  "name": "git-compare",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "code",
+    "version control",
+    "diff",
+    "compare",
+    "git"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

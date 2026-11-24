@@ -1,0 +1,19 @@
+{
+  "name": "arrows-from-axis-dashed-horizontal",
+  "categories": [
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "expand",
+    "dashed",
+    "horizontal",
+    "axis",
+    "arrows"
+  ],
+  "aliases": [
+    "expand-vertical-dashed",
+    "split-horizontal-dashed"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "battery-medium",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "battery",
+    "medium",
+    "power",
+    "energy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

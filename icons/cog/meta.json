@@ -1,7 +1,7 @@
 {
   "name": "cog",
-  "categories": ["accounts"],
-  "tags": ["cog", "account-settings", "options", "mechanism", "control"],
+  "categories": ["account"],
+  "tags": ["computing", "fixed", "build", "construction", "parts"],
   "aliases": ["account-options"],
   "deprecated": false
 }

@@ -1,0 +1,14 @@
+{
+  "name": "image-off",
+  "categories": [
+    "photography",
+    "multimedia",
+    "files"
+  ],
+  "tags": [
+    "$extends:image",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

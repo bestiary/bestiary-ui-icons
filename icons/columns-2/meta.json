@@ -1,0 +1,21 @@
+{
+  "name": "columns-2",
+  "categories": [
+    "layout",
+    "design",
+    "text"
+  ],
+  "tags": [
+    "columns",
+    "split",
+    "panel",
+    "vertical",
+    "half",
+    "sidebar",
+    "layout"
+  ],
+  "aliases": [
+    "columns"
+  ],
+  "deprecated": false
+}

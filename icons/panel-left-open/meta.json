@@ -1,0 +1,19 @@
+{
+  "name": "panel-left-open",
+  "categories": [
+    "$extends:panel-left"
+  ],
+  "tags": [
+    "$extends:panel-left",
+    "$group:direction-right",
+    "show",
+    "reveal",
+    "chevron",
+    "right",
+    ">"
+  ],
+  "aliases": [
+    "sidebar-open"
+  ],
+  "deprecated": false
+}

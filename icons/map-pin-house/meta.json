@@ -1,0 +1,24 @@
+{
+  "name": "map-pin-house",
+  "categories": [
+    "$extends:map-pin"
+  ],
+  "tags": [
+    "$extends:map-pin",
+    "home",
+    "living",
+    "building",
+    "residence",
+    "architecture",
+    "address",
+    "poi",
+    "real estate",
+    "property",
+    "navigation",
+    "destination",
+    "geolocation",
+    "place",
+    "landmark"
+  ],
+  "aliases": []
+}

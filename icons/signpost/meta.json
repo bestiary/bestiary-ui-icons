@@ -1,0 +1,31 @@
+{
+  "name": "signpost",
+  "categories": [
+    "arrows",
+    "navigation"
+  ],
+  "tags": [
+    "navigation",
+    "direction",
+    "arrow",
+    "wayfinding",
+    "guide",
+    "location",
+    "pointer",
+    "route",
+    "indicator",
+    "marker",
+    "bidirectional",
+    "left",
+    "right",
+    "east",
+    "west",
+    "milestone",
+    "checkpoint"
+  ],
+  "aliases": [
+    "wayfinding-sign",
+    "direction-board"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "toggle-right",
+  "categories": [
+    "layout",
+    "development"
+  ],
+  "tags": [
+    "on",
+    "switch",
+    "boolean",
+    "toggle",
+    "right"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

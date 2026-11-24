@@ -1,0 +1,19 @@
+{
+  "name": "wallet-minimal",
+  "categories": [
+    "account",
+    "finance"
+  ],
+  "tags": [
+    "money",
+    "finance",
+    "pocket",
+    "budget",
+    "wallet"
+  ],
+  "aliases": [
+    "wallet-2",
+    "slim-wallet"
+  ],
+  "deprecated": false
+}

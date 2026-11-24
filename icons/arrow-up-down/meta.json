@@ -1,0 +1,22 @@
+{
+  "name": "arrow-up-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "sort",
+    "bidirectional",
+    "two-way",
+    "swap",
+    "switch",
+    "network",
+    "mobile data",
+    "internet",
+    "move"
+  ],
+  "aliases": [
+    "swap-vertical-reverse",
+    "up-down-arrows"
+  ],
+  "deprecated": false
+}

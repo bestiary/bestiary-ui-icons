@@ -1,0 +1,18 @@
+{
+  "name": "pi",
+  "categories": [
+    "letters-digits",
+    "development",
+    "math"
+  ],
+  "tags": [
+    "letter",
+    "constant",
+    "math",
+    "geometry",
+    "formula",
+    "pi"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

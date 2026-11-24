@@ -1,0 +1,17 @@
+{
+  "name": "soup",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "food",
+    "dish",
+    "restaurant",
+    "course",
+    "meal",
+    "bowl",
+    "starter"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

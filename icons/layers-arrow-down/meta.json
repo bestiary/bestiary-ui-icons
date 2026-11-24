@@ -1,0 +1,17 @@
+{
+  "name": "layers-arrow-down",
+  "categories": [
+    "design",
+    "layout"
+  ],
+  "tags": [
+    "layers",
+    "send to back",
+    "lower",
+    "demote",
+    "z-index",
+    "depth"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

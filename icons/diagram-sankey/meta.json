@@ -1,0 +1,32 @@
+{
+  "name": "diagram-sankey",
+  "categories": [
+    "charts",
+    "science",
+    "finance"
+  ],
+  "tags": [
+    "sankey",
+    "chart",
+    "diagram",
+    "flow",
+    "change",
+    "movement",
+    "dataflow",
+    "streams",
+    "links",
+    "transfer",
+    "allocation",
+    "distribution",
+    "energy",
+    "resources",
+    "budget",
+    "conversion",
+    "throughput"
+  ],
+  "aliases": [
+    "sankey-diagram",
+    "flow-bands"
+  ],
+  "deprecated": false
+}

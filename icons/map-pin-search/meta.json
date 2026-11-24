@@ -1,0 +1,13 @@
+{
+  "name": "map-pin-search",
+  "categories": [
+    "$extends:map-pin"
+  ],
+  "tags": [
+    "$extends:map-pin",
+    "$group:search",
+    "navigation",
+    "travel"
+  ],
+  "aliases": []
+}

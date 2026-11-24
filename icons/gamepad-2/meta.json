@@ -1,0 +1,11 @@
+{
+  "name": "gamepad-2",
+  "categories": [
+    "$extends:gamepad"
+  ],
+  "tags": [
+    "$extends:gamepad"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

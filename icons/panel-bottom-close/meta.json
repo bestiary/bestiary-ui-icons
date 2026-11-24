@@ -1,0 +1,15 @@
+{
+  "name": "panel-bottom-close",
+  "categories": [
+    "$extends:panel-bottom"
+  ],
+  "tags": [
+    "$extends:panel-bottom",
+    "$group:direction-down",
+    "hide",
+    "chevron",
+    "down"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

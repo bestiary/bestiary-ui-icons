@@ -1,0 +1,10 @@
+{
+  "name": "replace-all",
+  "categories": [
+    "$extends:replace"
+  ],
+  "tags": [
+    "$extends:replace"
+  ],
+  "aliases": []
+}

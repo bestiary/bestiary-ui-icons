@@ -1,0 +1,16 @@
+{
+  "name": "git-branch",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "code",
+    "version control",
+    "vcs",
+    "repository",
+    "git",
+    "branch"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

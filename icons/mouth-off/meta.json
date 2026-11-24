@@ -1,7 +1,7 @@
 {
   "name": "mouth-off",
-  "categories": ["accessibility"],
-  "tags": ["mouth-off", "silent", "non-verbal", "mute", "quiet"],
+  "categories": ["medical", "accessibility", "communication"],
+  "tags": ["mute", "silence", "speechless", "taste loss", "flavor loss", "ageusia", "tasteless"],
   "aliases": ["non-verbal", "silent-mouth"],
   "deprecated": false
 }

@@ -1,7 +1,7 @@
 {
   "name": "bookmark-minus",
-  "categories": ["accounts"],
-  "tags": ["bookmark-minus", "unsave", "remove-bookmark", "delete-bookmark"],
+  "categories": ["account"],
+  "tags": ["bookmark-minus", "remove", "unsave", "delete-bookmark"],
   "aliases": ["remove-bookmark"],
   "deprecated": false
 }

@@ -1,0 +1,16 @@
+{
+  "name": "coins",
+  "categories": [
+    "gaming",
+    "finance"
+  ],
+  "tags": [
+    "$group:digit",
+    "money",
+    "cash",
+    "finance",
+    "gamble"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

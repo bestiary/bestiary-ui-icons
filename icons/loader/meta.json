@@ -1,0 +1,16 @@
+{
+  "name": "loader",
+  "categories": [
+    "cursors"
+  ],
+  "tags": [
+    "loading",
+    "wait",
+    "busy",
+    "progress",
+    "spinner",
+    "throbber"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

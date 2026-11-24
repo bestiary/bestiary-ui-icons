@@ -1,7 +1,29 @@
 {
   "name": "shield",
-  "categories": ["accounts"],
-  "tags": ["shield", "security", "protection", "guard", "privacy"],
-  "aliases": ["security-shield", "protect"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "armored",
+    "block",
+    "threat",
+    "antivirus",
+    "vigilance",
+    "detection",
+    "scan",
+    "strength",
+    "audit",
+    "admin",
+    "verification",
+    "crest",
+    "security"
+  ],
+  "aliases": [
+    "security-shield",
+    "protection"
+  ],
   "deprecated": false
 }

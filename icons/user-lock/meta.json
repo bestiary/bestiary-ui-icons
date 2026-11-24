@@ -1,16 +1,19 @@
 {
   "name": "user-lock",
   "categories": [
-    "accounts"
-  ],
-  "tags": [
-    "user-lock",
-    "locked-account",
-    "private-user",
+    "account",
     "security"
   ],
+  "tags": [
+    "lock",
+    "security",
+    "locked",
+    "private",
+    "account"
+  ],
   "aliases": [
-    "locked-account"
+    "locked-user",
+    "user-locked"
   ],
   "deprecated": false
 }

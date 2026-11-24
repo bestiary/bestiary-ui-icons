@@ -1,0 +1,19 @@
+{
+  "name": "salad",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "food",
+    "vegetarian",
+    "dish",
+    "restaurant",
+    "course",
+    "meal",
+    "side",
+    "vegetables",
+    "health"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

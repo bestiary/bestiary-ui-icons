@@ -1,7 +1,16 @@
 {
   "name": "settings-2",
-  "categories": ["accounts"],
-  "tags": ["settings-2", "hex-nut", "config", "preferences", "system"],
-  "aliases": ["hex-settings", "account-config"],
+  "categories": [
+    "account"
+  ],
+  "tags": [
+    "slider",
+    "settings",
+    "config"
+  ],
+  "aliases": [
+    "sliders-config",
+    "filter-settings"
+  ],
   "deprecated": false
 }

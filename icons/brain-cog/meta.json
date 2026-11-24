@@ -1,0 +1,21 @@
+{
+  "name": "brain-cog",
+  "categories": [
+    "science",
+    "development",
+    "ai"
+  ],
+  "tags": [
+    "artificial intelligence",
+    "ai",
+    "machine learning",
+    "thinking",
+    "cog",
+    "settings"
+  ],
+  "aliases": [
+    "brain-settings",
+    "cognitive-config"
+  ],
+  "deprecated": false
+}

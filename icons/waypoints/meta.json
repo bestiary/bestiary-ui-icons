@@ -1,0 +1,19 @@
+{
+  "name": "waypoints",
+  "categories": [
+    "security",
+    "navigation",
+    "development"
+  ],
+  "tags": [
+    "graph",
+    "vpn",
+    "proxy",
+    "reroute",
+    "path",
+    "stations",
+    "waypoints"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

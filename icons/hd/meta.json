@@ -1,0 +1,18 @@
+{
+  "name": "hd",
+  "categories": [
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "$group:letter",
+    "tv",
+    "resolution",
+    "video",
+    "high definition",
+    "720p",
+    "1080p"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

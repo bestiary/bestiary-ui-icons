@@ -1,0 +1,19 @@
+{
+  "name": "book",
+  "categories": [
+    "text",
+    "development",
+    "gaming",
+    "education"
+  ],
+  "tags": [
+    "reading",
+    "booklet",
+    "tome",
+    "library",
+    "documentation",
+    "book"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "square-scissors",
+  "categories": [
+    "text",
+    "design",
+    "tools",
+    "files",
+    "development"
+  ],
+  "tags": [
+    "cut",
+    "snippet",
+    "scissors",
+    "square",
+    "button"
+  ],
+  "aliases": [
+    "scissors-square"
+  ],
+  "deprecated": false
+}

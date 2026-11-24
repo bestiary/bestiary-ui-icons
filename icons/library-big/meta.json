@@ -1,0 +1,11 @@
+{
+  "name": "library-big",
+  "categories": [
+    "$extends:library"
+  ],
+  "tags": [
+    "$extends:library"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

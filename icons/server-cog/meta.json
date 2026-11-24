@@ -1,0 +1,16 @@
+{
+  "name": "server-cog",
+  "categories": [
+    "development",
+    "devices"
+  ],
+  "tags": [
+    "server",
+    "cog",
+    "computing",
+    "settings",
+    "config"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

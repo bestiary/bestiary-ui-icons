@@ -1,0 +1,17 @@
+{
+  "name": "package-2",
+  "categories": [
+    "files",
+    "development",
+    "logistics"
+  ],
+  "tags": [
+    "package",
+    "box",
+    "container",
+    "delivery",
+    "shipping"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

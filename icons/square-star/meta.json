@@ -1,0 +1,25 @@
+{
+  "name": "square-star",
+  "categories": [
+    "sports",
+    "gaming"
+  ],
+  "tags": [
+    "$group:star",
+    "badge",
+    "medal",
+    "honour",
+    "decoration",
+    "order",
+    "pin",
+    "laurel",
+    "trophy",
+    "medallion",
+    "insignia",
+    "bronze",
+    "silver",
+    "gold"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

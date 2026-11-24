@@ -1,7 +1,18 @@
 {
   "name": "wallet",
-  "categories": ["accounts"],
-  "tags": ["wallet", "balance", "funds", "billing", "money"],
-  "aliases": ["digital-wallet", "balance"],
+  "categories": [
+    "account",
+    "finance"
+  ],
+  "tags": [
+    "money",
+    "finance",
+    "pocket",
+    "budget"
+  ],
+  "aliases": [
+    "digital-wallet",
+    "cash-wallet"
+  ],
   "deprecated": false
 }

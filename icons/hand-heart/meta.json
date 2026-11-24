@@ -1,0 +1,11 @@
+{
+  "name": "hand-heart",
+  "categories": [
+    "social"
+  ],
+  "tags": [
+    "$group:heart",
+    "emotion"
+  ],
+  "aliases": []
+}

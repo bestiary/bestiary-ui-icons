@@ -1,0 +1,28 @@
+{
+  "name": "folder-kanban",
+  "categories": [
+    "files",
+    "charts",
+    "development"
+  ],
+  "tags": [
+    "folder",
+    "projects",
+    "manage",
+    "overview",
+    "board",
+    "tickets",
+    "issues",
+    "roadmap",
+    "plan",
+    "productivity",
+    "work",
+    "agile",
+    "code"
+  ],
+  "aliases": [
+    "kanban-folder",
+    "project-board-folder"
+  ],
+  "deprecated": false
+}

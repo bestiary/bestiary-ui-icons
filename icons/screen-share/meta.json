@@ -1,0 +1,18 @@
+{
+  "name": "screen-share",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "host",
+    "desktop",
+    "monitor",
+    "cast",
+    "present",
+    "share screen"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

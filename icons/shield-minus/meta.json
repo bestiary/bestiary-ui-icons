@@ -1,7 +1,35 @@
 {
   "name": "shield-minus",
-  "categories": ["accounts"],
-  "tags": ["shield-minus", "remove-protection", "downgrade", "security"],
-  "aliases": ["remove-shield"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "unshield",
+    "unsecure",
+    "unguard",
+    "unblock",
+    "clean",
+    "disinfect",
+    "patch",
+    "fix",
+    "stop",
+    "relax",
+    "weakened",
+    "damaged",
+    "hit",
+    "unarm",
+    "disable",
+    "deactivate",
+    "decommission",
+    "downgraded",
+    "minimum"
+  ],
+  "aliases": [
+    "remove-shield",
+    "shield-remove"
+  ],
   "deprecated": false
 }

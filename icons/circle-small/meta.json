@@ -1,0 +1,13 @@
+{
+  "name": "circle-small",
+  "categories": [
+    "$extends:circle"
+  ],
+  "tags": [
+    "shape",
+    "bullet",
+    "gender",
+    "genderless"
+  ],
+  "aliases": []
+}

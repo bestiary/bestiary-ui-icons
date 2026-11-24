@@ -1,0 +1,17 @@
+{
+  "name": "cctv-off",
+  "categories": [
+    "security",
+    "devices",
+    "photography"
+  ],
+  "tags": [
+    "cctv",
+    "camera",
+    "off",
+    "disabled",
+    "privacy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

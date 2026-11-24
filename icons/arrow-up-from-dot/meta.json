@@ -1,0 +1,17 @@
+{
+  "name": "arrow-up-from-dot",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up",
+    "step",
+    "out",
+    "arrow"
+  ],
+  "aliases": [
+    "step-out",
+    "eject-dot"
+  ],
+  "deprecated": false
+}

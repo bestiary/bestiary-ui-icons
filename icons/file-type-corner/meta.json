@@ -1,0 +1,13 @@
+{
+  "name": "file-type-corner",
+  "categories": [
+    "$extends:file-type"
+  ],
+  "tags": [
+    "$extends:file-type"
+  ],
+  "aliases": [
+    "file-type-2"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rectangle-vertical",
+  "categories": [
+    "shapes",
+    "design"
+  ],
+  "tags": [
+    "rectangle",
+    "aspect ratio",
+    "9:16",
+    "vertical",
+    "shape"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

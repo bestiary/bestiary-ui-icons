@@ -1,0 +1,24 @@
+{
+  "name": "calendar-sync",
+  "categories": [
+    "time",
+    "arrows"
+  ],
+  "tags": [
+    "transfer",
+    "backup",
+    "subscribe",
+    "recurring",
+    "schedule",
+    "reminder",
+    "automatic",
+    "auto",
+    "calendar",
+    "sync"
+  ],
+  "aliases": [
+    "sync-calendar",
+    "recurring-calendar"
+  ],
+  "deprecated": false
+}

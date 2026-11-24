@@ -1,0 +1,21 @@
+{
+  "name": "square-arrow-up-right-exit",
+  "categories": [
+    "arrows",
+    "social"
+  ],
+  "tags": [
+    "up-right",
+    "exit",
+    "share",
+    "open",
+    "external",
+    "link",
+    "redirect"
+  ],
+  "aliases": [
+    "exit-ne-square",
+    "open-external-square"
+  ],
+  "deprecated": false
+}

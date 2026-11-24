@@ -1,0 +1,17 @@
+{
+  "name": "eraser",
+  "categories": [
+    "text",
+    "design",
+    "education"
+  ],
+  "tags": [
+    "pencil",
+    "drawing",
+    "undo",
+    "erase",
+    "eraser"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

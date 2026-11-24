@@ -1,0 +1,21 @@
+{
+  "name": "panel-bottom-dashed",
+  "categories": [
+    "$extends:panel-bottom"
+  ],
+  "tags": [
+    "$extends:panel-bottom",
+    "$group:dashed",
+    "show",
+    "reveal",
+    "padding",
+    "margin",
+    "guide",
+    "layout",
+    "bleed"
+  ],
+  "aliases": [
+    "panel-bottom-inactive"
+  ],
+  "deprecated": false
+}

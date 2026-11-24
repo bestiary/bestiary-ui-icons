@@ -1,0 +1,26 @@
+{
+  "name": "utensils",
+  "categories": [
+    "food-beverage",
+    "travel",
+    "navigation"
+  ],
+  "tags": [
+    "fork",
+    "knife",
+    "cutlery",
+    "flatware",
+    "tableware",
+    "silverware",
+    "food",
+    "restaurant",
+    "meal",
+    "breakfast",
+    "dinner",
+    "supper"
+  ],
+  "aliases": [
+    "fork-knife"
+  ],
+  "deprecated": false
+}

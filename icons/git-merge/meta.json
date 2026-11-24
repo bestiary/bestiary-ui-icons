@@ -1,0 +1,15 @@
+{
+  "name": "git-merge",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "code",
+    "version control",
+    "merge",
+    "cicd",
+    "git"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

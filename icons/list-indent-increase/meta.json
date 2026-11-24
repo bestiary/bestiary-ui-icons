@@ -1,0 +1,19 @@
+{
+  "name": "list-indent-increase",
+  "categories": [
+    "text",
+    "development"
+  ],
+  "tags": [
+    "list",
+    "indent",
+    "increase",
+    "text",
+    "tab"
+  ],
+  "aliases": [
+    "indent",
+    "indent-increase"
+  ],
+  "deprecated": false
+}

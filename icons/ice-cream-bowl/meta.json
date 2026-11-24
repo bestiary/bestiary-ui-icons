@@ -1,0 +1,19 @@
+{
+  "name": "ice-cream-bowl",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "gelato",
+    "food",
+    "dessert",
+    "dish",
+    "restaurant",
+    "course",
+    "meal"
+  ],
+  "aliases": [
+    "ice-cream-2"
+  ],
+  "deprecated": false
+}

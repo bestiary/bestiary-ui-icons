@@ -1,13 +1,15 @@
 {
   "name": "user-plus",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-plus",
-    "add-user",
+    "follow",
+    "subscribe",
     "invite",
-    "register"
+    "invitation",
+    "add",
+    "user"
   ],
   "aliases": [
     "add-user",

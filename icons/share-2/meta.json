@@ -1,0 +1,10 @@
+{
+  "name": "share-2",
+  "categories": [
+    "$extends:share"
+  ],
+  "tags": [
+    "$extends:share"
+  ],
+  "aliases": []
+}

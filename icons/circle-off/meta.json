@@ -1,0 +1,23 @@
+{
+  "name": "circle-off",
+  "categories": [
+    "$extends:circle"
+  ],
+  "tags": [
+    "$group:off",
+    "diameter",
+    "zero",
+    "Ø",
+    "nothing",
+    "null",
+    "void",
+    "no",
+    "stop",
+    "error",
+    "incorrect",
+    "mistake",
+    "wrong",
+    "failure"
+  ],
+  "aliases": []
+}

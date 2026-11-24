@@ -1,0 +1,14 @@
+{
+  "name": "folder-symlink",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "symlink",
+    "symbolic",
+    "link"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

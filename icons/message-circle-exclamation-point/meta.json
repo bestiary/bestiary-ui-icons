@@ -1,0 +1,21 @@
+{
+  "name": "message-circle-exclamation-point",
+  "categories": [
+    "social",
+    "communication",
+    "notifications"
+  ],
+  "tags": [
+    "report",
+    "abuse",
+    "offense",
+    "protected",
+    "alert",
+    "chat"
+  ],
+  "aliases": [
+    "report-message",
+    "chat-alert"
+  ],
+  "deprecated": false
+}

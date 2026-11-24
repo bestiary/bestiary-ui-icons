@@ -1,0 +1,17 @@
+{
+  "name": "arrow-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "backwards",
+    "reverse",
+    "arrow"
+  ],
+  "aliases": [
+    "down-arrow",
+    "south"
+  ],
+  "deprecated": false
+}

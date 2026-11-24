@@ -1,0 +1,15 @@
+{
+  "name": "mail-check",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:check",
+    "subscribe",
+    "delivered",
+    "read"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

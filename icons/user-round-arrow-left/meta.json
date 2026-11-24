@@ -1,0 +1,26 @@
+{
+  "name": "user-round-arrow-left",
+  "categories": [
+    "account",
+    "people"
+  ],
+  "tags": [
+    "assign",
+    "move",
+    "give",
+    "setup",
+    "self",
+    "me",
+    "myself",
+    "avatar",
+    "incoming",
+    "recipient",
+    "assignee",
+    "inbound"
+  ],
+  "aliases": [
+    "assign-user",
+    "user-inbound"
+  ],
+  "deprecated": false
+}

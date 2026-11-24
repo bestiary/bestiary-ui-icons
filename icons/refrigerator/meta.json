@@ -1,0 +1,17 @@
+{
+  "name": "refrigerator",
+  "categories": [
+    "food-beverage",
+    "home"
+  ],
+  "tags": [
+    "fridge",
+    "freezer",
+    "cooler",
+    "icebox",
+    "chiller",
+    "cold storage"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

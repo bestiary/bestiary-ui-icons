@@ -1,0 +1,17 @@
+{
+  "name": "file-exclamation-point",
+  "categories": [
+    "$extends:file",
+    "notifications"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:exclamation-mark",
+    "hidden",
+    "protected"
+  ],
+  "aliases": [
+    "file-warning"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "map-pin-pen",
+  "categories": [
+    "$extends:map-pin"
+  ],
+  "tags": [
+    "$extends:map-pin",
+    "$group:pen"
+  ],
+  "aliases": [
+    "location-edit"
+  ]
+}

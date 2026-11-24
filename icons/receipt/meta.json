@@ -1,0 +1,21 @@
+{
+  "name": "receipt",
+  "categories": [
+    "finance",
+    "shopping"
+  ],
+  "tags": [
+    "bill",
+    "voucher",
+    "slip",
+    "check",
+    "counterfoil",
+    "currency",
+    "dollar",
+    "usd",
+    "$",
+    "cashier"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

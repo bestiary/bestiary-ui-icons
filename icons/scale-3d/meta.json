@@ -1,0 +1,18 @@
+{
+  "name": "scale-3d",
+  "categories": [
+    "design"
+  ],
+  "tags": [
+    "gizmo",
+    "transform",
+    "size",
+    "axis",
+    "scale",
+    "3d"
+  ],
+  "aliases": [
+    "scale-3-d"
+  ],
+  "deprecated": false
+}

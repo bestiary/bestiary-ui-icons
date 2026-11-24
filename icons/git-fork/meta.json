@@ -1,0 +1,15 @@
+{
+  "name": "git-fork",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "code",
+    "version control",
+    "fork",
+    "git",
+    "branch"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "plane-landing",
+  "categories": [
+    "transportation",
+    "travel"
+  ],
+  "tags": [
+    "$extends:plane",
+    "arrival",
+    "landing"
+  ],
+  "aliases": []
+}

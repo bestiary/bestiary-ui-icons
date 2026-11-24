@@ -1,0 +1,23 @@
+{
+  "name": "square-letter-x",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "close",
+    "dismiss",
+    "multiply",
+    "math",
+    "unknown",
+    "variable",
+    "x-axis",
+    "axis",
+    "intersection",
+    "cross",
+    "chromosome"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

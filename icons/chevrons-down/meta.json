@@ -1,0 +1,18 @@
+{
+  "name": "chevrons-down",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "down",
+    "last",
+    "backwards",
+    "reverse",
+    "slower"
+  ],
+  "aliases": [
+    "double-chevron-down",
+    "fast-down"
+  ],
+  "deprecated": false
+}

@@ -1,6 +1,6 @@
 {
   "name": "bookmark-x",
-  "categories": ["accounts"],
+  "categories": ["account"],
   "tags": ["bookmark-x", "delete-bookmark", "clear-bookmark", "cancel"],
   "aliases": ["clear-bookmark"],
   "deprecated": false

@@ -1,0 +1,21 @@
+{
+  "name": "square-sigma",
+  "categories": [
+    "letters-digits",
+    "text",
+    "math"
+  ],
+  "tags": [
+    "$group:letter",
+    "sum",
+    "calculate",
+    "formula",
+    "math",
+    "enumeration",
+    "enumerate"
+  ],
+  "aliases": [
+    "sigma-square"
+  ],
+  "deprecated": false
+}

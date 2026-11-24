@@ -1,0 +1,21 @@
+{
+  "name": "bone",
+  "categories": [
+    "animals",
+    "medical",
+    "gaming"
+  ],
+  "tags": [
+    "health",
+    "skeleton",
+    "skull",
+    "death",
+    "pets",
+    "dog"
+  ],
+  "aliases": [
+    "dog-bone",
+    "skeleton-bone"
+  ],
+  "deprecated": false
+}

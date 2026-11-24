@@ -1,0 +1,17 @@
+{
+  "name": "phone-call",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "phone",
+    "ring",
+    "calling",
+    "active call",
+    "sound"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

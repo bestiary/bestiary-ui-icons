@@ -1,0 +1,20 @@
+{
+  "name": "badge-japanese-yen",
+  "categories": [
+    "shopping",
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "discount",
+    "offer",
+    "sale",
+    "voucher",
+    "tag",
+    "marketing",
+    "jpy",
+    "¥"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

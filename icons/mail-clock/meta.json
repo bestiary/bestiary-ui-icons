@@ -1,0 +1,23 @@
+{
+  "name": "mail-clock",
+  "categories": [
+    "mail",
+    "time",
+    "notifications",
+    "communication"
+  ],
+  "tags": [
+    "scheduled",
+    "send later",
+    "delivery",
+    "reminder",
+    "outgoing",
+    "mail",
+    "clock"
+  ],
+  "aliases": [
+    "scheduled-mail",
+    "send-later"
+  ],
+  "deprecated": false
+}

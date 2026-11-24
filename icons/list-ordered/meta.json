@@ -1,0 +1,12 @@
+{
+  "name": "list-ordered",
+  "categories": [
+    "$extends:list"
+  ],
+  "tags": [
+    "$group:digit",
+    "order",
+    "queue"
+  ],
+  "aliases": []
+}

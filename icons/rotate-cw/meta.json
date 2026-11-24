@@ -1,0 +1,22 @@
+{
+  "name": "rotate-cw",
+  "categories": [
+    "arrows",
+    "design",
+    "photography"
+  ],
+  "tags": [
+    "arrow",
+    "right",
+    "clockwise",
+    "refresh",
+    "reload",
+    "rerun",
+    "redo"
+  ],
+  "aliases": [
+    "redo-rotate",
+    "clockwise"
+  ],
+  "deprecated": false
+}

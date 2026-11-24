@@ -1,0 +1,13 @@
+{
+  "name": "paperclip",
+  "categories": [
+    "files",
+    "mail"
+  ],
+  "tags": [
+    "attachment",
+    "file"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

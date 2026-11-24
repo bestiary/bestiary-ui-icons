@@ -1,0 +1,22 @@
+{
+  "name": "barcode",
+  "categories": [
+    "shopping",
+    "logistics"
+  ],
+  "tags": [
+    "scan",
+    "checkout",
+    "till",
+    "cart",
+    "transaction",
+    "purchase",
+    "buy",
+    "product",
+    "packaging",
+    "retail",
+    "consumer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "arrow-down-up",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "sort",
+    "bidirectional",
+    "two-way",
+    "swap",
+    "switch",
+    "network",
+    "traffic",
+    "flow",
+    "move"
+  ],
+  "aliases": [
+    "swap-vertical",
+    "bidirectional-vertical"
+  ],
+  "deprecated": false
+}

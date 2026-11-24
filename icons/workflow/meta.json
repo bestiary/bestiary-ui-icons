@@ -1,0 +1,17 @@
+{
+  "name": "workflow",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "graph",
+    "action",
+    "ci",
+    "automation",
+    "devops",
+    "pipeline",
+    "workflow"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "circle-dashed-check",
+  "categories": [
+    "development",
+    "notifications"
+  ],
+  "tags": [
+    "circle-dashed",
+    "check",
+    "review",
+    "approved",
+    "done"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

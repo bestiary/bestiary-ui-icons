@@ -1,0 +1,16 @@
+{
+  "name": "panel-bottom-open",
+  "categories": [
+    "$extends:panel-bottom"
+  ],
+  "tags": [
+    "$extends:panel-bottom",
+    "$group:direction-up",
+    "show",
+    "reveal",
+    "chevron",
+    "up"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

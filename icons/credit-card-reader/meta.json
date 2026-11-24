@@ -1,0 +1,27 @@
+{
+  "name": "credit-card-reader",
+  "categories": [
+    "finance",
+    "navigation",
+    "shopping"
+  ],
+  "tags": [
+    "$extends:credit-card",
+    "atm",
+    "terminal",
+    "checkout",
+    "kiosk",
+    "pos",
+    "point of sale",
+    "transaction",
+    "contactless",
+    "chip",
+    "swipe",
+    "tap",
+    "banking",
+    "finance",
+    "retail"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

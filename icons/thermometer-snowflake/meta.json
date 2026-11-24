@@ -1,0 +1,13 @@
+{
+  "name": "thermometer-snowflake",
+  "categories": [
+    "$extends:thermometer"
+  ],
+  "tags": [
+    "$extends:thermometer",
+    "cold",
+    "freeze",
+    "freezing"
+  ],
+  "aliases": []
+}

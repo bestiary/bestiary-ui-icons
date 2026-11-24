@@ -1,0 +1,18 @@
+{
+  "name": "alarm-smoke",
+  "categories": [
+    "home",
+    "devices",
+    "travel"
+  ],
+  "tags": [
+    "fire",
+    "alert",
+    "warning",
+    "detector",
+    "smoke",
+    "safety"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

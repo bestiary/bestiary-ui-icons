@@ -1,0 +1,18 @@
+{
+  "name": "chevrons-to-axis-vertical",
+  "categories": [
+    "arrows",
+    "layout"
+  ],
+  "tags": [
+    "collapse",
+    "vertical",
+    "axis",
+    "chevrons"
+  ],
+  "aliases": [
+    "chevrons-collapse-v",
+    "merge-chevrons-v"
+  ],
+  "deprecated": false
+}

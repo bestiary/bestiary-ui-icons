@@ -1,0 +1,15 @@
+{
+  "name": "folder-down",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:direction-down",
+    "download",
+    "import",
+    "export"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

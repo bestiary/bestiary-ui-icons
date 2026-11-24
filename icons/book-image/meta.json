@@ -1,0 +1,24 @@
+{
+  "name": "book-image",
+  "categories": [
+    "photography",
+    "text",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:book",
+    "$extends:image",
+    "images",
+    "pictures",
+    "photos",
+    "album",
+    "collection",
+    "event",
+    "catalog",
+    "catalogue",
+    "brochure",
+    "browse",
+    "gallery"
+  ],
+  "aliases": []
+}

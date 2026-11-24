@@ -1,0 +1,15 @@
+{
+  "name": "clipboard-check",
+  "categories": [
+    "$extends:clipboard"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "$group:check",
+    "copied",
+    "pasted",
+    "result",
+    "checklist"
+  ],
+  "aliases": []
+}

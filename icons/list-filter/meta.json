@@ -1,0 +1,12 @@
+{
+  "name": "list-filter",
+  "categories": [
+    "$extends:list",
+    "layout"
+  ],
+  "tags": [
+    "$extends:list"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

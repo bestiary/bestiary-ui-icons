@@ -1,0 +1,17 @@
+{
+  "name": "alarm-clock-off",
+  "categories": [
+    "devices",
+    "notifications",
+    "time"
+  ],
+  "tags": [
+    "alarm-clock",
+    "off",
+    "silent",
+    "muted",
+    "disarmed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

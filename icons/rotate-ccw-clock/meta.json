@@ -1,0 +1,20 @@
+{
+  "name": "rotate-ccw-clock",
+  "categories": [
+    "arrows",
+    "time"
+  ],
+  "tags": [
+    "timeline",
+    "version",
+    "time machine",
+    "ccw",
+    "changelog",
+    "release notes"
+  ],
+  "aliases": [
+    "time-machine",
+    "history-clock"
+  ],
+  "deprecated": false
+}

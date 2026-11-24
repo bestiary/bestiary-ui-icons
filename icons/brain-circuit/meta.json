@@ -1,0 +1,23 @@
+{
+  "name": "brain-circuit",
+  "categories": [
+    "science",
+    "development",
+    "ai"
+  ],
+  "tags": [
+    "medical",
+    "mind",
+    "artificial intelligence",
+    "ai",
+    "deep learning",
+    "machine learning",
+    "circuit",
+    "neural"
+  ],
+  "aliases": [
+    "ai-brain",
+    "neural-network"
+  ],
+  "deprecated": false
+}

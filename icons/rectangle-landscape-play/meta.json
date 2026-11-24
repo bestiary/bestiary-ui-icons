@@ -1,0 +1,19 @@
+{
+  "name": "rectangle-landscape-play",
+  "categories": [
+    "arrows",
+    "multimedia"
+  ],
+  "tags": [
+    "music",
+    "video",
+    "start",
+    "movie",
+    "play"
+  ],
+  "aliases": [
+    "video-player-box",
+    "media-card"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shopping-bag",
+  "categories": [
+    "shopping"
+  ],
+  "tags": [
+    "ecommerce",
+    "cart",
+    "purchase",
+    "store"
+  ],
+  "aliases": []
+}

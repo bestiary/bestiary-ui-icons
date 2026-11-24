@@ -1,0 +1,20 @@
+{
+  "name": "theater",
+  "categories": [
+    "buildings",
+    "social"
+  ],
+  "tags": [
+    "theater",
+    "theatre",
+    "entertainment",
+    "podium",
+    "stage",
+    "musical"
+  ],
+  "aliases": [
+    "stage-curtains",
+    "auditorium"
+  ],
+  "deprecated": false
+}

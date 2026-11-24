@@ -1,0 +1,12 @@
+{
+  "name": "funnel-plus",
+  "categories": [
+    "$extends:funnel"
+  ],
+  "tags": [
+    "$extends:funnel",
+    "$group:plus"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "folder-check",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:check"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

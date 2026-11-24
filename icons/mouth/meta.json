@@ -1,7 +1,7 @@
 {
   "name": "mouth",
-  "categories": ["accessibility"],
-  "tags": ["mouth", "lips", "speak", "voice", "oral"],
+  "categories": ["medical", "accessibility", "communication"],
+  "tags": ["speech", "voice", "talk", "speaking", "taste", "tasting", "flavor", "palate", "tongue", "gustatory", "oral", "dental", "expression", "communication", "accessibility"],
   "aliases": ["lips", "speak"],
   "deprecated": false
 }

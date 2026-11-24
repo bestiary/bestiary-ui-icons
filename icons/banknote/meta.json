@@ -1,0 +1,19 @@
+{
+  "name": "banknote",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "currency",
+    "money",
+    "payment",
+    "bill",
+    "cash",
+    "funds",
+    "transaction",
+    "finance",
+    "salary"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

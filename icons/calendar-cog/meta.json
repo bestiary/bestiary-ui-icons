@@ -1,0 +1,12 @@
+{
+  "name": "calendar-cog",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:cog",
+    "events"
+  ],
+  "aliases": []
+}

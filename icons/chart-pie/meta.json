@@ -1,0 +1,17 @@
+{
+  "name": "chart-pie",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "pie",
+    "percentage",
+    "share"
+  ],
+  "aliases": [
+    "pie-chart",
+    "donut-wedge"
+  ],
+  "deprecated": false
+}

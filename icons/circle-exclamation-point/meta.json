@@ -1,0 +1,13 @@
+{
+  "name": "circle-exclamation-point",
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$group:exclamation-mark"
+  ],
+  "aliases": [
+    "alert-circle",
+    "circle-alert"
+  ]
+}

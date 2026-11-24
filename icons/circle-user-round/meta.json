@@ -1,7 +1,7 @@
 {
   "name": "circle-user-round",
-  "categories": ["accounts"],
-  "tags": ["circle-user-round", "avatar", "portrait", "profile", "account"],
-  "aliases": ["circle-portrait", "portrait-circle"],
+  "categories": ["account"],
+  "tags": ["user", "avatar", "profile", "account", "round"],
+  "aliases": ["user-circle-2"],
   "deprecated": false
 }

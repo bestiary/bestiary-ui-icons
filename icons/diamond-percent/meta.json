@@ -1,0 +1,19 @@
+{
+  "name": "diamond-percent",
+  "categories": [
+    "social",
+    "finance",
+    "shopping",
+    "math"
+  ],
+  "tags": [
+    "$group:percent",
+    "verified",
+    "unverified",
+    "sticker"
+  ],
+  "aliases": [
+    "percent-diamond"
+  ],
+  "deprecated": false
+}

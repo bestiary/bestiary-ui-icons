@@ -1,0 +1,14 @@
+{
+  "name": "image-plus",
+  "categories": [
+    "photography",
+    "multimedia",
+    "files"
+  ],
+  "tags": [
+    "$extends:image",
+    "$group:plus"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

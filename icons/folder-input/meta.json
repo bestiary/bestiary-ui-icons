@@ -1,0 +1,13 @@
+{
+  "name": "folder-input",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "import",
+    "export"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

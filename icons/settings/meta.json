@@ -1,6 +1,16 @@
 {
   "name": "settings",
-  "categories": ["system"],
-  "tags": ["settings", "gear", "cog", "preferences", "config"],
-  "aliases": ["gear", "preferences"]
+  "categories": [
+    "account"
+  ],
+  "tags": [
+    "gear",
+    "preferences",
+    "config"
+  ],
+  "aliases": [
+    "preferences",
+    "app-settings"
+  ],
+  "deprecated": false
 }

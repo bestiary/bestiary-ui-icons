@@ -1,7 +1,7 @@
 {
   "name": "contact",
-  "categories": ["accounts"],
-  "tags": ["contact", "card", "identity", "member", "vcard"],
+  "categories": ["account", "communication", "social"],
+  "tags": ["user", "person", "family", "friend", "acquaintance", "listing", "networking"],
   "aliases": ["contact-card", "vcard"],
   "deprecated": false
 }

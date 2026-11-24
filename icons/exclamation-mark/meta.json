@@ -1,0 +1,19 @@
+{
+  "name": "exclamation-mark",
+  "categories": [
+    "letters-digits",
+    "text",
+    "notifications"
+  ],
+  "tags": [
+    "$group:exclamation-mark",
+    "bang",
+    "surprise",
+    "emphasis",
+    "interjection",
+    "factorial",
+    "negation"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,7 +1,7 @@
 {
   "name": "badge-question-mark",
-  "categories": ["accessibility"],
+  "categories": ["accessibility", "social"],
   "tags": ["badge", "question", "help", "support", "faq"],
-  "aliases": ["help-badge", "faq-badge"],
+  "aliases": ["badge-help"],
   "deprecated": false
 }

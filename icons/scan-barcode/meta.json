@@ -1,0 +1,22 @@
+{
+  "name": "scan-barcode",
+  "categories": [
+    "shopping",
+    "devices",
+    "logistics"
+  ],
+  "tags": [
+    "$extends:scan",
+    "till",
+    "cart",
+    "transaction",
+    "purchase",
+    "buy",
+    "product",
+    "packaging",
+    "retail",
+    "consumer"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "external-link",
+  "categories": [
+    "arrows",
+    "text",
+    "social"
+  ],
+  "tags": [
+    "outbound",
+    "open",
+    "share",
+    "redirect"
+  ],
+  "aliases": [
+    "open-in-new",
+    "outbound-link"
+  ],
+  "deprecated": false
+}

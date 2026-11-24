@@ -1,0 +1,11 @@
+{
+  "name": "swiss-franc",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

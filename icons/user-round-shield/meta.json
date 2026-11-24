@@ -1,15 +1,25 @@
 {
   "name": "user-round-shield",
   "categories": [
-    "accounts"
+    "account",
+    "security"
   ],
   "tags": [
-    "user-round-shield",
-    "protected-profile",
-    "admin"
+    "security",
+    "protection",
+    "admin",
+    "guard",
+    "privacy",
+    "account",
+    "role",
+    "permissions",
+    "profile",
+    "identity",
+    "trusted"
   ],
   "aliases": [
-    "protected-profile"
+    "protected-user-round",
+    "admin-user-round"
   ],
   "deprecated": false
 }

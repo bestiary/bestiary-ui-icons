@@ -1,0 +1,17 @@
+{
+  "name": "stethoscope",
+  "categories": [
+    "science",
+    "medical"
+  ],
+  "tags": [
+    "phonendoscope",
+    "medical",
+    "heart",
+    "lungs",
+    "sound",
+    "patient"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

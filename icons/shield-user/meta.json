@@ -1,7 +1,21 @@
 {
   "name": "shield-user",
-  "categories": ["accounts"],
-  "tags": ["shield-user", "admin", "account-protection", "moderator", "security"],
-  "aliases": ["admin-shield", "moderator"],
+  "categories": [
+    "account",
+    "security",
+    "development"
+  ],
+  "tags": [
+    "user",
+    "profile",
+    "account",
+    "security",
+    "identity",
+    "protected"
+  ],
+  "aliases": [
+    "user-protection",
+    "account-shield"
+  ],
   "deprecated": false
 }

@@ -1,0 +1,18 @@
+{
+  "name": "bell-electric",
+  "categories": [
+    "devices",
+    "notifications",
+    "home"
+  ],
+  "tags": [
+    "fire alarm",
+    "doorbell",
+    "school bell",
+    "alert",
+    "ring",
+    "safety"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

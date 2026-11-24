@@ -1,0 +1,17 @@
+{
+  "name": "puzzle",
+  "categories": [
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "component",
+    "module",
+    "part",
+    "piece",
+    "plugin",
+    "puzzle"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

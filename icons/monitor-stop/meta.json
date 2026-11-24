@@ -1,0 +1,17 @@
+{
+  "name": "monitor-stop",
+  "categories": [
+    "$extends:monitor",
+    "multimedia"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:stop",
+    "video",
+    "movie",
+    "film",
+    "shutdown"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

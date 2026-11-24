@@ -1,0 +1,17 @@
+{
+  "name": "refresh-ccw",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "sync",
+    "arrows",
+    "rotate",
+    "circular"
+  ],
+  "aliases": [
+    "sync-ccw",
+    "reload-ccw"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "vibrate-off",
+  "categories": [
+    "devices",
+    "notifications"
+  ],
+  "tags": [
+    "$extends:vibrate",
+    "$group:off",
+    "notifications"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

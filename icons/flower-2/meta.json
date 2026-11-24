@@ -1,0 +1,11 @@
+{
+  "name": "flower-2",
+  "categories": [
+    "nature",
+    "sustainability"
+  ],
+  "tags": [
+    "$extends:flower"
+  ],
+  "aliases": []
+}

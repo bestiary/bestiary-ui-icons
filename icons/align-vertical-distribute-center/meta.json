@@ -1,0 +1,17 @@
+{
+  "name": "align-vertical-distribute-center",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-center",
+    "items",
+    "flex",
+    "justify",
+    "space",
+    "evenly",
+    "around"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

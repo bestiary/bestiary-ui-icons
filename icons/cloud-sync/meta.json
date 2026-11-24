@@ -1,0 +1,23 @@
+{
+  "name": "cloud-sync",
+  "categories": [
+    "arrows",
+    "files"
+  ],
+  "tags": [
+    "sync",
+    "transfer",
+    "backup",
+    "storage",
+    "upload",
+    "download",
+    "connection",
+    "network",
+    "data"
+  ],
+  "aliases": [
+    "sync-cloud",
+    "cloud-refresh"
+  ],
+  "deprecated": false
+}

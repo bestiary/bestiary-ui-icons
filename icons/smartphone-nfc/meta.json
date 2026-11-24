@@ -1,0 +1,17 @@
+{
+  "name": "smartphone-nfc",
+  "categories": [
+    "finance",
+    "devices",
+    "connectivity"
+  ],
+  "tags": [
+    "smartphone",
+    "contactless",
+    "payment",
+    "near-field communication",
+    "tap"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

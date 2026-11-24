@@ -1,0 +1,21 @@
+{
+  "name": "gamepad-directional",
+  "categories": [
+    "$extends:gamepad"
+  ],
+  "tags": [
+    "$extends:gamepad",
+    "direction",
+    "arrow",
+    "controller",
+    "navigation",
+    "button",
+    "move",
+    "pointer",
+    "arrowhead",
+    "game",
+    "gaming"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

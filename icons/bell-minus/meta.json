@@ -1,0 +1,12 @@
+{
+  "name": "bell-minus",
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$extends:bell",
+    "$group:minus",
+    "silent"
+  ],
+  "aliases": []
+}

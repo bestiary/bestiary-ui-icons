@@ -1,0 +1,21 @@
+{
+  "name": "utility-pole",
+  "categories": [
+    "buildings",
+    "home",
+    "sustainability"
+  ],
+  "tags": [
+    "electricity",
+    "energy",
+    "transmission line",
+    "telegraph pole",
+    "power lines",
+    "phone"
+  ],
+  "aliases": [
+    "power-pole",
+    "telegraph-pole"
+  ],
+  "deprecated": false
+}

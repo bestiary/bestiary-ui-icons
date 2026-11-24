@@ -1,0 +1,19 @@
+{
+  "name": "chevron-left",
+  "categories": [
+    "arrows",
+    "math"
+  ],
+  "tags": [
+    "left",
+    "previous",
+    "less than",
+    "fewer",
+    "menu"
+  ],
+  "aliases": [
+    "caret-left",
+    "back-chevron"
+  ],
+  "deprecated": false
+}

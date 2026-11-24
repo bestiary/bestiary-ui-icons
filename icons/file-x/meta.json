@@ -1,0 +1,16 @@
+{
+  "name": "file-x",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:x",
+    "lost",
+    "404",
+    "not found",
+    "page not found"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

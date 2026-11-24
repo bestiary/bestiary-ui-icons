@@ -1,0 +1,28 @@
+{
+  "name": "user-round-group",
+  "categories": [
+    "account",
+    "people",
+    "social"
+  ],
+  "tags": [
+    "group",
+    "team",
+    "community",
+    "membership",
+    "collaboration",
+    "organization",
+    "directory",
+    "staff",
+    "family",
+    "ancestry",
+    "ancestors",
+    "lineage",
+    "parents"
+  ],
+  "aliases": [
+    "round-user-group",
+    "community-group"
+  ],
+  "deprecated": false
+}

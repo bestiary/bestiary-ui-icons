@@ -1,0 +1,17 @@
+{
+  "name": "tool-case",
+  "categories": [
+    "tools",
+    "development",
+    "home"
+  ],
+  "tags": [
+    "tools",
+    "maintenance",
+    "repair",
+    "toolbox",
+    "case"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

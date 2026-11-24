@@ -1,0 +1,11 @@
+{
+  "name": "droplet-off",
+  "categories": [
+    "$extends:droplet"
+  ],
+  "tags": [
+    "$extends:droplet",
+    "$group:off"
+  ],
+  "aliases": []
+}

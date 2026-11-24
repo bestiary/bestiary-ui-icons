@@ -1,7 +1,7 @@
 {
   "name": "life-buoy",
-  "categories": ["accessibility"],
-  "tags": ["life-buoy", "support", "help", "rescue", "assistance"],
+  "categories": ["accessibility", "medical"],
+  "tags": ["preserver", "life belt", "lifesaver", "help", "rescue", "ship", "ring", "raft", "inflatable", "wheel", "donut", "customer service", "customer support", "helpdesk"],
   "aliases": ["lifebuoy", "rescue"],
   "deprecated": false
 }

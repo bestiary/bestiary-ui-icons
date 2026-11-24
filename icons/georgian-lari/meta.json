@@ -1,0 +1,11 @@
+{
+  "name": "georgian-lari",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

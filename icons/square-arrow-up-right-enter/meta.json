@@ -1,0 +1,19 @@
+{
+  "name": "square-arrow-up-right-enter",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "up-right",
+    "enter",
+    "expand",
+    "collapse",
+    "contract",
+    "resize"
+  ],
+  "aliases": [
+    "dock-top-right",
+    "enter-ne-square"
+  ],
+  "deprecated": false
+}

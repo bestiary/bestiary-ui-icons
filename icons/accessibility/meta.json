@@ -1,7 +1,7 @@
 {
   "name": "accessibility",
-  "categories": ["accessibility"],
-  "tags": ["accessibility", "a11y", "universal", "inclusive", "assistive"],
-  "aliases": ["a11y", "universal-access"],
+  "categories": ["accessibility", "medical"],
+  "tags": ["disability", "disabled", "dda", "wheelchair"],
+  "aliases": ["wheelchair-access", "a11y"],
   "deprecated": false
 }

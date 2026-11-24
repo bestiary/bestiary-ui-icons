@@ -1,0 +1,15 @@
+{
+  "name": "monitor-down",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$group:direction-down",
+    "download",
+    "remote",
+    "cast"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "joystick",
+  "categories": [
+    "gaming",
+    "devices"
+  ],
+  "tags": [
+    "game",
+    "console",
+    "control stick"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,7 +1,20 @@
 {
   "name": "tag-x",
-  "categories": ["accounts"],
-  "tags": ["tag-x", "remove-tag", "delete-label", "clear"],
-  "aliases": ["remove-tag", "delete-label"],
+  "categories": [
+    "account",
+    "shopping"
+  ],
+  "tags": [
+    "label",
+    "badge",
+    "ticket",
+    "mark",
+    "remove",
+    "delete"
+  ],
+  "aliases": [
+    "remove-tag",
+    "delete-tag"
+  ],
   "deprecated": false
 }

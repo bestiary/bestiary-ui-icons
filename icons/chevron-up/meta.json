@@ -1,0 +1,26 @@
+{
+  "name": "chevron-up",
+  "categories": [
+    "arrows",
+    "math"
+  ],
+  "tags": [
+    "up",
+    "caret",
+    "keyboard",
+    "mac",
+    "control",
+    "ctrl",
+    "superscript",
+    "exponential",
+    "power",
+    "ahead",
+    "fast",
+    "dropdown"
+  ],
+  "aliases": [
+    "caret-up",
+    "collapse-chevron"
+  ],
+  "deprecated": false
+}

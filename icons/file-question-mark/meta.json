@@ -1,0 +1,18 @@
+{
+  "name": "file-question-mark",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:question-mark",
+    "readme",
+    "404",
+    "not found",
+    "page not found"
+  ],
+  "aliases": [
+    "file-question"
+  ],
+  "deprecated": false
+}

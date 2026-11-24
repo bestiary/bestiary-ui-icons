@@ -1,0 +1,16 @@
+{
+  "name": "receipt-text",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "details",
+    "small print",
+    "terms",
+    "conditions",
+    "contract"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

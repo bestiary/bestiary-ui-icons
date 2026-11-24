@@ -1,7 +1,22 @@
 {
   "name": "scan-face",
-  "categories": ["accounts"],
-  "tags": ["scan-face", "face-id", "facial-recognition", "biometric", "auth"],
-  "aliases": ["face-id", "facial-recognition"],
+  "categories": [
+    "account",
+    "security",
+    "devices"
+  ],
+  "tags": [
+    "face",
+    "biometric",
+    "identification",
+    "authentication",
+    "2fa",
+    "access",
+    "login"
+  ],
+  "aliases": [
+    "face-id",
+    "face-scan"
+  ],
   "deprecated": false
 }

@@ -1,0 +1,20 @@
+{
+  "name": "banknote-arrow-up",
+  "categories": [
+    "$extends:banknote"
+  ],
+  "tags": [
+    "$extends:banknote",
+    "$group:direction-up",
+    "deposit",
+    "earnings",
+    "income",
+    "in",
+    "credit",
+    "prepaid",
+    "growth",
+    "increase"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

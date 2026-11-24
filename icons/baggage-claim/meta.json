@@ -1,0 +1,16 @@
+{
+  "name": "baggage-claim",
+  "categories": [
+    "transportation",
+    "travel"
+  ],
+  "tags": [
+    "baggage",
+    "luggage",
+    "travel",
+    "cart",
+    "trolley",
+    "suitcase"
+  ],
+  "aliases": []
+}

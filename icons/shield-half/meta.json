@@ -1,7 +1,29 @@
 {
   "name": "shield-half",
-  "categories": ["accounts"],
-  "tags": ["shield-half", "partial-protection", "moderate-security", "guard"],
-  "aliases": ["partial-shield"],
+  "categories": [
+    "account",
+    "security",
+    "development",
+    "gaming"
+  ],
+  "tags": [
+    "logo",
+    "sigil",
+    "flag",
+    "team",
+    "faction",
+    "fraternity",
+    "university",
+    "college",
+    "academy",
+    "school",
+    "education",
+    "uniform",
+    "ranking"
+  ],
+  "aliases": [
+    "half-shield",
+    "split-shield"
+  ],
   "deprecated": false
 }

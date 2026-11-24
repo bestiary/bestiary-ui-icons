@@ -1,0 +1,15 @@
+{
+  "name": "monitor-smartphone",
+  "categories": [
+    "$extends:monitor"
+  ],
+  "tags": [
+    "$extends:monitor",
+    "$extends:smartphone",
+    "screens",
+    "sync",
+    "cast"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

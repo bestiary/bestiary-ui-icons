@@ -1,0 +1,13 @@
+{
+  "name": "file-minus",
+  "categories": [
+    "$extends:file"
+  ],
+  "tags": [
+    "$extends:file",
+    "$group:minus",
+    "discard"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "battery",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "power",
+    "electricity",
+    "energy",
+    "accumulator",
+    "charge",
+    "battery"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

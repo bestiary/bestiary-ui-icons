@@ -1,0 +1,12 @@
+{
+  "name": "beer-off",
+  "categories": [
+    "$extends:beer"
+  ],
+  "tags": [
+    "$extends:beer",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

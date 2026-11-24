@@ -1,0 +1,18 @@
+{
+  "name": "circle-arrow-left",
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "left",
+    "previous",
+    "sign",
+    "turn",
+    "button"
+  ],
+  "aliases": [
+    "arrow-left-circle",
+    "circle-left"
+  ],
+  "deprecated": false
+}

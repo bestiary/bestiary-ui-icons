@@ -1,0 +1,12 @@
+{
+  "name": "equal-approximately",
+  "categories": [
+    "math"
+  ],
+  "tags": [
+    "$extends:equal",
+    "about"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

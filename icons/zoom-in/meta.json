@@ -1,7 +1,7 @@
 {
   "name": "zoom-in",
-  "categories": ["accessibility"],
-  "tags": ["zoom-in", "magnify", "enlarge", "scale-up", "plus"],
+  "categories": ["accessibility", "layout", "design", "photography"],
+  "tags": ["magnifying glass", "zoom", "enlarge", "plus"],
   "aliases": ["magnify", "enlarge"],
   "deprecated": false
 }

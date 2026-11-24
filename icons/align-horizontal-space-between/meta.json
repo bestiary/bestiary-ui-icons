@@ -1,0 +1,17 @@
+{
+  "name": "align-horizontal-space-between",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-left",
+    "$group:position-right",
+    "around",
+    "items",
+    "bottom",
+    "flex",
+    "justify"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

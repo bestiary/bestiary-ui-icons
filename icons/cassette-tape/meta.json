@@ -1,0 +1,17 @@
+{
+  "name": "cassette-tape",
+  "categories": [
+    "devices",
+    "multimedia"
+  ],
+  "tags": [
+    "audio",
+    "music",
+    "recording",
+    "play",
+    "cassette",
+    "tape"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

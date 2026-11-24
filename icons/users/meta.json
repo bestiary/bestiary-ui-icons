@@ -1,7 +1,19 @@
 {
   "name": "users",
-  "categories": ["accounts"],
-  "tags": ["users", "team", "group", "members", "community"],
-  "aliases": ["team-members", "user-group"],
+  "categories": [
+    "account",
+    "people"
+  ],
+  "tags": [
+    "user",
+    "group",
+    "team",
+    "members",
+    "people"
+  ],
+  "aliases": [
+    "people",
+    "team-members"
+  ],
   "deprecated": false
 }

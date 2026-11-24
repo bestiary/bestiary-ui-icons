@@ -1,0 +1,16 @@
+{
+  "name": "tablets",
+  "categories": [
+    "medical"
+  ],
+  "tags": [
+    "medicine",
+    "medication",
+    "drug",
+    "prescription",
+    "pills",
+    "pharmacy"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

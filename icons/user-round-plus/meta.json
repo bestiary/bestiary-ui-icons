@@ -1,15 +1,19 @@
 {
   "name": "user-round-plus",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-round-plus",
-    "new-member",
-    "signup"
+    "follow",
+    "subscribe",
+    "invite",
+    "invitation",
+    "add",
+    "user"
   ],
   "aliases": [
-    "new-member"
+    "user-plus-2",
+    "add-user-round"
   ],
   "deprecated": false
 }

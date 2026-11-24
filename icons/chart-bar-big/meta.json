@@ -1,0 +1,17 @@
+{
+  "name": "chart-bar-big",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "categorical",
+    "comparison",
+    "bar"
+  ],
+  "aliases": [
+    "bar-chart-big",
+    "wide-bars"
+  ],
+  "deprecated": false
+}

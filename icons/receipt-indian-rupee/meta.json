@@ -1,0 +1,13 @@
+{
+  "name": "receipt-indian-rupee",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "inr",
+    "₹"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

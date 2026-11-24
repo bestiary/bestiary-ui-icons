@@ -1,0 +1,19 @@
+{
+  "name": "letter-q",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "question",
+    "help",
+    "queue",
+    "charge",
+    "electricity",
+    "quality",
+    "rating"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

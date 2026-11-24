@@ -1,0 +1,17 @@
+{
+  "name": "cpu",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "processor",
+    "cores",
+    "computer",
+    "chip",
+    "circuit",
+    "memory",
+    "cpu"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bluetooth-searching",
+  "categories": [
+    "connectivity",
+    "devices"
+  ],
+  "tags": [
+    "bluetooth",
+    "wireless",
+    "pairing",
+    "searching",
+    "scanning"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

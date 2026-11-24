@@ -1,0 +1,14 @@
+{
+  "name": "list-x",
+  "categories": [
+    "$extends:list",
+    "multimedia"
+  ],
+  "tags": [
+    "$group:x",
+    "playlist",
+    "subtract",
+    "unqueue"
+  ],
+  "aliases": []
+}

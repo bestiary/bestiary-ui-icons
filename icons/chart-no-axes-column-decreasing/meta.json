@@ -1,0 +1,17 @@
+{
+  "name": "chart-no-axes-column-decreasing",
+  "categories": [
+    "charts"
+  ],
+  "tags": [
+    "chart",
+    "categorical",
+    "comparison",
+    "trending down"
+  ],
+  "aliases": [
+    "bars-decreasing",
+    "column-desc-clean"
+  ],
+  "deprecated": false
+}

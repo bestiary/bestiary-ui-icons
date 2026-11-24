@@ -1,0 +1,12 @@
+{
+  "name": "cloud-moon-rain",
+  "categories": [
+    "$extends:cloud-moon"
+  ],
+  "tags": [
+    "$extends:cloud-moon",
+    "partly",
+    "rainfall"
+  ],
+  "aliases": []
+}

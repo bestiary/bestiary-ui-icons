@@ -1,7 +1,7 @@
 {
   "name": "info",
-  "categories": ["accessibility"],
-  "tags": ["info", "information", "details", "about", "help"],
+  "categories": ["accessibility", "notifications"],
+  "tags": ["about", "advice", "clue", "details", "help", "hint", "indicator", "information", "knowledge", "notice", "status", "support", "tooltip"],
   "aliases": ["information", "about"],
   "deprecated": false
 }

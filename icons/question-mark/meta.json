@@ -1,0 +1,11 @@
+{
+  "name": "question-mark",
+  "categories": [
+    "text",
+    "notifications"
+  ],
+  "tags": [
+    "$group:question-mark"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gpu",
+  "categories": [
+    "devices",
+    "gaming"
+  ],
+  "tags": [
+    "processor",
+    "cores",
+    "technology",
+    "computer",
+    "chip",
+    "circuit",
+    "specs",
+    "graphics processing unit",
+    "video card",
+    "display adapter",
+    "gddr",
+    "rendering",
+    "digital image processing",
+    "crypto mining"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

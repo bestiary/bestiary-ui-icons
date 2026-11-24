@@ -1,0 +1,17 @@
+{
+  "name": "calendar-1",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "$group:digit",
+    "single",
+    "singular",
+    "once",
+    "1",
+    "first",
+    "today"
+  ],
+  "aliases": []
+}

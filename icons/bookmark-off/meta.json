@@ -1,0 +1,7 @@
+{
+  "name": "bookmark-off",
+  "categories": ["account"],
+  "tags": ["unsaved", "unfavorite", "unmarked", "unlabel", "removed", "unpin", "unread", "unclip", "untag"],
+  "aliases": ["unsave-bookmark"],
+  "deprecated": false
+}

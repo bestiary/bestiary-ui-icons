@@ -1,0 +1,19 @@
+{
+  "name": "file-chart-line",
+  "categories": [
+    "files",
+    "charts"
+  ],
+  "tags": [
+    "file",
+    "chart",
+    "line",
+    "report",
+    "analytics"
+  ],
+  "aliases": [
+    "report-line",
+    "document-line-chart"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mop-sparkles",
+  "categories": [
+    "$extends:mop"
+  ],
+  "tags": [
+    "$extends:mop",
+    "$group:sparkles"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

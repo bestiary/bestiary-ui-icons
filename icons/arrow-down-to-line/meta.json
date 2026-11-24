@@ -1,0 +1,22 @@
+{
+  "name": "arrow-down-to-line",
+  "categories": [
+    "arrows",
+    "files",
+    "development"
+  ],
+  "tags": [
+    "down",
+    "last",
+    "behind",
+    "download",
+    "git",
+    "version control",
+    "collapse"
+  ],
+  "aliases": [
+    "download-to-line",
+    "collapse-down"
+  ],
+  "deprecated": false
+}

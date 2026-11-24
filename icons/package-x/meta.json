@@ -1,0 +1,16 @@
+{
+  "name": "package-x",
+  "categories": [
+    "development",
+    "files"
+  ],
+  "tags": [
+    "package",
+    "x",
+    "remove",
+    "cancel",
+    "error"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

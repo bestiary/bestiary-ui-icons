@@ -1,0 +1,14 @@
+{
+  "name": "image-minus",
+  "categories": [
+    "photography",
+    "multimedia",
+    "files"
+  ],
+  "tags": [
+    "$extends:image",
+    "$group:minus"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

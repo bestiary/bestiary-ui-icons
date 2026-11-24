@@ -1,0 +1,22 @@
+{
+  "name": "bot-off",
+  "categories": [
+    "development",
+    "social",
+    "ai"
+  ],
+  "tags": [
+    "robot",
+    "ai",
+    "assistant",
+    "chatbot",
+    "agent",
+    "off",
+    "disabled"
+  ],
+  "aliases": [
+    "bot-disabled",
+    "offline-bot"
+  ],
+  "deprecated": false
+}

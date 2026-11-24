@@ -1,0 +1,12 @@
+{
+  "name": "folder-closed",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "closed"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

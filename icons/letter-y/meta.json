@@ -1,0 +1,19 @@
+{
+  "name": "letter-y",
+  "categories": [
+    "letters-digits"
+  ],
+  "tags": [
+    "$group:letter",
+    "uppercase",
+    "y-axis",
+    "axis",
+    "yes",
+    "confirm",
+    "year",
+    "time",
+    "chromosome"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

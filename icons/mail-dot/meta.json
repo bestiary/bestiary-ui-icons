@@ -1,0 +1,19 @@
+{
+  "name": "mail-dot",
+  "categories": [
+    "$extends:mail",
+    "notifications"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:dot",
+    "mail",
+    "envelope",
+    "communication",
+    "post",
+    "send",
+    "address"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

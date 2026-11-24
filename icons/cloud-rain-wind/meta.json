@@ -1,0 +1,10 @@
+{
+  "name": "cloud-rain-wind",
+  "categories": [
+    "$extends:cloud-rain"
+  ],
+  "tags": [
+    "$extends:cloud-rain"
+  ],
+  "aliases": []
+}

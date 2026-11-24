@@ -1,0 +1,21 @@
+{
+  "name": "redo-dot",
+  "categories": [
+    "text",
+    "arrows"
+  ],
+  "tags": [
+    "undo",
+    "rerun",
+    "history",
+    "redo",
+    "step",
+    "over",
+    "forward"
+  ],
+  "aliases": [
+    "step-over",
+    "redo-point"
+  ],
+  "deprecated": false
+}

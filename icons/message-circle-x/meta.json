@@ -1,0 +1,19 @@
+{
+  "name": "message-circle-x",
+  "categories": [
+    "social",
+    "communication"
+  ],
+  "tags": [
+    "silence",
+    "mute",
+    "moderate",
+    "close",
+    "chat"
+  ],
+  "aliases": [
+    "close-chat",
+    "delete-comment"
+  ],
+  "deprecated": false
+}

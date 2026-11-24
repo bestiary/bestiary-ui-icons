@@ -1,0 +1,18 @@
+{
+  "name": "alarm-clock-plus",
+  "categories": [
+    "devices",
+    "notifications",
+    "time"
+  ],
+  "tags": [
+    "alarm-clock",
+    "plus",
+    "add",
+    "reminder"
+  ],
+  "aliases": [
+    "alarm-plus"
+  ],
+  "deprecated": false
+}

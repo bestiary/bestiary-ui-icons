@@ -1,0 +1,13 @@
+{
+  "name": "zap-off",
+  "categories": [
+    "photography",
+    "devices"
+  ],
+  "tags": [
+    "$extends:zap",
+    "$group:off"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

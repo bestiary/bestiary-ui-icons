@@ -1,0 +1,17 @@
+{
+  "name": "app-window",
+  "categories": [
+    "layout",
+    "development"
+  ],
+  "tags": [
+    "application",
+    "app",
+    "window",
+    "gui",
+    "interface",
+    "software"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

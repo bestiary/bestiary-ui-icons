@@ -1,0 +1,19 @@
+{
+  "name": "line-height",
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:letter",
+    "leading",
+    "letters",
+    "characters",
+    "spacing",
+    "paragraph",
+    "formatting",
+    "editor",
+    "readability",
+    "typesetting"
+  ],
+  "aliases": []
+}

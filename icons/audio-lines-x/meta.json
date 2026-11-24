@@ -1,0 +1,19 @@
+{
+  "name": "audio-lines-x",
+  "categories": [
+    "multimedia",
+    "communication"
+  ],
+  "tags": [
+    "mute",
+    "silence",
+    "equalizer",
+    "waveform",
+    "audio"
+  ],
+  "aliases": [
+    "mute-equalizer",
+    "stop-audio"
+  ],
+  "deprecated": false
+}

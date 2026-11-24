@@ -1,0 +1,12 @@
+{
+  "name": "calendar-days",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "week",
+    "weekly"
+  ],
+  "aliases": []
+}

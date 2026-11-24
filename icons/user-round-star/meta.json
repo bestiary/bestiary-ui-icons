@@ -1,15 +1,20 @@
 {
   "name": "user-round-star",
   "categories": [
-    "accounts"
+    "account"
   ],
   "tags": [
-    "user-round-star",
-    "favorite-member",
-    "vip"
+    "admin",
+    "avatar",
+    "moderator",
+    "verified",
+    "badge",
+    "champion",
+    "star"
   ],
   "aliases": [
-    "vip-member"
+    "favorite-user-round",
+    "admin-round"
   ],
   "deprecated": false
 }

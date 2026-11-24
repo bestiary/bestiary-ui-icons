@@ -1,0 +1,14 @@
+{
+  "name": "webhook-off",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "webhook",
+    "off",
+    "disabled",
+    "api"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

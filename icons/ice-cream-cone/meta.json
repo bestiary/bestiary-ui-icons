@@ -1,0 +1,14 @@
+{
+  "name": "ice-cream-cone",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "gelato",
+    "food"
+  ],
+  "aliases": [
+    "ice-cream"
+  ],
+  "deprecated": false
+}

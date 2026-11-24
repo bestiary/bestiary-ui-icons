@@ -1,0 +1,12 @@
+{
+  "name": "circle-check-big",
+  "categories": [
+    "$extends:circle-check"
+  ],
+  "tags": [
+    "$extends:circle-check"
+  ],
+  "aliases": [
+    "check-circle"
+  ]
+}

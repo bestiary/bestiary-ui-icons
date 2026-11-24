@@ -1,0 +1,14 @@
+{
+  "name": "git-pull-request-arrow",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "git-pull-request",
+    "arrow",
+    "pr",
+    "merge"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

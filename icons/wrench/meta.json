@@ -1,7 +1,22 @@
 {
   "name": "wrench",
-  "categories": ["accounts"],
-  "tags": ["wrench", "tools", "maintenance", "repair", "admin"],
-  "aliases": ["spanner", "repair-tool"],
+  "categories": [
+    "account",
+    "development",
+    "tools"
+  ],
+  "tags": [
+    "account",
+    "settings",
+    "spanner",
+    "diy",
+    "toolbox",
+    "build",
+    "construction"
+  ],
+  "aliases": [
+    "spanner",
+    "repair-tool"
+  ],
   "deprecated": false
 }

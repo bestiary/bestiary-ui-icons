@@ -1,0 +1,35 @@
+{
+  "name": "faucet",
+  "categories": [
+    "food-beverage",
+    "home",
+    "navigation",
+    "travel"
+  ],
+  "tags": [
+    "tap",
+    "spigot",
+    "water",
+    "drinking",
+    "fresh",
+    "source",
+    "pipes",
+    "plumbing",
+    "plumber",
+    "sink",
+    "basin",
+    "kitchen",
+    "bathroom",
+    "washroom",
+    "fixture",
+    "valve",
+    "flow",
+    "drinkable",
+    "potable",
+    "amenities",
+    "utilities",
+    "hydration"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

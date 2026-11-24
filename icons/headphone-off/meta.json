@@ -1,0 +1,16 @@
+{
+  "name": "headphone-off",
+  "categories": [
+    "multimedia",
+    "devices"
+  ],
+  "tags": [
+    "$group:off",
+    "music",
+    "audio",
+    "sound",
+    "mute"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

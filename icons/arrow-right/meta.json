@@ -1,6 +1,17 @@
 {
   "name": "arrow-right",
-  "categories": ["arrows"],
-  "tags": ["arrow", "right", "next", "forward", "direction"],
-  "aliases": ["next", "forward"]
+  "categories": [
+    "arrows"
+  ],
+  "tags": [
+    "right",
+    "next",
+    "forward",
+    "arrow"
+  ],
+  "aliases": [
+    "right-arrow",
+    "east"
+  ],
+  "deprecated": false
 }

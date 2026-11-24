@@ -1,0 +1,16 @@
+{
+  "name": "pin-off",
+  "categories": [
+    "navigation"
+  ],
+  "tags": [
+    "$extends:pin",
+    "$group:off",
+    "unpin",
+    "unlock",
+    "unfix",
+    "unsave",
+    "remove"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "virus",
+  "categories": [
+    "medical",
+    "science",
+    "security"
+  ],
+  "tags": [
+    "pathogen",
+    "infection",
+    "disease",
+    "illness",
+    "contagion",
+    "outbreak",
+    "pandemic",
+    "epidemic",
+    "covid",
+    "coronavirus",
+    "germ",
+    "microbe",
+    "microorganism",
+    "biology",
+    "medical",
+    "healthcare",
+    "malware",
+    "cybersecurity",
+    "threat"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "signal-low",
+  "categories": [
+    "connectivity"
+  ],
+  "tags": [
+    "signal",
+    "connection",
+    "wireless",
+    "gsm",
+    "bars",
+    "low"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reply-all",
+  "categories": [
+    "$extends:reply"
+  ],
+  "tags": [
+    "$extends:reply"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

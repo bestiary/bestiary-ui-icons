@@ -1,0 +1,16 @@
+{
+  "name": "mail-question-mark",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:question-mark",
+    "delivery",
+    "undelivered"
+  ],
+  "aliases": [
+    "mail-question"
+  ],
+  "deprecated": false
+}

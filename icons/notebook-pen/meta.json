@@ -1,0 +1,16 @@
+{
+  "name": "notebook-pen",
+  "categories": [
+    "text",
+    "education"
+  ],
+  "tags": [
+    "$extends:notebook",
+    "$group:pen",
+    "noted",
+    "eraser",
+    "rubber"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

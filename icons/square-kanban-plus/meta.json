@@ -1,0 +1,29 @@
+{
+  "name": "square-kanban-plus",
+  "categories": [
+    "charts",
+    "development",
+    "design",
+    "layout"
+  ],
+  "tags": [
+    "board",
+    "project",
+    "add",
+    "create",
+    "plus",
+    "agile",
+    "tickets",
+    "issues",
+    "productivity",
+    "columns",
+    "workflow",
+    "planning",
+    "dashboard"
+  ],
+  "aliases": [
+    "new-kanban-board",
+    "add-board"
+  ],
+  "deprecated": false
+}

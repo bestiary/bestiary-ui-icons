@@ -1,0 +1,19 @@
+{
+  "name": "fullscreen",
+  "categories": [
+    "layout",
+    "multimedia",
+    "photography"
+  ],
+  "tags": [
+    "$group:expand",
+    "zoom",
+    "preview",
+    "focus",
+    "camera",
+    "lens",
+    "image"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

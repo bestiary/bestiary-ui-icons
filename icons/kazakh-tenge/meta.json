@@ -1,0 +1,12 @@
+{
+  "name": "kazakh-tenge",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency",
+    "kazakhstan"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

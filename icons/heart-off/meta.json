@@ -1,0 +1,14 @@
+{
+  "name": "heart-off",
+  "categories": [
+    "social"
+  ],
+  "tags": [
+    "$group:off",
+    "unlike",
+    "dislike",
+    "hate",
+    "emotion"
+  ],
+  "aliases": []
+}

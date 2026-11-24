@@ -1,0 +1,17 @@
+{
+  "name": "text-align-justify-end",
+  "categories": [
+    "$extends:text-align-justify"
+  ],
+  "tags": [
+    "$group:position-right",
+    "paragraph",
+    "alignment",
+    "justified",
+    "end",
+    "typography",
+    "editor",
+    "document"
+  ],
+  "aliases": []
+}

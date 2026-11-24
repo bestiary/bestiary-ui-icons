@@ -1,0 +1,15 @@
+{
+  "name": "panels-right-bottom",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-bottom",
+    "$group:position-right",
+    "drawers",
+    "sidebar",
+    "secondary"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

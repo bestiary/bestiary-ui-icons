@@ -1,0 +1,29 @@
+{
+  "name": "square-chevrons-right",
+  "categories": [
+    "arrows",
+    "navigation",
+    "multimedia"
+  ],
+  "tags": [
+    "next",
+    "forward",
+    "skip",
+    "fast forward",
+    "last",
+    "end",
+    "east",
+    "music",
+    "caret",
+    "button",
+    "keyboard",
+    "menu",
+    "panel",
+    "pagination"
+  ],
+  "aliases": [
+    "chevrons-right-square",
+    "square-fast-forward"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "star-minus",
+  "categories": [
+    "$extends:star"
+  ],
+  "tags": [
+    "$extends:star",
+    "$group:minus",
+    "deselect"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "list-end",
+  "categories": [
+    "$extends:list",
+    "multimedia"
+  ],
+  "tags": [
+    "queue",
+    "bottom",
+    "end",
+    "playlist"
+  ],
+  "aliases": []
+}

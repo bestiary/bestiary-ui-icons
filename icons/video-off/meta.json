@@ -1,0 +1,19 @@
+{
+  "name": "video-off",
+  "categories": [
+    "devices",
+    "communication",
+    "photography",
+    "multimedia"
+  ],
+  "tags": [
+    "video",
+    "camera",
+    "off",
+    "mute",
+    "disabled",
+    "no video"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

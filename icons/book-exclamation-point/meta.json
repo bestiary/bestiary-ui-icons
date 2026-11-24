@@ -1,0 +1,19 @@
+{
+  "name": "book-exclamation-point",
+  "categories": [
+    "text",
+    "development",
+    "education"
+  ],
+  "tags": [
+    "book",
+    "exclamation",
+    "alert",
+    "warning",
+    "important"
+  ],
+  "aliases": [
+    "book-alert"
+  ],
+  "deprecated": false
+}

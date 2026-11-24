@@ -1,0 +1,13 @@
+{
+  "name": "receipt-swiss-franc",
+  "categories": [
+    "$extends:receipt"
+  ],
+  "tags": [
+    "$extends:receipt",
+    "chf",
+    "₣"
+  ],
+  "aliases": [],
+  "deprecated": true
+}

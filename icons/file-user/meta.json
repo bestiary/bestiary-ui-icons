@@ -1,7 +1,7 @@
 {
   "name": "file-user",
-  "categories": ["accounts"],
-  "tags": ["file-user", "resume", "cv", "profile-doc", "document"],
+  "categories": ["files", "account"],
+  "tags": ["personal information", "listing", "networking", "cover letter", "resume", "cv", "curriculum vitae", "application form"],
   "aliases": ["resume", "cv-file"],
   "deprecated": false
 }

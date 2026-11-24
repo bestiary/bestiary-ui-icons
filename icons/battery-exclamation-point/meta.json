@@ -1,0 +1,18 @@
+{
+  "name": "battery-exclamation-point",
+  "categories": [
+    "devices",
+    "notifications"
+  ],
+  "tags": [
+    "battery",
+    "warning",
+    "alert",
+    "exclamation",
+    "low"
+  ],
+  "aliases": [
+    "battery-warning"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clipboard-x",
+  "categories": [
+    "$extends:clipboard"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "$group:x"
+  ],
+  "aliases": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "folder-sync",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:sync",
+    "transfer",
+    "backup"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

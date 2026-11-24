@@ -1,0 +1,23 @@
+{
+  "name": "circle-pile",
+  "categories": [
+    "$extends:circle"
+  ],
+  "tags": [
+    "$extends:circle",
+    "circle-pile",
+    "circle",
+    "pile",
+    "stack",
+    "layer",
+    "structure",
+    "form",
+    "group",
+    "collection",
+    "stock",
+    "inventory",
+    "materials",
+    "warehouse"
+  ],
+  "aliases": []
+}

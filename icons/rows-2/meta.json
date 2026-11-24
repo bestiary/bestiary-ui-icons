@@ -1,0 +1,20 @@
+{
+  "name": "rows-2",
+  "categories": [
+    "layout",
+    "design",
+    "text"
+  ],
+  "tags": [
+    "rows",
+    "split",
+    "panel",
+    "horizontal",
+    "half",
+    "layout"
+  ],
+  "aliases": [
+    "rows"
+  ],
+  "deprecated": false
+}

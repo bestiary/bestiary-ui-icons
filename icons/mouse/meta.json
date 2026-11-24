@@ -1,0 +1,13 @@
+{
+  "name": "mouse",
+  "categories": [
+    "devices"
+  ],
+  "tags": [
+    "device",
+    "scroll",
+    "click"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

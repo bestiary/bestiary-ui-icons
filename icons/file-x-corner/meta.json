@@ -1,0 +1,14 @@
+{
+  "name": "file-x-corner",
+  "categories": [
+    "$extends:file-x"
+  ],
+  "tags": [
+    "$extends:file-x",
+    "$group:x"
+  ],
+  "aliases": [
+    "file-x-2"
+  ],
+  "deprecated": false
+}

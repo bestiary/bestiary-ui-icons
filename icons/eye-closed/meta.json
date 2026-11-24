@@ -1,7 +1,7 @@
 {
   "name": "eye-closed",
-  "categories": ["accessibility"],
-  "tags": ["eye-closed", "sleep", "hidden", "eyelash", "blind"],
+  "categories": ["accessibility", "photography", "design", "security"],
+  "tags": ["hide", "conceal", "mask", "hidden"],
   "aliases": ["closed-eye"],
   "deprecated": false
 }

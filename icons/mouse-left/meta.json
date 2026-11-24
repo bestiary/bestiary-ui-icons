@@ -1,0 +1,12 @@
+{
+  "name": "mouse-left",
+  "categories": [
+    "$extends:mouse"
+  ],
+  "tags": [
+    "$extends:mouse",
+    "$group:position-left"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

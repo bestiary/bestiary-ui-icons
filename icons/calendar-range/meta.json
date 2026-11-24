@@ -1,0 +1,14 @@
+{
+  "name": "calendar-range",
+  "categories": [
+    "$extends:calendar"
+  ],
+  "tags": [
+    "$extends:calendar",
+    "range",
+    "period",
+    "week",
+    "weekly"
+  ],
+  "aliases": []
+}

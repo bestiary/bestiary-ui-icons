@@ -1,0 +1,17 @@
+{
+  "name": "trash-off",
+  "categories": [
+    "$extends:trash"
+  ],
+  "tags": [
+    "$extends:trash",
+    "$group:minus",
+    "$group:off",
+    "trash",
+    "prevent",
+    "locked",
+    "protected"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

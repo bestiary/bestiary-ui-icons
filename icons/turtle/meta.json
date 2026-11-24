@@ -1,0 +1,18 @@
+{
+  "name": "turtle",
+  "categories": [
+    "animals"
+  ],
+  "tags": [
+    "animal",
+    "pet",
+    "tortoise",
+    "slow",
+    "speed"
+  ],
+  "aliases": [
+    "tortoise",
+    "sea-turtle"
+  ],
+  "deprecated": false
+}

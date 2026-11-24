@@ -1,0 +1,14 @@
+{
+  "name": "folder-heart",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "$group:heart",
+    "bookmark",
+    "quick link"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

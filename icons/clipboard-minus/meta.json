@@ -1,0 +1,15 @@
+{
+  "name": "clipboard-minus",
+  "categories": [
+    "$extends:clipboard"
+  ],
+  "tags": [
+    "$extends:clipboard",
+    "$group:minus",
+    "document",
+    "medical",
+    "report",
+    "doctor"
+  ],
+  "aliases": []
+}

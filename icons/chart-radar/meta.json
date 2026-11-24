@@ -1,0 +1,26 @@
+{
+  "name": "chart-radar",
+  "categories": [
+    "charts",
+    "shapes",
+    "science"
+  ],
+  "tags": [
+    "chart",
+    "radar",
+    "shape",
+    "gem",
+    "mineral",
+    "pentagon",
+    "multidimensional",
+    "performance",
+    "comparison",
+    "profile",
+    "attributes"
+  ],
+  "aliases": [
+    "radar-chart",
+    "spider-chart"
+  ],
+  "deprecated": false
+}

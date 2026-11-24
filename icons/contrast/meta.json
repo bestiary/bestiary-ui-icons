@@ -1,7 +1,7 @@
 {
   "name": "contrast",
-  "categories": ["accessibility"],
-  "tags": ["contrast", "theme", "brightness", "high-contrast", "display"],
+  "categories": ["photography", "accessibility", "design"],
+  "tags": ["display", "accessibility", "high-contrast", "theme"],
   "aliases": ["high-contrast"],
   "deprecated": false
 }

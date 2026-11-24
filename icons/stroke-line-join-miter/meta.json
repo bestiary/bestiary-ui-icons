@@ -1,0 +1,17 @@
+{
+  "name": "stroke-line-join-miter",
+  "categories": [
+    "design",
+    "shapes"
+  ],
+  "tags": [
+    "line",
+    "join",
+    "miter",
+    "corner",
+    "sharp",
+    "stroke"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

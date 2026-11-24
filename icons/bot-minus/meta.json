@@ -1,0 +1,21 @@
+{
+  "name": "bot-minus",
+  "categories": [
+    "development",
+    "social",
+    "ai"
+  ],
+  "tags": [
+    "integration",
+    "deactivate",
+    "bot",
+    "ai",
+    "agent",
+    "remove"
+  ],
+  "aliases": [
+    "remove-bot",
+    "disable-agent"
+  ],
+  "deprecated": false
+}

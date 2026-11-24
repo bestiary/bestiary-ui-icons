@@ -1,0 +1,16 @@
+{
+  "name": "cup-soda",
+  "categories": [
+    "food-beverage"
+  ],
+  "tags": [
+    "beverage",
+    "cup",
+    "drink",
+    "soda",
+    "straw",
+    "water"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

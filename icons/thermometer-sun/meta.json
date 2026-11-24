@@ -1,0 +1,12 @@
+{
+  "name": "thermometer-sun",
+  "categories": [
+    "$extends:thermometer"
+  ],
+  "tags": [
+    "$extends:thermometer",
+    "warm",
+    "hot"
+  ],
+  "aliases": []
+}

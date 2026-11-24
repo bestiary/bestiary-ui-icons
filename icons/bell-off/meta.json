@@ -1,7 +1,12 @@
 {
   "name": "bell-off",
-  "categories": ["accounts"],
-  "tags": ["bell-off", "mute", "notifications-off", "silent", "unsubscribe"],
-  "aliases": ["notifications-off", "mute-bell"],
-  "deprecated": false
+  "categories": [
+    "notifications"
+  ],
+  "tags": [
+    "$extends:bell",
+    "$group:off",
+    "silent"
+  ],
+  "aliases": []
 }

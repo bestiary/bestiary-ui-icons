@@ -1,0 +1,17 @@
+{
+  "name": "screen-share-off",
+  "categories": [
+    "connectivity",
+    "devices",
+    "communication"
+  ],
+  "tags": [
+    "screen-share",
+    "off",
+    "disconnect",
+    "stop sharing",
+    "monitor"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

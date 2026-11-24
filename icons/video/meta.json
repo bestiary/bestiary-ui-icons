@@ -1,0 +1,19 @@
+{
+  "name": "video",
+  "categories": [
+    "devices",
+    "communication",
+    "photography",
+    "multimedia"
+  ],
+  "tags": [
+    "camera",
+    "movie",
+    "film",
+    "recording",
+    "camcorder",
+    "stream"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

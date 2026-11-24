@@ -1,0 +1,20 @@
+{
+  "name": "grid-3x3-off",
+  "categories": [
+    "text",
+    "layout",
+    "design"
+  ],
+  "tags": [
+    "grid-3x3",
+    "off",
+    "guides",
+    "snap",
+    "canvas",
+    "table"
+  ],
+  "aliases": [
+    "grid-3-x-3-off"
+  ],
+  "deprecated": false
+}

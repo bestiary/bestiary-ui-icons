@@ -1,0 +1,17 @@
+{
+  "name": "book-open",
+  "categories": [
+    "text",
+    "development",
+    "education"
+  ],
+  "tags": [
+    "book",
+    "open",
+    "pages",
+    "reading",
+    "documentation"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

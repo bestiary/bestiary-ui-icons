@@ -1,0 +1,15 @@
+{
+  "name": "banknote-x",
+  "categories": [
+    "$extends:banknote"
+  ],
+  "tags": [
+    "$extends:banknote",
+    "$group:x",
+    "rejected",
+    "declined",
+    "lost"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

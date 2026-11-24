@@ -1,0 +1,30 @@
+{
+  "name": "square-letter-p",
+  "categories": [
+    "letters-digits",
+    "transportation",
+    "navigation"
+  ],
+  "tags": [
+    "parking lot",
+    "car park",
+    "$group:letter",
+    "uppercase",
+    "parking",
+    "phosphorus",
+    "chemistry",
+    "p-value",
+    "statistics",
+    "piano",
+    "soft",
+    "music",
+    "page",
+    "probability",
+    "math"
+  ],
+  "aliases": [
+    "parking-square",
+    "square-parking"
+  ],
+  "deprecated": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "archive",
+  "categories": [
+    "files",
+    "mail"
+  ],
+  "tags": [
+    "index",
+    "backup",
+    "box",
+    "storage",
+    "records"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

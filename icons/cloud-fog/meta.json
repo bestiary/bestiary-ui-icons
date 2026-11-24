@@ -1,0 +1,11 @@
+{
+  "name": "cloud-fog",
+  "categories": [
+    "$extends:cloud"
+  ],
+  "tags": [
+    "$extends:cloud",
+    "mist"
+  ],
+  "aliases": []
+}

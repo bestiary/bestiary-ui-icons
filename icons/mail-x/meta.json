@@ -1,0 +1,12 @@
+{
+  "name": "mail-x",
+  "categories": [
+    "mail"
+  ],
+  "tags": [
+    "$extends:mail",
+    "$group:x"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

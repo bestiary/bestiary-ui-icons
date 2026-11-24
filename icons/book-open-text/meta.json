@@ -1,0 +1,17 @@
+{
+  "name": "book-open-text",
+  "categories": [
+    "text",
+    "development",
+    "education"
+  ],
+  "tags": [
+    "book-open",
+    "docs",
+    "wiki",
+    "knowledge base",
+    "manual"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "folder-bookmark",
+  "categories": [
+    "$extends:folder"
+  ],
+  "tags": [
+    "$extends:folder",
+    "folder",
+    "bookmark",
+    "file",
+    "mark",
+    "storage",
+    "archive",
+    "project",
+    "favorite",
+    "favourite",
+    "save",
+    "read later"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

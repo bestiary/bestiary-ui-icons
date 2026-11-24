@@ -1,6 +1,11 @@
 {
   "name": "search",
-  "categories": ["actions"],
-  "tags": ["search", "find", "magnifier", "lookup", "query"],
-  "aliases": ["magnifier", "find"]
+  "categories": [
+    "text"
+  ],
+  "tags": [
+    "$group:search",
+    "enlarge"
+  ],
+  "aliases": []
 }

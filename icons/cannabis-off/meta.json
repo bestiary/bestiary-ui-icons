@@ -1,0 +1,11 @@
+{
+  "name": "cannabis-off",
+  "categories": [
+    "$extends:cannabis"
+  ],
+  "tags": [
+    "$extends:cannabis",
+    "$group:off"
+  ],
+  "aliases": []
+}

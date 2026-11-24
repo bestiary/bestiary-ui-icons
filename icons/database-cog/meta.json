@@ -1,0 +1,16 @@
+{
+  "name": "database-cog",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "database",
+    "cog",
+    "settings",
+    "configuration",
+    "admin",
+    "sql"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

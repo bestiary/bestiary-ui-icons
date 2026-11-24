@@ -1,0 +1,11 @@
+{
+  "name": "indian-rupee",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "$group:currency"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

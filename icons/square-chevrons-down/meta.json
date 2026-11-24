@@ -1,0 +1,30 @@
+{
+  "name": "square-chevrons-down",
+  "categories": [
+    "arrows",
+    "navigation",
+    "multimedia"
+  ],
+  "tags": [
+    "bottom",
+    "descend",
+    "page",
+    "page down",
+    "scroll",
+    "jump",
+    "south",
+    "caret",
+    "button",
+    "keyboard",
+    "skip",
+    "end",
+    "pagination",
+    "fast",
+    "media"
+  ],
+  "aliases": [
+    "chevrons-down-square",
+    "square-page-down"
+  ],
+  "deprecated": false
+}

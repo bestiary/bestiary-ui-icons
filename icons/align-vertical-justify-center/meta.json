@@ -1,0 +1,16 @@
+{
+  "name": "align-vertical-justify-center",
+  "categories": [
+    "layout"
+  ],
+  "tags": [
+    "$group:position-center",
+    "items",
+    "flex",
+    "justify",
+    "distribute",
+    "between"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

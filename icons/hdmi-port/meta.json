@@ -1,0 +1,20 @@
+{
+  "name": "hdmi-port",
+  "categories": [
+    "devices",
+    "multimedia",
+    "connectivity"
+  ],
+  "tags": [
+    "hdmi",
+    "port",
+    "socket",
+    "plug",
+    "connector",
+    "video",
+    "audio",
+    "display"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

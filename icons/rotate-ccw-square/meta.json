@@ -1,0 +1,20 @@
+{
+  "name": "rotate-ccw-square",
+  "categories": [
+    "arrows",
+    "design",
+    "photography"
+  ],
+  "tags": [
+    "rotate",
+    "image",
+    "90",
+    "45",
+    "degrees"
+  ],
+  "aliases": [
+    "rotate-left-square",
+    "ccw-90"
+  ],
+  "deprecated": false
+}

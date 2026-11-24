@@ -1,0 +1,15 @@
+{
+  "name": "git-graph",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "graph",
+    "code",
+    "version control",
+    "commit graph",
+    "commits"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

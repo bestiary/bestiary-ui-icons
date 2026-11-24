@@ -1,0 +1,11 @@
+{
+  "name": "lamp-ceiling",
+  "categories": [
+    "$extends:lamp"
+  ],
+  "tags": [
+    "$extends:lamp"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

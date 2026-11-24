@@ -1,0 +1,14 @@
+{
+  "name": "image-up",
+  "categories": [
+    "$extends:image"
+  ],
+  "tags": [
+    "$extends:image",
+    "$group:direction-up",
+    "upload",
+    "import"
+  ],
+  "aliases": [],
+  "deprecated": false
+}

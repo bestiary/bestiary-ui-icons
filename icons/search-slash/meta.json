@@ -1,0 +1,15 @@
+{
+  "name": "search-slash",
+  "categories": [
+    "$extends:search"
+  ],
+  "tags": [
+    "$extends:search",
+    "stop",
+    "clear",
+    "cancel",
+    "abort",
+    "/"
+  ],
+  "aliases": []
+}
